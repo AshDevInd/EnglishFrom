@@ -1,0 +1,196 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+        @import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Comforter&family=Gasoek+One&family=Oi&family=Sigmar&display=swap');
+        @import url('https://fonts.googleapis.com/css2?family=Anton+SC&display=swap');
+        @import url('https://fonts.googleapis.com/css2?family=Grand+Hotel&display=swap');
+        @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+        @import url('https://fonts.googleapis.com/css2?family=Belanosima&family=Rubik+Vinyl&display=swap');
+        @import url('https://fonts.googleapis.com/css2?family=Grand+Hotel&display=swap');
+        @import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+
+        html
+        {
+            scroll-behavior: smooth;
+        }
+        body
+        {
+         
+            background-color: pink;
+            
+        }
+.navbar
+{
+   background-color: #4b0082;
+   /* backdrop-filter: blur(20px); */
+}
+.navbar-brand img{
+    height:60px;
+    float:left;
+    margin-right:10px;
+}
+.nav-link{color:#fff;cursor:pointer;}
+.nav-item{margin:0 20px;}
+.navbar-brand .site-title p{
+font-size:18px;margin:0;color:#fff;
+}
+.navbar-brand .site-title h3
+{margin: 0;
+   
+    font-size:20px;
+    color: #fff;
+}
+.dropdown-menu{
+    z-index: 99;
+}
+#owl-demo .item{
+    background-size: cover;
+    background-position: top center;
+}
+#owl-demo .item-in{
+  background-color: rgba(0,0,0,0.6);
+  text-align: center;
+  color:#fff;
+  padding:200px 0;
+}
+.bottom_links{
+    background-color: #fcd7f1;
+	/* background-color:#4b0082; */
+   /* backdrop-filter: blur(20px); */
+    list-style: none;
+    text-align: center;
+    border-top 
+    :1px solid rgba(204, 204, 204, 0.651);
+    margin-bottom: 0 !important;
+}
+.bottom_links li{
+    display: inline-block;
+    padding: 8px 15px;
+}
+.bottom_links li a{
+    color: #043bf9;
+    /* text-decoration: none; */
+}
+.banner_bg{
+    background-color: #4b0082;
+     background-color: #CBC3E3;
+   /*backdrop-filter: blur(20px); */
+   text-align: left;
+   
+}
+.banner_sec h1, .banner_sec h2, .banner_sec h3{
+    color: #fcdae8;
+    color: #4B0082;
+}
+.banner_sec h1{
+    margin-bottom: 25px;
+    font-size:36px;
+    line-height: 35px;
+}
+.banner_sec h3{font-size:18px;}
+    .banner_sec h2{
+    margin-bottom: 25px;
+    font-size:22px;
+}
+.banner_sec{
+    position: relative;
+     text-align: center; 
+    padding: 100px 30px;
+    background-size: cover;
+    z-index:9999;
+}
+@media(max-with:800px){
+    .banner_sec{
+        padding: 80px 0px;
+    }
+}
+.owl-dots{display:none;}
+.bg-purple{background-color:#4B0082;}
+/* .banner_sec:before{ */
+    /* content: ""; */
+    /* width:100%; */
+    /* height: 100%; */
+    /* top: 0; */
+    /* left: 0; */
+    /* background:rgba(0,0,0,.6); */
+    /* display: block; */
+    /* position: absolute; */
+    /* z-index:-1; */
+/* } */
+img{
+    max-width: 100% !important;
+}
+.ptb-60{
+    padding: 60px 0;
+}
+.heading
+{
+    font-size: 22px;
+    font-weight: 700;
+    color: #4b0082;
+}
+.services_section .servi1{
+    box-shadow:  0 0  6px rgba(0,0,0,0.3);
+    margin-bottom: 30px;
+
+}
+.services_section .servi1 h3{
+    padding: 10px 20px 0 20px ;
+    font-size: 22px;
+    color: #4b0082;
+
+}
+.services_section .servi1 p{
+    padding: 0px 20px 0px 20px ;
+}
+.services_section .servi1 .btn_custom{
+    padding: 5px 15px;
+    color: #fff;
+    background-color: #4b0082;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+.heading_text{
+    font-size: 30px;
+    color: #4b0082;
+    font-weight: 700;
+}
+.cta_section{
+    
+    padding: 50px 0;
+    background-color: #4b0082;
+}
+.cta_cont{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #fff;
+}
+.owl-prev {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 40%;
+    left: 20px;
+    display: block !important;
+    border:0px solid black;
+}
+.owl-prev span{
+    
+    font-size: 50px;
+    
+    color: #fff;
+}
+
+.owl-next  {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 40%;
+    right: 20px;
+    display: block !important;
+    border:0px solid black;
+}
+.owl-next span{
+    
+    font-size: 50px;
+    color: #fff;
+}

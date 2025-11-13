@@ -1,0 +1,25365 @@
+
+<div class="p-4 bg-purple text-white text-center">
+  <!-- <a href="javascript:;">Englishfrom</a> -->
+  <p>&copy COPYRIGHT 2024-2025. <a href="javascript:;" class="text-white text-uppercase">Hindi2.com</a></p>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable modal-xl">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Khmer Script</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        
+
+<div class="ritz grid-container" dir="ltr">
+    <table class="waffle" cellspacing="0" cellpadding="0">
+     
+        <tbody>
+            <tr style="height: 20px">
+              
+                <td class="s0"> </td>
+                <td class="s0"></td>
+                <td class="s1">script</td>
+                <td class="s1">script</td>
+                <td class="s1">script</td>
+                <td class="s1">script</td>
+                <td class="s2">audio</td>
+                <td class="s0">English Alphabet</td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2">audio</td>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+                <td class="s5 softmerge" dir="ltr">
+                    <div class="softmerge-inner" style="width:198px;left:-1px">Khmer script (dropdown)</div>
+                </td>
+                <td class="s6"></td>
+                <td class="s7 softmerge" dir="ltr">
+                    <div class="softmerge-inner" style="width:238px;left:-1px">Khmer script (dropdown)</div>
+                </td>
+                <td class="s6"></td>
+                <td class="s8"></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s9">sound #</td>
+                <td class="s9">combination</td>
+                <td class="s10">Khmer</td>
+                <td class="s10">Devanagari</td>
+                <td class="s10">Roman</td>
+                <td class="s10">IPA</td>
+                <td class="s2"></td>
+                <td class="s0">Vowels</td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td class="s11" dir="ltr">consonants</td>
+                <td class="s12" dir="ltr">if consonants </td>
+                <td class="s11" dir="ltr">consonants</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s3">1) </td>
+                <td class="s3">aw</td>
+                <td class="s13"> ក </td>
+                <td class="s13">गॉ</td>
+                <td class="s13">gaw</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0">English Roman</td>
+                <td class="s3">Hindi Roman</td>
+                <td class="s4">Word</td>
+                <td class="s0">M.Devanagari</td>
+                <td class="s3">M. Khmer</td>
+                <td class="s4">IPA</td>
+                <td class="s2"></td>
+                <td></td>
+                <td class="s14" dir="ltr">vowels</td>
+                <td></td>
+                <td class="s11" dir="ltr">aw</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s3">2) </td>
+                <td class="s3">aw</td>
+                <td class="s13">ខ </td>
+                <td class="s13">कॉ </td>
+                <td class="s13">kaw</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0">a</td>
+                <td class="s3">a</td>
+                <td class="s4">above (luck?)</td>
+                <td class="s0">अ</td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td class="s4" dir="ltr">exceptions</td>
+                <td></td>
+                <td class="s11" dir="ltr">o</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s3">6) </td>
+                <td class="s3">aw</td>
+                <td class="s13">ច </td>
+                <td class="s13">जॉ</td>
+                <td class="s13">jaw</td>
+                <td class="s13" dir="ltr"></td>
+                <td class="s2"></td>
+                <td class="s0">a</td>
+                <td class="s3">aa</td>
+                <td class="s4">father</td>
+                <td class="s0">आ</td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td class="s14" dir="ltr">vowels</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s3">7) </td>
+                <td class="s3">aw</td>
+                <td class="s13">ឆ</td>
+                <td class="s13">छॉ </td>
+                <td class="s13">chaw</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0">a</td>
+                <td class="s3">ai </td>
+                <td class="s4">cat</td>
+                <td class="s0">ऐ</td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td class="s4" dir="ltr">exceptions</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s3">11)</td>
+                <td class="s3">aw</td>
+                <td class="s13">ដ </td>
+                <td class="s13">डॉ </td>
+                <td class="s13">daw</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0">a</td>
+                <td class="s3">aw</td>
+                <td class="s4">saw</td>
+                <td class="s0">ऑ</td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+             
+                <td class="s3">12) </td>
+                <td class="s3">aw</td>
+                <td class="s13">ឋ </td>
+                <td class="s13">थॉ </td>
+                <td class="s13">taw</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0">a</td>
+                <td class="s3">e </td>
+                <td class="s4">make</td>
+                <td class="s0">ए</td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td class="s5 softmerge" dir="ltr">
+                    <div class="softmerge-inner" style="width:198px;left:-1px">Khmer script (dropdown)</div>
+                </td>
+                <td class="s6"></td>
+                <td class="s7 softmerge" dir="ltr">
+                    <div class="softmerge-inner" style="width:238px;left:-1px">Khmer script (dropdown)</div>
+                </td>
+                <td class="s6"></td>
+                <td class="s8"></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s3">15) </td>
+                <td class="s3">aw</td>
+                <td class="s13">ណ </td>
+                <td class="s13">नॉ </td>
+                <td class="s13">naw</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0">e</td>
+                <td class="s3">ai (MD)</td>
+                <td class="s4">bed</td>
+                <td class="s16">ऐ</td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td class="s11" dir="ltr">consonants</td>
+                <td></td>
+                <td class="s11" dir="ltr">consonants</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s3">16)</td>
+                <td class="s3">aw</td>
+                <td class="s13">ត</td>
+                <td class="s13">तॉ </td>
+                <td class="s13">taw</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0">e(r)</td>
+                <td class="s3">rn (MD)</td>
+                <td class="s4">learn</td>
+                <td class="s16">ऱ</td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td class="s14" dir="ltr">vowels</td>
+                <td class="s17" dir="ltr">if vowels</td>
+                <td class="s14" dir="ltr">vowels</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s3">17) </td>
+                <td class="s3">aw</td>
+                <td class="s13">ថ </td>
+                <td class="s13">थॉ </td>
+                <td class="s13">taw</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0">e</td>
+                <td class="s3">ii </td>
+                <td class="s4">peace</td>
+                <td class="s0">ई</td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td class="s4" dir="ltr">exceptions</td>
+                <td></td>
+                <td class="s14" dir="ltr">34-37 ា ិ</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+            
+                <td class="s3">21)</td>
+                <td class="s3">aw</td>
+                <td class="s13"> ប </td>
+                <td class="s13">बॉ </td>
+                <td class="s13">baw</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0">i</td>
+                <td class="s3">i</td>
+                <td class="s4">big</td>
+                <td class="s0">इ</td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td class="s14" dir="ltr">38-41 ី ឹ</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+          
+                <td class="s3">22)</td>
+                <td class="s3">aw</td>
+                <td class="s13">ផ</td>
+                <td class="s13">पॉ </td>
+                <td class="s13">paw</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0">i</td>
+                <td class="s3">ai (MD2)</td>
+                <td class="s4">my</td>
+                <td class="s16">अी </td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td class="s14" dir="ltr">42-45 ឺ ុ</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+             
+                <td class="s3">30)</td>
+                <td class="s3">aw</td>
+                <td class="s13"> ស </td>
+                <td class="s13">सॉ</td>
+                <td class="s13">saw</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0">o</td>
+                <td class="s3">o</td>
+                <td class="s4">go</td>
+                <td class="s0">ओ</td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td class="s14" dir="ltr">46-49 ូ ួ</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+            
+                <td class="s3">31) </td>
+                <td class="s3">aw</td>
+                <td class="s13"> ហ</td>
+                <td class="s13">हॉ</td>
+                <td class="s13">haw</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0">o(w)</td>
+                <td class="s3">ow</td>
+                <td class="s4">cow</td>
+                <td class="s0">औ</td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td class="s14" dir="ltr">50-51 ើ, 78-79 េា</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+             
+                <td class="s3">32) </td>
+                <td class="s3">aw</td>
+                <td class="s13">ឡ </td>
+                <td class="s13">लॉ </td>
+                <td class="s13">law</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0">o(y)</td>
+                <td class="s3">oi (MD)</td>
+                <td class="s4">boy</td>
+                <td class="s16">ओई</td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td class="s14" dir="ltr">52-57 ឿ ៀ េ</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+             
+                <td class="s3">33) </td>
+                <td class="s3">aw</td>
+                <td class="s13">អ</td>
+                <td class="s13">आॉ</td>
+                <td class="s13">aww</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0">o</td>
+                <td class="s3">u</td>
+                <td class="s4">book</td>
+                <td class="s0">उ</td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td class="s14" dir="ltr">58-61 ែ ៃ</td>
+                <td></td>
+                <td class="s18" dir="ltr"> </td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s4">3) </td>
+                <td class="s4">o</td>
+                <td class="s19">គ </td>
+                <td class="s19">गो् </td>
+                <td class="s19">go</td>
+                <td class="s19" dir="ltr"></td>
+                <td class="s2" dir="ltr"></td>
+                <td class="s0">u</td>
+                <td class="s3">aa (MD)</td>
+                <td class="s4">mud</td>
+                <td class="s16">आं</td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td class="s14" dir="ltr">62-65. ោ ៅ</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s4">4) </td>
+                <td class="s4">o</td>
+                <td class="s19">ឃ </td>
+                <td class="s19">खो </td>
+                <td class="s19">ko</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0">u</td>
+                <td class="s3">yu (MD)</td>
+                <td class="s4">view</td>
+                <td class="s16">यऊ</td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td class="s14" dir="ltr">66-69 ុំ ំ</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s4">5)</td>
+                <td class="s4">o</td>
+                <td class="s19">ង </td>
+                <td class="s19">ञोा</td>
+                <td class="s19">ngo</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0">u</td>
+                <td class="s3">u</td>
+                <td class="s4">shoe</td>
+                <td class="s0">ऊ</td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td class="s14" dir="ltr">70-73 ាំ. ះ</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s4">8)</td>
+                <td class="s4">o</td>
+                <td class="s19">ជ</td>
+                <td class="s19">जो </td>
+                <td class="s19">jo</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0">u, (ri)</td>
+                <td class="s3">an (MD)</td>
+                <td class="s4">hungry</td>
+                <td class="s16">अः </td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td class="s14" dir="ltr">74-77 ុះ េះ</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+             
+                <td class="s4">9) </td>
+                <td class="s4">o</td>
+                <td class="s19">ឈ </td>
+                <td class="s19">छो </td>
+                <td class="s19">cho</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0">a(ng) (ri)</td>
+                <td class="s3">en (MD)</td>
+                <td class="s4">angry</td>
+                <td class="s16">एं</td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td class="s4" dir="ltr">exceptions</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s4">10)</td>
+                <td class="s4">o</td>
+                <td class="s19">ញ </td>
+                <td class="s19">नो</td>
+                <td class="s19">nyo</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0">ry</td>
+                <td class="s3">ri</td>
+                <td class="s4">angry/hungry </td>
+                <td class="s0">ऋ री</td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s4">13)</td>
+                <td class="s4">o</td>
+                <td class="s19">ឌ</td>
+                <td class="s19">डो</td>
+                <td class="s19">doe</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td class="s5 softmerge" dir="ltr">
+                    <div class="softmerge-inner" style="width:198px;left:-1px">Khmer script (dropdown)</div>
+                </td>
+                <td class="s6"></td>
+                <td class="s7 softmerge" dir="ltr">
+                    <div class="softmerge-inner" style="width:238px;left:-1px">Khmer script (dropdown)</div>
+                </td>
+                <td class="s6"></td>
+                <td class="s8"></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s4">14) </td>
+                <td class="s4">o</td>
+                <td class="s19">ឍ </td>
+                <td class="s19">थो् </td>
+                <td class="s19">toe</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0">y</td>
+                <td class="s3"></td>
+                <td class="s4">try</td>
+                <td class="s0">य </td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td class="s11" dir="ltr">consonants</td>
+                <td></td>
+                <td class="s11" dir="ltr">consonants</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s4">18) </td>
+                <td class="s4">o</td>
+                <td class="s19">ទ </td>
+                <td class="s19">तो् </td>
+                <td class="s19">toe</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0">Consonants</td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td class="s14" dir="ltr">vowels</td>
+                <td></td>
+                <td class="s14" dir="ltr">vowels</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+             
+                <td class="s4">19) </td>
+                <td class="s4">o</td>
+                <td class="s19">ធ</td>
+                <td class="s19">थो् </td>
+                <td class="s19">toe</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0">b</td>
+                <td class="s3">c</td>
+                <td class="s4">born</td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td class="s4" dir="ltr">exceptions</td>
+                <td class="s20" dir="ltr">if exceptions</td>
+                <td class="s4" dir="ltr">exceptions</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+             
+                <td class="s4">20) </td>
+                <td class="s4">o</td>
+                <td class="s19">ន</td>
+                <td class="s19"> नो </td>
+                <td class="s19">no</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0">c </td>
+                <td class="s3">k</td>
+                <td class="s4">cat </td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td class="s4" dir="ltr">80-81 ង៉ ញ៉</td>
+                <td class="s18" dir="ltr"></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s4">23) </td>
+                <td class="s4">o</td>
+                <td class="s19">ព </td>
+                <td class="s19">पो</td>
+                <td class="s19">poe</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0">ch</td>
+                <td class="s3"></td>
+                <td class="s4">cheese</td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td class="s4" dir="ltr">82-83 ម៉ យ៉</td>
+                <td class="s18" dir="ltr"></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+           
+                <td class="s4">24) </td>
+                <td class="s4">o</td>
+                <td class="s19">ភ</td>
+                <td class="s19">फ़ो </td>
+                <td class="s19">ph_o</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0">d</td>
+                <td class="s3">d</td>
+                <td class="s4">dog</td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td class="s4" dir="ltr">84-85 រ៉ វ៉</td>
+                <td class="s18" dir="ltr"></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+             
+                <td class="s4">25) </td>
+                <td class="s4">o</td>
+                <td class="s19">ម </td>
+                <td class="s19">मो </td>
+                <td class="s19">mow</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0">f</td>
+                <td class="s3">f</td>
+                <td class="s4">fan</td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td class="s4" dir="ltr">86 ប៉ +IV</td>
+                <td class="s18" dir="ltr"></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+            
+                <td class="s4">26) </td>
+                <td class="s4">o</td>
+                <td class="s19">យ </td>
+                <td class="s19">यो </td>
+                <td class="s19">yo</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0">g</td>
+                <td class="s3">g</td>
+                <td class="s4">game</td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td class="s4" dir="ltr">87-88 ប៊ ស៊</td>
+                <td class="s18" dir="ltr"></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+            
+                <td class="s4">27)</td>
+                <td class="s4">o</td>
+                <td class="s19"> រ </td>
+                <td class="s19">रो </td>
+                <td class="s19">row</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0">h</td>
+                <td class="s3">h</td>
+                <td class="s4">hat</td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td class="s4" dir="ltr">89-90 ហ៊ អ៊</td>
+                <td class="s18" dir="ltr"></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+            
+                <td class="s4">28)</td>
+                <td class="s4">o</td>
+                <td class="s19"> ល </td>
+                <td class="s19">लो </td>
+                <td class="s19">low</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0">j</td>
+                <td class="s3">j</td>
+                <td class="s4">jump</td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+             
+                <td class="s4">29)</td>
+                <td class="s4">o</td>
+                <td class="s19"> វ </td>
+                <td class="s19">वो </td>
+                <td class="s19">vo</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0">s</td>
+                <td class="s3">j</td>
+                <td class="s4">fusion</td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s0">Number</td>
+                <td class="s0">Combination</td>
+                <td class="s1">script</td>
+                <td class="s1">script</td>
+                <td class="s1">script</td>
+                <td class="s1" dir="ltr"></td>
+                <td class="s2"></td>
+                <td class="s0">sh</td>
+                <td class="s3"></td>
+                <td class="s4">shop</td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s9">34/35 </td>
+                <td class="s9" dir="ltr">ា Vowel</td>
+                <td class="s10">Khmer</td>
+                <td class="s10">Devanagari</td>
+                <td class="s10">Roman</td>
+                <td class="s10">IPA</td>
+                <td class="s2"></td>
+                <td class="s0">k</td>
+                <td class="s3">k</td>
+                <td class="s4">kite</td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+            
+                <td class="s3">34) ា</td>
+                <td class="s3">(1 + 34) (ក + ា) =</td>
+                <td class="s13">កា</td>
+                <td class="s13">गा</td>
+                <td class="s13">gaa</td>
+                <td class="s13">aː</td>
+                <td class="s2"></td>
+                <td class="s0">l</td>
+                <td class="s3">l</td>
+                <td class="s4">love</td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+             
+                <td class="s3">34) ា</td>
+                <td class="s3">(2 + 34) (ខ + ា )=</td>
+                <td class="s13">ខា</td>
+                <td class="s13">का</td>
+                <td class="s13">kaa</td>
+                <td class="s13">aː</td>
+                <td class="s2"></td>
+                <td class="s0">m</td>
+                <td class="s3">m</td>
+                <td class="s4">make</td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s3">34) ា</td>
+                <td class="s3">(6 + 34) ( ច + ា) =</td>
+                <td class="s13">ចា</td>
+                <td class="s13">जा</td>
+                <td class="s13">jaa</td>
+                <td class="s13">aː</td>
+                <td class="s2"></td>
+                <td class="s0">n</td>
+                <td class="s3">n</td>
+                <td class="s4">nail</td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s3">34) ា</td>
+                <td class="s3">(7 + 34) ( ឆ + ា) =</td>
+                <td class="s13">ឆា</td>
+                <td class="s13">छा</td>
+                <td class="s13">chhaa</td>
+                <td class="s13">aː</td>
+                <td class="s2"></td>
+                <td class="s0">ni</td>
+                <td class="s3"></td>
+                <td class="s4">onion</td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s3">34) ា</td>
+                <td class="s3">(11 + 34) ( ដ + ា) =</td>
+                <td class="s13">ដា</td>
+                <td class="s13">डा</td>
+                <td class="s13">daa</td>
+                <td class="s13">aː</td>
+                <td class="s2"></td>
+                <td class="s0">ng</td>
+                <td class="s3"></td>
+                <td class="s4">sing</td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s3">34) ា</td>
+                <td class="s3">(12 + 34) ( ឋ + ា) =</td>
+                <td class="s13">ឋា</td>
+                <td class="s13">था</td>
+                <td class="s13">thaa</td>
+                <td class="s13">aː</td>
+                <td class="s2"></td>
+                <td class="s0">p</td>
+                <td class="s3">p</td>
+                <td class="s4">pink</td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s3">34) ា</td>
+                <td class="s3">(15 + 34) ( ណ + ា) =</td>
+                <td class="s13">ណា</td>
+                <td class="s13">ना</td>
+                <td class="s13">naa</td>
+                <td class="s13">aː</td>
+                <td class="s2"></td>
+                <td class="s0">q (kw)</td>
+                <td class="s3"></td>
+                <td class="s4">quick</td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s3">34) ា</td>
+                <td class="s3">(16 + 34) (ត + ា) =</td>
+                <td class="s13">តា</td>
+                <td class="s13">ता</td>
+                <td class="s13">taa</td>
+                <td class="s13">aː</td>
+                <td class="s2"></td>
+                <td class="s0">r </td>
+                <td class="s3">r</td>
+                <td class="s4">rest</td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+             
+                <td class="s3">34) ា</td>
+                <td class="s3">(17 + 34) ( ថ + ា) =</td>
+                <td class="s13">ថា</td>
+                <td class="s13">था</td>
+                <td class="s13">thaa</td>
+                <td class="s13">aː</td>
+                <td class="s2"></td>
+                <td class="s0">s</td>
+                <td class="s3">s</td>
+                <td class="s4">send</td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s3">34) ា</td>
+                <td class="s3">(21 + 34) ( ប + ា) =</td>
+                <td class="s13">បា</td>
+                <td class="s13">बा</td>
+                <td class="s13">baa</td>
+                <td class="s13">aː</td>
+                <td class="s2"></td>
+                <td class="s0">t</td>
+                <td class="s3">t</td>
+                <td class="s4">table</td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s3">34) ា</td>
+                <td class="s3">(22 + 34) ( ផ + ា) =</td>
+                <td class="s13">ផា</td>
+                <td class="s13">हा</td>
+                <td class="s13">haa</td>
+                <td class="s13">aː</td>
+                <td class="s2"></td>
+                <td class="s0">t</td>
+                <td class="s3">t</td>
+                <td class="s4">talk</td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s3">34) ា</td>
+                <td class="s3">(30 +34) ( ស + ា) =</td>
+                <td class="s13">សា</td>
+                <td class="s13">सा</td>
+                <td class="s13">saa</td>
+                <td class="s13">aː</td>
+                <td class="s2"></td>
+                <td class="s0">th</td>
+                <td class="s3"></td>
+                <td class="s4">then</td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+           
+                <td class="s3">34) ា</td>
+                <td class="s3">(31 + 34) ( ហ + ា) =</td>
+                <td class="s13">ហា</td>
+                <td class="s13">हा</td>
+                <td class="s13">haa</td>
+                <td class="s13">aː</td>
+                <td class="s2"></td>
+                <td class="s0">th</td>
+                <td class="s3"></td>
+                <td class="s4">think</td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s3">34) ា</td>
+                <td class="s3">(32 + 34) (ឡ + ា) =</td>
+                <td class="s13">ឡា</td>
+                <td class="s13">ला</td>
+                <td class="s13">laa</td>
+                <td class="s13">aː</td>
+                <td class="s2"></td>
+                <td class="s0">ts</td>
+                <td class="s3"></td>
+                <td class="s4">cats</td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s3">34) ា</td>
+                <td class="s3">(33 + 34) ( អ + ា) =</td>
+                <td class="s13">អា</td>
+                <td class="s13">आ</td>
+                <td class="s13">aa</td>
+                <td class="s13">aː</td>
+                <td class="s2"></td>
+                <td class="s0">v </td>
+                <td class="s3">v</td>
+                <td class="s4">voice</td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s4">35) ា</td>
+                <td class="s4">(3 + 35) (គ + ា) =</td>
+                <td class="s19">គា</td>
+                <td class="s19">गीय</td>
+                <td class="s19">geey</td>
+                <td class="s19">iə</td>
+                <td class="s2"></td>
+                <td class="s0">w</td>
+                <td class="s3">w</td>
+                <td class="s4">went</td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s4">35) ា</td>
+                <td class="s4">(4 + 35) (ឃ + ា) =</td>
+                <td class="s19">ឃា</td>
+                <td class="s19">खीय</td>
+                <td class="s19">kheey</td>
+                <td class="s19">iə</td>
+                <td class="s2"></td>
+                <td class="s0">x</td>
+                <td class="s3">ks</td>
+                <td class="s4">tax</td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s4">35) ា</td>
+                <td class="s4">(5 +35) (ង + ា) =</td>
+                <td class="s19">ងា</td>
+                <td class="s19">ञीय</td>
+                <td class="s19">nyeey</td>
+                <td class="s19">iə</td>
+                <td class="s2"></td>
+                <td class="s0">x</td>
+                <td class="s3">gx</td>
+                <td class="s4">exist</td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s4">35) ា</td>
+                <td class="s4">(8 + 35) (ជ + ា) =</td>
+                <td class="s19">ជា</td>
+                <td class="s19">जीय</td>
+                <td class="s19">jeey</td>
+                <td class="s19">iə</td>
+                <td class="s2"></td>
+                <td class="s0">y</td>
+                <td class="s3">y</td>
+                <td class="s4">yes</td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s4">35) ា</td>
+                <td class="s4">(9 + 35) ( ឈ + ា) =</td>
+                <td class="s19">ឈា</td>
+                <td class="s19">छीय</td>
+                <td class="s19">chheey</td>
+                <td class="s19">iə</td>
+                <td class="s2"></td>
+                <td class="s0">z</td>
+                <td class="s3">z</td>
+                <td class="s4">zebra</td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s4">35) ា</td>
+                <td class="s4">(10 + 35) ( ញ + ា) =</td>
+                <td class="s19">ញា</td>
+                <td class="s19">नीय</td>
+                <td class="s19">neey</td>
+                <td class="s19">iə</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s4">35) ា</td>
+                <td class="s4">(13 + 35) ( ឌ+ ា) =</td>
+                <td class="s19">ឌា</td>
+                <td class="s19">धीय</td>
+                <td class="s19">dheey</td>
+                <td class="s19">iə</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+             
+                <td class="s4">35) ា</td>
+                <td class="s4">(14 + 35) ( ឍ + ា) =</td>
+                <td class="s19">ឍា</td>
+                <td class="s19">थीय</td>
+                <td class="s19">theey</td>
+                <td class="s19">iə</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s4">35) ា</td>
+                <td class="s4">(18 +35) ( ទ + ា) =</td>
+                <td class="s19">ទា</td>
+                <td class="s19">तीय</td>
+                <td class="s19">teey</td>
+                <td class="s19">iə</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s4">35) ា</td>
+                <td class="s4">(19 + 35) ( ធ + ា) =</td>
+                <td class="s19">ធា</td>
+                <td class="s19">थीय</td>
+                <td class="s19">theey</td>
+                <td class="s19">iə</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s4">35) ា</td>
+                <td class="s4">(20 + 35) ( ន + ា) =</td>
+                <td class="s19">នា</td>
+                <td class="s19">नीय</td>
+                <td class="s19">neey</td>
+                <td class="s19">iə</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s4">35) ា</td>
+                <td class="s4">(23 + 35) ( ព + ា) =</td>
+                <td class="s19">ពា</td>
+                <td class="s19">पीय</td>
+                <td class="s19">peey</td>
+                <td class="s19">iə</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s4">35) ា</td>
+                <td class="s4">(24 + 35) ( ភ + ា) =</td>
+                <td class="s19">ភា</td>
+                <td class="s19">फीय</td>
+                <td class="s19">pheey</td>
+                <td class="s19">iə</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s4">35) ា</td>
+                <td class="s4">(25 + 35) (ម + ា) =</td>
+                <td class="s19">មា</td>
+                <td class="s19">मीय</td>
+                <td class="s19">meey</td>
+                <td class="s19">iə</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s4">35) ា</td>
+                <td class="s4">(26 + 35) ( យ+ ា) =</td>
+                <td class="s19">យា</td>
+                <td class="s19">यीय</td>
+                <td class="s19">yeey</td>
+                <td class="s19">iə</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s4">35) ា</td>
+                <td class="s4">(27 + 35) ( រ + ា) =</td>
+                <td class="s19">រា</td>
+                <td class="s19">रीय</td>
+                <td class="s19">reey</td>
+                <td class="s19">iə</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s4">35) ា</td>
+                <td class="s4">(28 + 35) ( ល + ា) =</td>
+                <td class="s19">លា</td>
+                <td class="s19">लीय</td>
+                <td class="s19">leey</td>
+                <td class="s19">iə</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s4">35) ា</td>
+                <td class="s4">(29 + 35) ( វ + ា) =</td>
+                <td class="s19">វា</td>
+                <td class="s19">वीय</td>
+                <td class="s19">veey</td>
+                <td class="s19">iə</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s9">36/37</td>
+                <td class="s9" dir="ltr">ិ Vowel</td>
+                <td class="s10">Khmer</td>
+                <td class="s10">Devanagari</td>
+                <td class="s10">Roman</td>
+                <td class="s10">IPA</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s3">36) ិ</td>
+                <td class="s3">(1 + 36) (ក + ិ) =</td>
+                <td class="s13">កិ</td>
+                <td class="s13">गै</td>
+                <td class="s13">gai</td>
+                <td class="s13">i</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s3">36) ិ</td>
+                <td class="s3">(2 + 36) ( ខ + ិ) =</td>
+                <td class="s13">ខិ</td>
+                <td class="s13">कै</td>
+                <td class="s13">kai</td>
+                <td class="s13">i</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s3">36) ិ</td>
+                <td class="s3">(6 + 36) ( ច + ិ) =</td>
+                <td class="s13">ចិ</td>
+                <td class="s13">जै</td>
+                <td class="s13">jai</td>
+                <td class="s13">i</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s3">36) ិ</td>
+                <td class="s3">(7 + 36) ( ឆ + ិ) =</td>
+                <td class="s13">ឆិ</td>
+                <td class="s13">छै</td>
+                <td class="s13">chai</td>
+                <td class="s13">i</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s3">36) ិ</td>
+                <td class="s3">(11 + 36) (ដ + ិ) =</td>
+                <td class="s13">ដិ</td>
+                <td class="s13">डै</td>
+                <td class="s13">dai</td>
+                <td class="s13">i</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s3">36) ិ</td>
+                <td class="s3">(12 + 36) (ឋ + ិ) =</td>
+                <td class="s13">ឋិ</td>
+                <td class="s13">थै</td>
+                <td class="s13">thai</td>
+                <td class="s13">i</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+            
+                <td class="s3">36) ិ</td>
+                <td class="s3">(15 + 36) ( ណ + ិ) =</td>
+                <td class="s13">ណិ</td>
+                <td class="s13">नै</td>
+                <td class="s13">nai</td>
+                <td class="s13">i</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+             
+                <td class="s3">36) ិ</td>
+                <td class="s3">(16 + 36) ( ត + ិ) =</td>
+                <td class="s13">តិ</td>
+                <td class="s13">तै</td>
+                <td class="s13">tai</td>
+                <td class="s13">i</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s3">36) ិ</td>
+                <td class="s3">(17 + 36) (ថ + ិ) =</td>
+                <td class="s13">ថិ</td>
+                <td class="s13">थै</td>
+                <td class="s13">thai</td>
+                <td class="s13">i</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s3">36) ិ</td>
+                <td class="s3">(21 + 36) (ប + ិ) =</td>
+                <td class="s13">បិ</td>
+                <td class="s13">बै</td>
+                <td class="s13">bai</td>
+                <td class="s13">i</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s3">36) ិ</td>
+                <td class="s3">(22 + 36) (ផ + ិ) =</td>
+                <td class="s13">ផិ</td>
+                <td class="s13">है</td>
+                <td class="s13">hai</td>
+                <td class="s13">i</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s3">36) ិ</td>
+                <td class="s3">(30 +36) (ស + ិ) =</td>
+                <td class="s13">សិ</td>
+                <td class="s13">सै</td>
+                <td class="s13">sai</td>
+                <td class="s13">i</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s3">36) ិ</td>
+                <td class="s3">(31 + 36) (ហ + ិ) =</td>
+                <td class="s13">ហិ</td>
+                <td class="s13">है</td>
+                <td class="s13">hai</td>
+                <td class="s13">i</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s3">36) ិ</td>
+                <td class="s3">(32 + 36) (ឡ + ិ) =</td>
+                <td class="s13">ឡិ</td>
+                <td class="s13">लै</td>
+                <td class="s13">lai</td>
+                <td class="s13">i</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s3">36) ិ</td>
+                <td class="s3">(33 + 36) (អ + ិ) =</td>
+                <td class="s13">អិ</td>
+                <td class="s13">ऐ</td>
+                <td class="s13">ai</td>
+                <td class="s13">i</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s4">37) ិ</td>
+                <td class="s4">(3 + 37) (គ + ិ) =</td>
+                <td class="s19">គិ</td>
+                <td class="s19">गी</td>
+                <td class="s19">gee</td>
+                <td class="s19">e</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s4">37) ិ</td>
+                <td class="s4">(4 + 37) (ឃ + ិ) =</td>
+                <td class="s19">ឃិ</td>
+                <td class="s19">खी</td>
+                <td class="s19">khee</td>
+                <td class="s19">e</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s4">37) ិ</td>
+                <td class="s4">(5 + 37) (ង + ិ) =</td>
+                <td class="s19">ងិ</td>
+                <td class="s19">ञी</td>
+                <td class="s19">nyee</td>
+                <td class="s19">e</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s4">37) ិ</td>
+                <td class="s4">(8 + 37) (ជ + ិ) =</td>
+                <td class="s19">ជិ</td>
+                <td class="s19">जी</td>
+                <td class="s19">jee</td>
+                <td class="s19">e</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s4">37) ិ</td>
+                <td class="s4">(9 + 37) (ឈ + ិ) =</td>
+                <td class="s19">ឈិ</td>
+                <td class="s19">छी</td>
+                <td class="s19">chhee</td>
+                <td class="s19">e</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s4">37) ិ</td>
+                <td class="s4">(10 + 37) (ញ + ិ) =</td>
+                <td class="s19">ញិ</td>
+                <td class="s19">नी</td>
+                <td class="s19">nee</td>
+                <td class="s19">e</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s4">37) ិ</td>
+                <td class="s4">(13 + 37) (ឌ + ិ) =</td>
+                <td class="s19">ឌិ</td>
+                <td class="s19">धी</td>
+                <td class="s19">dhee</td>
+                <td class="s19">e</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s4">37) ិ</td>
+                <td class="s4">(14 + 37) (ឍ + ិ) =</td>
+                <td class="s19">ឍិ</td>
+                <td class="s19">थी</td>
+                <td class="s19">thee</td>
+                <td class="s19">e</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s4">37) ិ</td>
+                <td class="s4">(18 + 37) (ទ + ិ) =</td>
+                <td class="s19">ទិ</td>
+                <td class="s19">ती</td>
+                <td class="s19">tee</td>
+                <td class="s19">e</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s4">37) ិ</td>
+                <td class="s4">(19 + 37) (ធ + ិ) =</td>
+                <td class="s19">ធិ</td>
+                <td class="s19">थी</td>
+                <td class="s19">thee</td>
+                <td class="s19">e</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s4">37) ិ</td>
+                <td class="s4">(20 + 37) (ន + ិ) =</td>
+                <td class="s19">និ</td>
+                <td class="s19">नी</td>
+                <td class="s19">nee</td>
+                <td class="s19">e</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s4">37) ិ</td>
+                <td class="s4">(23 + 37) (ព + ិ) =</td>
+                <td class="s19">ពិ</td>
+                <td class="s19">पी</td>
+                <td class="s19">pee</td>
+                <td class="s19">e</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s4">37) ិ</td>
+                <td class="s4">(24 + 37) (ភ + ិ) =</td>
+                <td class="s19">ភិ</td>
+                <td class="s19">फी</td>
+                <td class="s19">phee</td>
+                <td class="s19">e</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s4">37) ិ</td>
+                <td class="s4">(25 + 37) (ម + ិ) =</td>
+                <td class="s19">មិ</td>
+                <td class="s19">मी</td>
+                <td class="s19">mee</td>
+                <td class="s19">e</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s4">37) ិ</td>
+                <td class="s4">(26 + 37) (យ + ិ) =</td>
+                <td class="s19">យិ</td>
+                <td class="s19">यी</td>
+                <td class="s19">yee</td>
+                <td class="s19">e</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s4">37) ិ</td>
+                <td class="s4">(27 + 37) ( រ + ិ) =</td>
+                <td class="s19">រិ</td>
+                <td class="s19">री</td>
+                <td class="s19">ree</td>
+                <td class="s19">e</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s4">37) ិ</td>
+                <td class="s4">(28 + 37) (ល + ិ) =</td>
+                <td class="s19">លិ</td>
+                <td class="s19">ली</td>
+                <td class="s19">lee</td>
+                <td class="s19">e</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s4">37) ិ</td>
+                <td class="s4">(29 + 37) (វ + ិ) =</td>
+                <td class="s19">វិ</td>
+                <td class="s19">वी</td>
+                <td class="s19">vee</td>
+                <td class="s19">e</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s9">38/39</td>
+                <td class="s9" dir="ltr">ី Vowel</td>
+                <td class="s10">Khmer</td>
+                <td class="s10">Devanagari</td>
+                <td class="s10" dir="ltr">Roman </td>
+                <td class="s10" dir="ltr">IPA</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">38) ី</td>
+                <td class="s21">(1 + 38) (ក + ី) =</td>
+                <td class="s22">កី</td>
+                <td class="s23">गअई</td>
+                <td class="s13">gaai</td>
+                <td class="s22">iː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s21">38) ី</td>
+                <td class="s21">(2 + 38) (ខ + ី) =</td>
+                <td class="s22">ខី</td>
+                <td class="s23">कअई</td>
+                <td class="s13">kaai</td>
+                <td class="s22">iː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+             
+                <td class="s3" dir="ltr">38) ី</td>
+                <td class="s21">(6 + 38) (ច + ី) =</td>
+                <td class="s22">ចី</td>
+                <td class="s23">चअई</td>
+                <td class="s13">chaai</td>
+                <td class="s22">iː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s3">38) ី</td>
+                <td class="s21">(7 + 38) (ឆ + ី) =</td>
+                <td class="s22">ឆី</td>
+                <td class="s23">छअई</td>
+                <td class="s13">chhaai</td>
+                <td class="s22">iː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s21">38) ី</td>
+                <td class="s21">(11 + 38) (ដ + ី) =</td>
+                <td class="s22">ដី</td>
+                <td class="s23">डअई</td>
+                <td class="s13">daai</td>
+                <td class="s22">iː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">38) ី</td>
+                <td class="s21">(12 + 38) (ឋ + ី) =</td>
+                <td class="s22">ឋី</td>
+                <td class="s23">थअई</td>
+                <td class="s13">thaai</td>
+                <td class="s22">iː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s21">38) ី</td>
+                <td class="s21">(15 + 38) (ណ + ី) =</td>
+                <td class="s22">ណី</td>
+                <td class="s23">नअई</td>
+                <td class="s13">naai</td>
+                <td class="s22">iː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s21">38) ី</td>
+                <td class="s21">(16 + 38) (ត + ី) =</td>
+                <td class="s22">តី</td>
+                <td class="s23">तअई</td>
+                <td class="s13">taai</td>
+                <td class="s22">iː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">38) ី</td>
+                <td class="s21">(17 + 38) (ថ + ី) =</td>
+                <td class="s22">ថី</td>
+                <td class="s23">थअई</td>
+                <td class="s13">thaai</td>
+                <td class="s22">iː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">38) ី</td>
+                <td class="s21">(21 + 38) (ប + ី) =</td>
+                <td class="s22">បី</td>
+                <td class="s23">बअई</td>
+                <td class="s13">baai</td>
+                <td class="s22">iː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s21">38) ី</td>
+                <td class="s21">(22 + 38) (ផ + ី) =</td>
+                <td class="s22">ផី</td>
+                <td class="s23">हअई</td>
+                <td class="s13">haai</td>
+                <td class="s22">iː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s21">38) ី</td>
+                <td class="s21">(30 +38) (ស + ី) =</td>
+                <td class="s22">សី</td>
+                <td class="s23">सअई</td>
+                <td class="s13">saai</td>
+                <td class="s22">iː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">38) ី</td>
+                <td class="s21">(31 + 38) (ហ + ី) =</td>
+                <td class="s22">ហី</td>
+                <td class="s23">हअई</td>
+                <td class="s13">haai</td>
+                <td class="s22">iː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">38) ី</td>
+                <td class="s21">(32 + 38) (ឡ + ី) =</td>
+                <td class="s22">ឡី</td>
+                <td class="s23">लअई</td>
+                <td class="s13">laai</td>
+                <td class="s22">iː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">38) ី</td>
+                <td class="s21">(33 + 38) (អ + ី) =</td>
+                <td class="s22">អី</td>
+                <td class="s23">अई</td>
+                <td class="s13">aai</td>
+                <td class="s22">iː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">39) ី</td>
+                <td class="s24">(3 + 39) (គ + ី) =</td>
+                <td class="s25">គី</td>
+                <td class="s26">गी</td>
+                <td class="s19">gee</td>
+                <td class="s19">eː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">39) ី</td>
+                <td class="s24">(4 + 39) (ឃ + ី) =</td>
+                <td class="s25">ឃី</td>
+                <td class="s25">खी</td>
+                <td class="s19">khee</td>
+                <td class="s19">eː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">39) ី</td>
+                <td class="s24">(5 + 39) (ង + ី) =</td>
+                <td class="s25">ងី</td>
+                <td class="s25">नी</td>
+                <td class="s19">nee</td>
+                <td class="s19">eː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+           
+                <td class="s24">39) ី</td>
+                <td class="s24">(8 + 39) (ជ + ី) =</td>
+                <td class="s25">ជី</td>
+                <td class="s25">जी</td>
+                <td class="s19">jee</td>
+                <td class="s19">eː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+             
+                <td class="s24">39) ី</td>
+                <td class="s24">(9 + 39) (ឈ + ី) =</td>
+                <td class="s25">ឈី</td>
+                <td class="s25">छी</td>
+                <td class="s19">chhee</td>
+                <td class="s19">eː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">39) ី</td>
+                <td class="s24">(10 + 39) (ញ + ី) =</td>
+                <td class="s25">ញី</td>
+                <td class="s25">नी</td>
+                <td class="s19">nee</td>
+                <td class="s19">eː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">39) ី</td>
+                <td class="s24">(13 + 39) (ឌ + ី) =</td>
+                <td class="s25">ឌី</td>
+                <td class="s25">धी</td>
+                <td class="s19">dhee</td>
+                <td class="s19">eː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s24">39) ី</td>
+                <td class="s24">(14 + 39) (ឍ + ី) =</td>
+                <td class="s25">ឍី</td>
+                <td class="s25">थी</td>
+                <td class="s19">thee</td>
+                <td class="s19">eː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">39) ី</td>
+                <td class="s24">(18 + 39) (ទ + ី) =</td>
+                <td class="s25">ទី</td>
+                <td class="s25">ती</td>
+                <td class="s19">tee</td>
+                <td class="s19">eː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s24">39) ី</td>
+                <td class="s24">(19 + 39) (ធ + ី) =</td>
+                <td class="s25">ធី</td>
+                <td class="s25">थी</td>
+                <td class="s19">thee</td>
+                <td class="s19">eː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s24">39) ី</td>
+                <td class="s24">(20 + 39) (ន + ី) =</td>
+                <td class="s25">នី</td>
+                <td class="s25">नी</td>
+                <td class="s19">nee</td>
+                <td class="s19">eː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s24">39) ី</td>
+                <td class="s24">(23 + 39) (ព + ី) =</td>
+                <td class="s25">ពី</td>
+                <td class="s25">पी</td>
+                <td class="s19">pee</td>
+                <td class="s19">eː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">39) ី</td>
+                <td class="s24">(24 + 39) (ភ + ី) =</td>
+                <td class="s25">ភី</td>
+                <td class="s25">फ़ी</td>
+                <td class="s19">phee</td>
+                <td class="s19">eː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s24">39) ី</td>
+                <td class="s24">(25 + 39) (ម + ី) =</td>
+                <td class="s25">មី</td>
+                <td class="s25">मी</td>
+                <td class="s19">mee</td>
+                <td class="s19">eː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s24">39) ី</td>
+                <td class="s24">(26 + 39) (យ + ី) =</td>
+                <td class="s25">យី</td>
+                <td class="s25">यी</td>
+                <td class="s19">yee</td>
+                <td class="s19">eː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s24">39) ី</td>
+                <td class="s24">(27 + 39) (រ + ី) =</td>
+                <td class="s25">រី</td>
+                <td class="s25">री</td>
+                <td class="s19">ree</td>
+                <td class="s19">eː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s24">39) ី</td>
+                <td class="s24">(28 + 39) (ល + ី) =</td>
+                <td class="s25">លី</td>
+                <td class="s25">ली</td>
+                <td class="s19">lee</td>
+                <td class="s19">eː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">39) ី</td>
+                <td class="s24">(29 + 39) (វ + ី) =</td>
+                <td class="s25">វី</td>
+                <td class="s25">वी</td>
+                <td class="s19">vee</td>
+                <td class="s19">eː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s9">40/41</td>
+                <td class="s9" dir="ltr">ឹ Vowel</td>
+                <td class="s10" dir="ltr">Khmer</td>
+                <td class="s10">Devanagri </td>
+                <td class="s10" dir="ltr">Roman </td>
+                <td class="s10" dir="ltr">IPA</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s3" dir="ltr">40) ឹ</td>
+                <td class="s21">(1 + 40) (ក + ឹ) =</td>
+                <td class="s22">កឹ</td>
+                <td class="s13">गअ</td>
+                <td class="s13">ga</td>
+                <td class="s13">ɨ</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">40) ឹ</td>
+                <td class="s21">(2 + 40) ( ខ + ឹ) =</td>
+                <td class="s22">ខឹ</td>
+                <td class="s13">कअ</td>
+                <td class="s13">ka</td>
+                <td class="s13">ɨ</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">40) ឹ</td>
+                <td class="s21">(6 + 40) (ច + ឹ) =</td>
+                <td class="s22">ចឹ</td>
+                <td class="s13">जअ</td>
+                <td class="s13">ja</td>
+                <td class="s13">ɨ</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+             
+                <td class="s21">40) ឹ</td>
+                <td class="s21">(7 + 40) ( ឆ + ឹ) =</td>
+                <td class="s22">ឆឹ</td>
+                <td class="s13">छअ</td>
+                <td class="s13">chha</td>
+                <td class="s13">ɨ</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">40) ឹ</td>
+                <td class="s21">(11 + 40) (ដ + ឹ) =</td>
+                <td class="s22">ដឹ</td>
+                <td class="s13">डअ</td>
+                <td class="s13">da</td>
+                <td class="s13">ɨ</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">40) ឹ</td>
+                <td class="s21">(12 + 40) (ឋ + ឹ) =</td>
+                <td class="s22">ឋឹ</td>
+                <td class="s13">थअ</td>
+                <td class="s13">tha</td>
+                <td class="s13">ɨ</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s21">40) ឹ</td>
+                <td class="s21">(15 + 40) (ណ + ឹ) =</td>
+                <td class="s22">ណឹ</td>
+                <td class="s13">नअ</td>
+                <td class="s13">na</td>
+                <td class="s13">ɨ</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s21">40) ឹ</td>
+                <td class="s21">(16 + 40) (ត + ឹ) =</td>
+                <td class="s22">តឹ</td>
+                <td class="s13">तअ</td>
+                <td class="s13">ta</td>
+                <td class="s13">ɨ</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">40) ឹ</td>
+                <td class="s21">(17 + 40) (ថ + ឹ) =</td>
+                <td class="s22">ថឹ</td>
+                <td class="s13">थअ</td>
+                <td class="s13">tha</td>
+                <td class="s13">ɨ</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">40) ឹ</td>
+                <td class="s21">(21 + 40) (ប + ឹ) =</td>
+                <td class="s22">បឹ</td>
+                <td class="s13">बअ</td>
+                <td class="s13">ba</td>
+                <td class="s13">ɨ</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">40) ឹ</td>
+                <td class="s21">(22 + 40) (ផ + ឹ) =</td>
+                <td class="s22">ផឹ</td>
+                <td class="s13">हअ</td>
+                <td class="s13">ha</td>
+                <td class="s13">ɨ</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">40) ឹ</td>
+                <td class="s21">(30 +40) (ស + ឹ) =</td>
+                <td class="s22">សឹ</td>
+                <td class="s13">सअ</td>
+                <td class="s13">sa</td>
+                <td class="s13">ɨ</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s21">40) ឹ</td>
+                <td class="s21">(31 + 40) (ហ + ឹ) =</td>
+                <td class="s22">ហឹ</td>
+                <td class="s13">हअ</td>
+                <td class="s13">ha</td>
+                <td class="s13">ɨ</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">40) ឹ</td>
+                <td class="s21">(32 + 40) (ឡ + ឹ) =</td>
+                <td class="s22">ឡឹ</td>
+                <td class="s13">लअ</td>
+                <td class="s13">la</td>
+                <td class="s13">ɨ</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">40) ឹ</td>
+                <td class="s21">(33 + 40) (អ + ឹ) =</td>
+                <td class="s22">អឹ</td>
+                <td class="s13">आअ</td>
+                <td class="s13">aa</td>
+                <td class="s13">ɨ</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">41) ឹ</td>
+                <td class="s24">(3 + 41) (គ + ឹ) =</td>
+                <td class="s25">គឹ</td>
+                <td class="s19">गु</td>
+                <td class="s19">gu</td>
+                <td class="s19">ə</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">41) ឹ</td>
+                <td class="s24">(4 + 41) (ឃ + ឹ) =</td>
+                <td class="s25">ឃឹ</td>
+                <td class="s19">खु</td>
+                <td class="s19">khu</td>
+                <td class="s19">ə</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">41) ឹ</td>
+                <td class="s24">(5 + 41) (ង + ឹ) =</td>
+                <td class="s25">ងឹ</td>
+                <td class="s19">ञु</td>
+                <td class="s19">nyu</td>
+                <td class="s19">ə</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">41) ឹ</td>
+                <td class="s24">(8 + 41) (ជ + ឹ) =</td>
+                <td class="s25">ជឹ</td>
+                <td class="s19">जु</td>
+                <td class="s19">ju</td>
+                <td class="s19">ə</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">41) ឹ</td>
+                <td class="s24">(9 + 41) (ឈ + ឹ) =</td>
+                <td class="s25">ឈឹ</td>
+                <td class="s19">छु</td>
+                <td class="s19">chhu</td>
+                <td class="s19">ə</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">41) ឹ</td>
+                <td class="s24">(10 + 41) (ញ + ឹ) =</td>
+                <td class="s25">ញឹ</td>
+                <td class="s19">नु</td>
+                <td class="s19">nu</td>
+                <td class="s19">ə</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">41) ឹ</td>
+                <td class="s24">(13 + 41) (ឌ + ឹ) =</td>
+                <td class="s25">ឌឹ</td>
+                <td class="s19">धु</td>
+                <td class="s19">dhu</td>
+                <td class="s19">ə</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">41) ឹ</td>
+                <td class="s24">(14 + 41) (ឍ + ឹ) =</td>
+                <td class="s25">ឍឹ</td>
+                <td class="s19">थु</td>
+                <td class="s19">thu</td>
+                <td class="s19">ə</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">41) ឹ</td>
+                <td class="s24">(18 + 41) (ទ + ឹ) =</td>
+                <td class="s25">ទឹ</td>
+                <td class="s19">तु</td>
+                <td class="s19">tu</td>
+                <td class="s19">ə</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">41) ឹ</td>
+                <td class="s24">(19 + 41) (ធ + ឹ) =</td>
+                <td class="s25">ធឹ</td>
+                <td class="s19">थु</td>
+                <td class="s19">thu</td>
+                <td class="s19">ə</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s24">41) ឹ</td>
+                <td class="s24">(20+ 41) (ន + ឹ) =</td>
+                <td class="s25">នឹ</td>
+                <td class="s19">नु</td>
+                <td class="s19">nu</td>
+                <td class="s19">ə</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">41) ឹ</td>
+                <td class="s24">(23 + 41) (ព + ឹ) =</td>
+                <td class="s25">ពឹ</td>
+                <td class="s19">पु</td>
+                <td class="s19">pu</td>
+                <td class="s19">ə</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">41) ឹ</td>
+                <td class="s24">(24 + 41) (ភ + ឹ) =</td>
+                <td class="s25">ភឹ</td>
+                <td class="s19">फ़ु</td>
+                <td class="s19">phu</td>
+                <td class="s19">ə</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">41) ឹ</td>
+                <td class="s24">(25 + 41) (ម + ឹ) =</td>
+                <td class="s25">មឹ</td>
+                <td class="s19">मु</td>
+                <td class="s19">mu</td>
+                <td class="s19">ə</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+             
+                <td class="s24">41) ឹ</td>
+                <td class="s24">(26 + 41) (យ + ឹ) =</td>
+                <td class="s25">យឹ</td>
+                <td class="s19">यु</td>
+                <td class="s19">yu</td>
+                <td class="s19">ə</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s24">41) ឹ</td>
+                <td class="s24">(27 + 41) ( រ + ឹ) =</td>
+                <td class="s25">រឹ</td>
+                <td class="s19">रु</td>
+                <td class="s19">ru</td>
+                <td class="s19">ə</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s24">41) ឹ</td>
+                <td class="s24">(28 + 41) (ល + ឹ) =</td>
+                <td class="s25">លឹ</td>
+                <td class="s19">लु</td>
+                <td class="s19">lu</td>
+                <td class="s19">ə</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">41) ឹ</td>
+                <td class="s24">(29 + 41) (វ + ឹ) =</td>
+                <td class="s25">វឹ</td>
+                <td class="s19">वु</td>
+                <td class="s19">vu</td>
+                <td class="s19">ə</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s9">42/43</td>
+                <td class="s9" dir="ltr"> ឺ Vowel</td>
+                <td class="s10" dir="ltr">Khmer</td>
+                <td class="s10">Devanagri </td>
+                <td class="s10" dir="ltr">Roman </td>
+                <td class="s10" dir="ltr">IPA</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s3" dir="ltr">42) ឺ</td>
+                <td class="s21">(1 + 42) (ក + ឺ) =</td>
+                <td class="s22">កឺ</td>
+                <td class="s13">गअ</td>
+                <td class="s13">ga</td>
+                <td class="s13">ɨː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s3" dir="ltr">42) ឺ</td>
+                <td class="s21">(2 + 42) ( ខ + ឺ) =</td>
+                <td class="s22">ខឺ</td>
+                <td class="s13">कअ</td>
+                <td class="s13">ka</td>
+                <td class="s13">ɨː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s21">42) ឺ</td>
+                <td class="s21">(6 + 42) (ច + ឺ) =</td>
+                <td class="s22">ចឺ</td>
+                <td class="s13">चअ</td>
+                <td class="s13">cha</td>
+                <td class="s13">ɨː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">42) ឺ</td>
+                <td class="s21">(7 + 42) ( ឆ + ឺ) =</td>
+                <td class="s22">ឆឺ</td>
+                <td class="s13">छअ</td>
+                <td class="s13">chha</td>
+                <td class="s13">ɨː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s21">42) ឺ</td>
+                <td class="s21">(11 + 42) (ដ + ឺ) =</td>
+                <td class="s22">ដឺ</td>
+                <td class="s13">डअ</td>
+                <td class="s13">da</td>
+                <td class="s13">ɨː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">42) ឺ</td>
+                <td class="s21">(12 + 42) (ឋ + ឺ) =</td>
+                <td class="s22">ឋឺ</td>
+                <td class="s13">ठअ</td>
+                <td class="s13">ṭha</td>
+                <td class="s13">ɨː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">42) ឺ</td>
+                <td class="s21">(15 + 42) (ណ + ឺ) =</td>
+                <td class="s22">ណឺ</td>
+                <td class="s13">नअ</td>
+                <td class="s13">na</td>
+                <td class="s13">ɨː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s3">42) ឺ</td>
+                <td class="s21">(16 + 42) (ត + ឺ ) =</td>
+                <td class="s22">ភឺ</td>
+                <td class="s13">फअ</td>
+                <td class="s13">pha</td>
+                <td class="s13">ɨː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">42) ឺ</td>
+                <td class="s21">(17 + 42) (ថ + ឺ) =</td>
+                <td class="s22">ថឺ</td>
+                <td class="s13">थअ</td>
+                <td class="s13">tha</td>
+                <td class="s13">ɨː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">42) ឺ</td>
+                <td class="s21">(21 + 42) ( ប + ឺ) =</td>
+                <td class="s22">បឺ</td>
+                <td class="s13">बअ</td>
+                <td class="s13">ba</td>
+                <td class="s13">ɨː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s3" dir="ltr">42) ឺ</td>
+                <td class="s21">(22 + 42) (ផ + ឺ) =</td>
+                <td class="s22">ផឺ</td>
+                <td class="s13">फ़अ</td>
+                <td class="s13">pha</td>
+                <td class="s13">ɨː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">42) ឺ</td>
+                <td class="s21">(30 + 42) (ស + ឺ) =</td>
+                <td class="s22">សឺ</td>
+                <td class="s13">सअ</td>
+                <td class="s13">sa</td>
+                <td class="s13">ɨː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">42) ឺ</td>
+                <td class="s21">(31 + 42) (ហ + ឺ) =</td>
+                <td class="s22">ហឺ</td>
+                <td class="s13">हअ</td>
+                <td class="s13">ha</td>
+                <td class="s13">ɨː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">42) ឺ</td>
+                <td class="s21">(32 + 42) (ឡ + ឺ ) =</td>
+                <td class="s22">ឡឺ</td>
+                <td class="s13">लअ</td>
+                <td class="s13">la</td>
+                <td class="s13">ɨː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">42) ឺ</td>
+                <td class="s21">(33 + 42) (អ + ឺ) =</td>
+                <td class="s22">អឺ</td>
+                <td class="s13">अअ</td>
+                <td class="s13">aa</td>
+                <td class="s13">ɨː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">43) ឺ</td>
+                <td class="s24">(3 + 43) (គ + ឺ) =</td>
+                <td class="s25">គឺ</td>
+                <td class="s19">गु</td>
+                <td class="s19">gu</td>
+                <td class="s19">əː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">43) ឺ</td>
+                <td class="s24">(4 + 43) (ឃ + ឺ) =</td>
+                <td class="s25">ឃឺ</td>
+                <td class="s19">खु</td>
+                <td class="s19">khu</td>
+                <td class="s19">əː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">43) ឺ</td>
+                <td class="s24">(5 + 43) (ង + ឺ) =</td>
+                <td class="s25">ងឺ</td>
+                <td class="s19">ञु</td>
+                <td class="s19">nyu</td>
+                <td class="s19">əː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">43) ឺ</td>
+                <td class="s24">(8 + 43) (ជ + ឺ) =</td>
+                <td class="s25">ជឺ</td>
+                <td class="s19">जु</td>
+                <td class="s19">ju</td>
+                <td class="s19">əː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">43) ឺ</td>
+                <td class="s24">(9 + 43) (ឈ + ឺ) =</td>
+                <td class="s25">ឈឺ</td>
+                <td class="s19">छु</td>
+                <td class="s19">chhu</td>
+                <td class="s19">əː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">43) ឺ</td>
+                <td class="s24">(10 + 43) (ញ + ឺ) =</td>
+                <td class="s25">ញឺ</td>
+                <td class="s19">नु</td>
+                <td class="s19">nu</td>
+                <td class="s19">əː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">43) ឺ</td>
+                <td class="s24">(13 + 43) (ឌ + ឺ) =</td>
+                <td class="s25">ឌឺ</td>
+                <td class="s19">धु</td>
+                <td class="s19">dhu</td>
+                <td class="s19">əː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">43) ឺ</td>
+                <td class="s24">(14 + 43) (ឍ + ឺ) =</td>
+                <td class="s25">ឍឺ</td>
+                <td class="s19">थु</td>
+                <td class="s19">thu</td>
+                <td class="s19">əː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s24">43) ឺ</td>
+                <td class="s24">(18 + 43) (ទ + ឺ) =</td>
+                <td class="s25">ទឺ</td>
+                <td class="s19">तु</td>
+                <td class="s19">tu</td>
+                <td class="s19">əː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+             
+                <td class="s24">43) ឺ</td>
+                <td class="s24">(19 + 43) (ធ + ឺ) =</td>
+                <td class="s25">ធឺ</td>
+                <td class="s19">थु</td>
+                <td class="s19">thu</td>
+                <td class="s19">əː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">43) ឺ</td>
+                <td class="s24">(20 + 43) (ន + ឺ) =</td>
+                <td class="s25">នឺ</td>
+                <td class="s19">नु</td>
+                <td class="s19">nu</td>
+                <td class="s19">əː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s24">43) ឺ</td>
+                <td class="s24">(23 + 43) (ព + ឺ) =</td>
+                <td class="s25">ពឺ</td>
+                <td class="s19">पु</td>
+                <td class="s19">pu</td>
+                <td class="s19">əː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">43) ឺ</td>
+                <td class="s24">(24 + 43) (ភ + ឺ) =</td>
+                <td class="s25">ភឺ</td>
+                <td class="s19">फ़ु</td>
+                <td class="s19">phu</td>
+                <td class="s19">əː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">43) ឺ</td>
+                <td class="s24">(25 + 43) (ម + ឺ) =</td>
+                <td class="s25">មឺ</td>
+                <td class="s19">मु</td>
+                <td class="s19">mu</td>
+                <td class="s19">əː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">43) ឺ</td>
+                <td class="s24">(26 + 43) (យ + ឺ) =</td>
+                <td class="s25">យឺ</td>
+                <td class="s19">यु</td>
+                <td class="s19">yu</td>
+                <td class="s19">əː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">43) ឺ</td>
+                <td class="s24">(27 + 43) ( រ + ឺ) =</td>
+                <td class="s25">រឺ</td>
+                <td class="s19">रु</td>
+                <td class="s19">ru</td>
+                <td class="s19">əː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s24">43) ឺ</td>
+                <td class="s24">(28 + 43) (ល + ឺ) =</td>
+                <td class="s25">លឺ</td>
+                <td class="s19">लु</td>
+                <td class="s19">lu</td>
+                <td class="s19">əː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">43) ឺ</td>
+                <td class="s24">(29 + 43) (វ + ឺ) =</td>
+                <td class="s25">វឺ</td>
+                <td class="s19">वु</td>
+                <td class="s19">vu</td>
+                <td class="s19">əː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s9" dir="ltr">44/45 ុ</td>
+                <td class="s9" dir="ltr"></td>
+                <td class="s10" dir="ltr">Khmer</td>
+                <td class="s10">Devanagri </td>
+                <td class="s10" dir="ltr">Roman </td>
+                <td class="s10" dir="ltr">IPA</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s3">44) ុ</td>
+                <td class="s21">(1 + 44) (ក + ុ) =</td>
+                <td class="s22">កុ</td>
+                <td class="s13">गो</td>
+                <td class="s13">go</td>
+                <td class="s13">u</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s3" dir="ltr">44) ុ</td>
+                <td class="s21">(2 + 44) ( ខ + ុ) =</td>
+                <td class="s22">ខុ</td>
+                <td class="s13">को</td>
+                <td class="s13">ko</td>
+                <td class="s13">u</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">44) ុ</td>
+                <td class="s21">(6 + 44) (ច + ុ) =</td>
+                <td class="s22">ចុ</td>
+                <td class="s13">जो</td>
+                <td class="s13">jo</td>
+                <td class="s13">u</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">44)ុ</td>
+                <td class="s21">(7 + 44) (ឆ + ុ)=</td>
+                <td class="s22">ឆុ</td>
+                <td class="s13">चो / छो</td>
+                <td class="s13">cho / chho</td>
+                <td class="s13">u</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">44) ុ</td>
+                <td class="s21">(11 + 44) (ដ + ុ) =</td>
+                <td class="s22">ដុ</td>
+                <td class="s13">डो</td>
+                <td class="s13">do</td>
+                <td class="s13">u</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">44) ុ</td>
+                <td class="s21">(12 + 44) ( ឋ + ុ) =</td>
+                <td class="s22">ឋុ</td>
+                <td class="s13">थो</td>
+                <td class="s13">tho</td>
+                <td class="s13">u</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">44) ុ</td>
+                <td class="s21">(15 + 44) (ណ + ុ) =</td>
+                <td class="s22">ណុ</td>
+                <td class="s13">नो</td>
+                <td class="s13">no</td>
+                <td class="s13">u</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">44) ុ</td>
+                <td class="s21">(16 + 44) (ត + ុ) =</td>
+                <td class="s22">ភុ</td>
+                <td class="s13">तो</td>
+                <td class="s13">to</td>
+                <td class="s13">u</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">44) ុ</td>
+                <td class="s21">(17 + 44) (ថ + ុ) =</td>
+                <td class="s22">ថុ</td>
+                <td class="s13">थो</td>
+                <td class="s13">tho</td>
+                <td class="s13">u</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">44) ុ</td>
+                <td class="s21">(21 + 44) (ប + ុ) =</td>
+                <td class="s22">បុ</td>
+                <td class="s13">बो</td>
+                <td class="s13">bo</td>
+                <td class="s13">u</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">44) ុ</td>
+                <td class="s21">(22 + 44) (ផ + ុ) =</td>
+                <td class="s22">ផុ</td>
+                <td class="s13">हो</td>
+                <td class="s13">ho</td>
+                <td class="s13">u</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">44) ុ</td>
+                <td class="s21">(30 +44) (ស + ុ) =</td>
+                <td class="s22">សុ</td>
+                <td class="s13">सो</td>
+                <td class="s13">so</td>
+                <td class="s13">u</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">44) ុ</td>
+                <td class="s21">(31 + 44) (ហ + ុ) =</td>
+                <td class="s22">ហុ</td>
+                <td class="s13">हो</td>
+                <td class="s13">ho</td>
+                <td class="s13">u</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">44) ុ</td>
+                <td class="s21">(32 + 44) (ឡ + ុ) =</td>
+                <td class="s22">ឡុ</td>
+                <td class="s13">लो</td>
+                <td class="s13">lo</td>
+                <td class="s13">u</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">44) ុ</td>
+                <td class="s21">(33 + 44) ( អ + ុ) =</td>
+                <td class="s22">អុ</td>
+                <td class="s13">ओ</td>
+                <td class="s13">ao</td>
+                <td class="s13">u</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">45) ុ</td>
+                <td class="s24">(3 + 45) (គ + ុ) =</td>
+                <td class="s25">គុ</td>
+                <td class="s19">गु</td>
+                <td class="s19">gu</td>
+                <td class="s19">o</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">45) ុ</td>
+                <td class="s24">(4 + 45) (ឃ + ុ) =</td>
+                <td class="s25">ឃុ</td>
+                <td class="s19">खु</td>
+                <td class="s19">khu</td>
+                <td class="s19">o</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">45) ុ</td>
+                <td class="s24">(5 + 45) (ង + ុ) =</td>
+                <td class="s25">ងុ</td>
+                <td class="s19">ञु</td>
+                <td class="s19">nyu</td>
+                <td class="s19">o</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">45) ុ</td>
+                <td class="s24">(8 + 45) (ជ + ុ) =</td>
+                <td class="s25">ជុ</td>
+                <td class="s19">जु</td>
+                <td class="s19">ju</td>
+                <td class="s19">o</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">45) ុ</td>
+                <td class="s24">(9 + 45) (ឈ + ុ) =</td>
+                <td class="s25">ឈុ</td>
+                <td class="s19">छु</td>
+                <td class="s19">chhu</td>
+                <td class="s19">o</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">45) ុ</td>
+                <td class="s24">(10 + 45) (ញ + ុ) =</td>
+                <td class="s25">ញុ</td>
+                <td class="s19">नु</td>
+                <td class="s19">nu</td>
+                <td class="s19">o</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s24">45) ុ</td>
+                <td class="s24">(13 + 45) (ឌ + ុ) =</td>
+                <td class="s25">ឌុ</td>
+                <td class="s19">धु</td>
+                <td class="s19">dhu</td>
+                <td class="s19">o</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">45) ុ</td>
+                <td class="s24">(14 + 45) (ឍ + ុ) =</td>
+                <td class="s25">ឍុ</td>
+                <td class="s19">थु</td>
+                <td class="s19">thu</td>
+                <td class="s19">o</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">45) ុ</td>
+                <td class="s24">(18 + 45) (ទ + ុ) =</td>
+                <td class="s25">ទុ</td>
+                <td class="s19">तु</td>
+                <td class="s19">tu</td>
+                <td class="s19">o</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">45) ុ</td>
+                <td class="s24">(19 + 45) (ធ + ុ) =</td>
+                <td class="s25">ធុ</td>
+                <td class="s19">थु</td>
+                <td class="s19">thu</td>
+                <td class="s19">o</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">45) ុ</td>
+                <td class="s24">(20 + 45) (ន + ុ) =</td>
+                <td class="s25">នុ</td>
+                <td class="s19">नु</td>
+                <td class="s19">nu</td>
+                <td class="s19">o</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">45) ុ</td>
+                <td class="s24">(23 + 45) (ព + ុ) =</td>
+                <td class="s25">ពុ</td>
+                <td class="s19">पु</td>
+                <td class="s19">pu</td>
+                <td class="s19">o</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">45) ុ</td>
+                <td class="s24">(24 + 45) (ភ + ុ) =</td>
+                <td class="s25">ភុ</td>
+                <td class="s19">फ़ु</td>
+                <td class="s19">phu</td>
+                <td class="s19">o</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s24">45) ុ</td>
+                <td class="s24">(25 + 45) (ម + ុ) =</td>
+                <td class="s25">មុ</td>
+                <td class="s19">मु</td>
+                <td class="s19">mu</td>
+                <td class="s19">o</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">45) ុ</td>
+                <td class="s24">(26 + 45) (យ + ុ) =</td>
+                <td class="s25">យុ</td>
+                <td class="s19">यु</td>
+                <td class="s19">yu</td>
+                <td class="s19">o</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s24">45) ុ</td>
+                <td class="s24">(27 + 45) (រ + ុ) =</td>
+                <td class="s25">រុ</td>
+                <td class="s19">रु</td>
+                <td class="s19">ru</td>
+                <td class="s19">o</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">45) ុ</td>
+                <td class="s24">(28 + 45) (ល + ុ) =</td>
+                <td class="s25">លុ</td>
+                <td class="s19">लु</td>
+                <td class="s19">lu</td>
+                <td class="s19">o</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">45) ុ</td>
+                <td class="s24">(29 + 45) (វ + ុ) =</td>
+                <td class="s25">វុ</td>
+                <td class="s19">वु</td>
+                <td class="s19">vu</td>
+                <td class="s19">o</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s9">46/47</td>
+                <td class="s9"> ូ</td>
+                <td class="s10" dir="ltr">Khmer</td>
+                <td class="s10">Devanagri </td>
+                <td class="s10" dir="ltr">Roman </td>
+                <td class="s10" dir="ltr">IPA</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s3">46) ូ</td>
+                <td class="s21">(1 + 46) (ក + ូ) =</td>
+                <td class="s22">កូ</td>
+                <td class="s13">गो</td>
+                <td class="s13">Go</td>
+                <td class="s13">uː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">46) ូ</td>
+                <td class="s21">(2 + 46) ( ខ + ូ) =</td>
+                <td class="s22">ខូ</td>
+                <td class="s13">को</td>
+                <td class="s13">Ko</td>
+                <td class="s13">uː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">46) ូ</td>
+                <td class="s21">(6 + 46) ( ច + ូ) =</td>
+                <td class="s22">ចូ</td>
+                <td class="s13">जो</td>
+                <td class="s13">Jo</td>
+                <td class="s13">uː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s21">46) ូ</td>
+                <td class="s21">(7 + 46) (ឆ + ូ) =</td>
+                <td class="s22">ឆូ</td>
+                <td class="s23" dir="ltr">छो</td>
+                <td class="s13" dir="ltr">Chho</td>
+                <td class="s13">uː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">46) ូ</td>
+                <td class="s21">(11 + 46) (ដ + ូ) =</td>
+                <td class="s22">ដូ</td>
+                <td class="s23">डो</td>
+                <td class="s13">Do</td>
+                <td class="s13">uː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">46) ូ</td>
+                <td class="s3">(12 + 46) ( ឋ + ុ) =</td>
+                <td class="s27">ឋូ</td>
+                <td class="s23">थो</td>
+                <td class="s13">Tho</td>
+                <td class="s13">uː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">46) ូ</td>
+                <td class="s21">(15 + 46) (ណ + ូ) =</td>
+                <td class="s22">ណូ</td>
+                <td class="s23">नो</td>
+                <td class="s13">No</td>
+                <td class="s13">uː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">46) ូ</td>
+                <td class="s21">(16 + 46) (ត + ូ) =</td>
+                <td class="s22">តូ</td>
+                <td class="s23">तो</td>
+                <td class="s13">To</td>
+                <td class="s13">uː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">46) ូ</td>
+                <td class="s21">(17 + 46) (ថ + ូ) =</td>
+                <td class="s22">ថូ</td>
+                <td class="s23">थो</td>
+                <td class="s13">Tho</td>
+                <td class="s13">uː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">46) ូ</td>
+                <td class="s21">(21 + 46) (ប + ូ) =</td>
+                <td class="s22">បូ</td>
+                <td class="s23">बो</td>
+                <td class="s13">Bo</td>
+                <td class="s13">uː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">46) ូ</td>
+                <td class="s21">(22 + 46) (ផ + ូ) =</td>
+                <td class="s22">ផូ</td>
+                <td class="s23">हो</td>
+                <td class="s13">Ho</td>
+                <td class="s13">uː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s3" dir="ltr">46) ូ</td>
+                <td class="s21">(30 + 46) (ស + ូ) =</td>
+                <td class="s22">សូ</td>
+                <td class="s23">सो</td>
+                <td class="s13">So</td>
+                <td class="s13">uː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">46) ូ</td>
+                <td class="s21">(31 + 46) (ហ + ូ) =</td>
+                <td class="s22">ហូ</td>
+                <td class="s23">हो</td>
+                <td class="s13">Ho</td>
+                <td class="s13">uː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">46) ូ</td>
+                <td class="s21">(32 + 46) (ឡ + ូ) =</td>
+                <td class="s22">ឡូ</td>
+                <td class="s23">लो</td>
+                <td class="s13">Lo</td>
+                <td class="s13">uː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">46) ូ</td>
+                <td class="s21">(33 + 46) (អ + ូ) =</td>
+                <td class="s22">អូ</td>
+                <td class="s23">ओ</td>
+                <td class="s13">O</td>
+                <td class="s13">uː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s4">47) ូ</td>
+                <td class="s4">(3+47)(គ+ ូ)=</td>
+                <td class="s19"> គូ</td>
+                <td class="s28">गु</td>
+                <td class="s19">Gu</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">47) ូ</td>
+                <td class="s4">(4+47)(ឃ + ូ)=</td>
+                <td class="s19">ឃូ</td>
+                <td class="s28">खु</td>
+                <td class="s19">Khu</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">47) ូ</td>
+                <td class="s4">(5+47)(ង + ូ)=</td>
+                <td class="s19">ងូ</td>
+                <td class="s28">ञु</td>
+                <td class="s19">nyu</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">47) ូ</td>
+                <td class="s4">(8+47)(ជ+ ូ)=</td>
+                <td class="s19"> ជូ</td>
+                <td class="s28">जु</td>
+                <td class="s19">Ju</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">47) ូ</td>
+                <td class="s4">(9+47)(ឈ + ូ)=</td>
+                <td class="s19">ឈូ</td>
+                <td class="s28">छु</td>
+                <td class="s19">Chu</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">47) ូ</td>
+                <td class="s4">(10+47)(ញ+ ូ)=</td>
+                <td class="s19"> ញូ</td>
+                <td class="s28">नु</td>
+                <td class="s19">Nu</td>
+                <td class="s19">oː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">47) ូ</td>
+                <td class="s4">(13+47)(ឌ+ ូ)=</td>
+                <td class="s19"> ឌូ</td>
+                <td class="s28">धु</td>
+                <td class="s19">Dhu</td>
+                <td class="s19">oː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">47) ូ</td>
+                <td class="s4">(14+47)(ឍ + ូ)=</td>
+                <td class="s19">ឍូ</td>
+                <td class="s28">थु</td>
+                <td class="s19">Thu</td>
+                <td class="s19">oː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">47) ូ</td>
+                <td class="s24">(18 + 47) (ទ + ូ) =</td>
+                <td class="s25">ទូ</td>
+                <td class="s28">तु</td>
+                <td class="s19">Tu</td>
+                <td class="s19">oː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">47) ូ</td>
+                <td class="s24">(19 + 47) (ធ + ូ) =</td>
+                <td class="s25">ធូ</td>
+                <td class="s28">थु</td>
+                <td class="s19">Thu</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">47) ូ</td>
+                <td class="s24">(20 + 47) (ន + ូ) =</td>
+                <td class="s25">នូ</td>
+                <td class="s28">नु</td>
+                <td class="s19">Nu</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">47) ូ</td>
+                <td class="s24">(23 + 47) (ព + ូ) =</td>
+                <td class="s25">ពូ</td>
+                <td class="s28">पु</td>
+                <td class="s19">Pu</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">47) ូ</td>
+                <td class="s24">(24 + 47) (ភ + ូ) =</td>
+                <td class="s25">ភូ</td>
+                <td class="s28">फ़ु</td>
+                <td class="s19">Fu / Phu</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s24">47) ូ</td>
+                <td class="s24">(25 + 47) (ម + ូ) =</td>
+                <td class="s25">មូ</td>
+                <td class="s28">मु</td>
+                <td class="s19">Mu</td>
+                <td class="s19">oː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">47) ូ</td>
+                <td class="s24">(26 + 47) (យ + ូ) =</td>
+                <td class="s25">យូ</td>
+                <td class="s28">यु</td>
+                <td class="s19">Yu</td>
+                <td class="s19">oː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">47) ូ</td>
+                <td class="s24">(27 + 47)(រ + ូ) =</td>
+                <td class="s25">រូ</td>
+                <td class="s28">रु</td>
+                <td class="s19">Ru</td>
+                <td class="s19">oː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">47) ូ</td>
+                <td class="s24">(28 + 47)(ល + ូ) =</td>
+                <td class="s25">លូ</td>
+                <td class="s28">लु</td>
+                <td class="s19">Lu</td>
+                <td class="s19">oː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">47) ូ</td>
+                <td class="s24">(29 + 47) (វ + ូ) =</td>
+                <td class="s25">វូ</td>
+                <td class="s28">वु</td>
+                <td class="s19">Vu</td>
+                <td class="s19">oː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s9">48/49</td>
+                <td class="s9" dir="ltr"></td>
+                <td class="s10" dir="ltr">Khmer</td>
+                <td class="s10">Devanagri </td>
+                <td class="s10" dir="ltr">Roman </td>
+                <td class="s10" dir="ltr">IPA</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s3">48) ួ</td>
+                <td class="s21">(1 + 48) (ក + ួ) =</td>
+                <td class="s22">កួ</td>
+                <td class="s29">गुअ</td>
+                <td class="s13">Gua</td>
+                <td class="s13">oː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">48) ួ</td>
+                <td class="s21">(2 + 48) ( ខ + ួ) =</td>
+                <td class="s22">ខួ</td>
+                <td class="s29">कुअ</td>
+                <td class="s13">Kua</td>
+                <td class="s13">oː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">48) ួ</td>
+                <td class="s21">(6 + 48) ( ច + ួ) =</td>
+                <td class="s22">ចួ</td>
+                <td class="s29">जुअ</td>
+                <td class="s13">Jua</td>
+                <td class="s13">oː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s3" dir="ltr">48) ួ</td>
+                <td class="s21">(7 + 48) (ឆ + ួ) =</td>
+                <td class="s22">ឆួ</td>
+                <td class="s13" dir="ltr">छुअ</td>
+                <td class="s13" dir="ltr">Chhua</td>
+                <td class="s13">oː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">48) ួ</td>
+                <td class="s21">(11 + 48) (ដ + ួ) =</td>
+                <td class="s22">ដួ</td>
+                <td class="s29">डुअ</td>
+                <td class="s13">Dua</td>
+                <td class="s13">oː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">48) ួ</td>
+                <td class="s21">(12 + 48) (ឋ + ួ) =</td>
+                <td class="s22">ឋួ</td>
+                <td class="s29">थुअ</td>
+                <td class="s13">Thua</td>
+                <td class="s13">oː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">48) ួ</td>
+                <td class="s21">(15 + 48) (ណ + ួ) =</td>
+                <td class="s22">ណួ</td>
+                <td class="s29">नुअ</td>
+                <td class="s13">Nua</td>
+                <td class="s13">oː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">48) ួ</td>
+                <td class="s21">(16 + 48) (ត + ួ) =</td>
+                <td class="s22">តួ</td>
+                <td class="s13">तुअ</td>
+                <td class="s13">Tua</td>
+                <td class="s13">oː</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">48) ួ</td>
+                <td class="s21">(17 + 48) (ថ + ួ) =</td>
+                <td class="s22">ថួ</td>
+                <td class="s29">थुअ</td>
+                <td class="s13">Thua</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">48) ួ</td>
+                <td class="s21">(21 + 48) (ប + ួ) =</td>
+                <td class="s22">បួ</td>
+                <td class="s29">बुअ</td>
+                <td class="s13">Bua</td>
+                <td class="s13">ua</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">48) ួ</td>
+                <td class="s21">(22 + 48) ( ផ + ួ) =</td>
+                <td class="s22">ផួ</td>
+                <td class="s29">हुअ</td>
+                <td class="s13">Hua</td>
+                <td class="s13">ua</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">48) ួ</td>
+                <td class="s21">(30 +48) (ស + ួ) =</td>
+                <td class="s22">សួ</td>
+                <td class="s29">सुअ</td>
+                <td class="s13">Sua</td>
+                <td class="s13">ua</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">48) ួ</td>
+                <td class="s21">(31 + 48) (ហ + ួ) =</td>
+                <td class="s22">ហួ</td>
+                <td class="s29">हुअ</td>
+                <td class="s13">Hua</td>
+                <td class="s13">ua</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">48) ួ</td>
+                <td class="s21">(32 + 48) (ឡ + ួ) =</td>
+                <td class="s22">ឡួ</td>
+                <td class="s29">लुअ</td>
+                <td class="s13">Lua</td>
+                <td class="s13">ua</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">48) ួ</td>
+                <td class="s21">(33 + 48) (អ + ួ) =</td>
+                <td class="s22">អួ</td>
+                <td class="s13">उअ</td>
+                <td class="s13">Ua</td>
+                <td class="s13">ua</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">49) ួ</td>
+                <td class="s24">(3 + 49) (គ + ួ) =</td>
+                <td class="s25">គួ</td>
+                <td class="s28">गुअ</td>
+                <td class="s19">Gua</td>
+                <td class="s19">ua</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">49) ួ</td>
+                <td class="s24">(4 + 49) (ឃ + ួ) =</td>
+                <td class="s25">ឃួ</td>
+                <td class="s28">खुअ</td>
+                <td class="s19">Khua</td>
+                <td class="s19">ua</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">49) ួ</td>
+                <td class="s24">(5 + 49) (ង + ួ) =</td>
+                <td class="s25">ងួ</td>
+                <td class="s28">ञुअ</td>
+                <td class="s19">Ñua</td>
+                <td class="s19">ua</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">49) ួ</td>
+                <td class="s24">(8 + 49) (ជ + ួ) =</td>
+                <td class="s25">ជួ</td>
+                <td class="s28">जुअ</td>
+                <td class="s19">Jua</td>
+                <td class="s19">ua</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">49) ួ</td>
+                <td class="s24">(9 + 49) (ឈ + ួ) =</td>
+                <td class="s25">ឈួ</td>
+                <td class="s28">छुअ</td>
+                <td class="s19">Chhua</td>
+                <td class="s19">ua</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">49) ួ</td>
+                <td class="s24">(10 + 49) (ញ + ួ) =</td>
+                <td class="s19">ញួ</td>
+                <td class="s28">नुअ</td>
+                <td class="s19">Nua</td>
+                <td class="s19">ua</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">49) ួ</td>
+                <td class="s24">(13 + 49) (ឌ + ួ) =</td>
+                <td class="s25">ឌួ</td>
+                <td class="s28">धुअ</td>
+                <td class="s19">Dhua</td>
+                <td class="s19">ua</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">49) ួ</td>
+                <td class="s24">(14 + 49) (ឍ + ួ) =</td>
+                <td class="s25">ឍួ</td>
+                <td class="s28">थुअ</td>
+                <td class="s19">Thua</td>
+                <td class="s19">ua</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">49) ួ</td>
+                <td class="s24">(18 + 49) (ទ + ួ) =</td>
+                <td class="s25">ទួ</td>
+                <td class="s28">तुअ</td>
+                <td class="s19">Tua</td>
+                <td class="s19">ua</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">49) ួ</td>
+                <td class="s24">(19 + 49) (ធ + ួ) =</td>
+                <td class="s25">ធួ</td>
+                <td class="s28">थुअ</td>
+                <td class="s19">Thua</td>
+                <td class="s19">uə</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">49) ួ</td>
+                <td class="s24">(20 + 49) (ន + ួ) =</td>
+                <td class="s25">នួ</td>
+                <td class="s28">नुअ</td>
+                <td class="s19">Nua</td>
+                <td class="s19">uə</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">49) ួ</td>
+                <td class="s24">(23 + 49) (ព + ួ) =</td>
+                <td class="s25">ពួ</td>
+                <td class="s28">पुअ</td>
+                <td class="s19">Pua</td>
+                <td class="s19">uə</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">49) ួ</td>
+                <td class="s24">(24 + 49) (ភ + ួ) =</td>
+                <td class="s25">ភួ</td>
+                <td class="s28">फ़ुअ</td>
+                <td class="s19">Fua / Phua</td>
+                <td class="s19">uə</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">49) ួ</td>
+                <td class="s24">(25 + 49) (ម + ួ) =</td>
+                <td class="s25">មួ</td>
+                <td class="s28">मुअ</td>
+                <td class="s19">Mua</td>
+                <td class="s19">uə</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">49) ួ</td>
+                <td class="s24">(26 + 49)(យ + ួ) =</td>
+                <td class="s25">យួ</td>
+                <td class="s28">युअ</td>
+                <td class="s19">Yua</td>
+                <td class="s19">uə</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">49) ួ</td>
+                <td class="s24">(27 + 49)( រ + ួ) =</td>
+                <td class="s25">រួ</td>
+                <td class="s28">रुअ</td>
+                <td class="s19">Rua</td>
+                <td class="s19">uə</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">49) ួ</td>
+                <td class="s24">(28 + 49) (ល + ួ) =</td>
+                <td class="s25">លួ</td>
+                <td class="s28">लुअ</td>
+                <td class="s19">Lua</td>
+                <td class="s19">uə</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">49) ួ</td>
+                <td class="s24">(29 + 49) (វ + ួ ) =</td>
+                <td class="s25">វួ</td>
+                <td class="s28">वुअ</td>
+                <td class="s19">Vua</td>
+                <td class="s19">uə</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s9" dir="ltr">50/51 ើ</td>
+                <td class="s9" dir="ltr"></td>
+                <td class="s10" dir="ltr">Khmer</td>
+                <td class="s10">Devanagri </td>
+                <td class="s10" dir="ltr">Roman </td>
+                <td class="s10" dir="ltr">IPA</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s3">50) ើ</td>
+                <td class="s21">(1 + 50) (ក + ើ) =</td>
+                <td class="s30">កើ</td>
+                <td class="s29">गैअ</td>
+                <td class="s13">Gaiya</td>
+                <td class="s13">uə</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">50) ើ</td>
+                <td class="s21">(2 + 50) (ខ + ើ) =</td>
+                <td class="s30">ខើ</td>
+                <td class="s29">कैअ</td>
+                <td class="s13">Kaiya</td>
+                <td class="s13">uə</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">50) ើ</td>
+                <td class="s21">(6 + 50) (ច + ើ) =</td>
+                <td class="s30">ចើ</td>
+                <td class="s29">जैअ</td>
+                <td class="s13">Jaiya</td>
+                <td class="s13">uə</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">50) ើ</td>
+                <td class="s21">(7 + 50) (ឆ + ើ) =</td>
+                <td class="s30">ឆើ</td>
+                <td class="s29">चैअ / छैअ</td>
+                <td class="s13">Chaiya / Chhaiya</td>
+                <td class="s13">uə</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">50) ើ</td>
+                <td class="s21">(11 + 50) (ដ + ើ) =</td>
+                <td class="s30">ដើ</td>
+                <td class="s29">डैअ</td>
+                <td class="s13">Daiya</td>
+                <td class="s13">uə</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">50) ើ</td>
+                <td class="s21">(12 + 50) (ឋ + ើ) =</td>
+                <td class="s30">ឋើ</td>
+                <td class="s29">थैअ</td>
+                <td class="s13">Thaiya</td>
+                <td class="s13">uə</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">50) ើ</td>
+                <td class="s21">(15 + 51) (ណ + ើ) =</td>
+                <td class="s30">ណើ</td>
+                <td class="s29">नैअ</td>
+                <td class="s13">Naiya</td>
+                <td class="s13">uə</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">50) ើ</td>
+                <td class="s21">(16 + 51) (ត + ើ) =</td>
+                <td class="s30">តើ</td>
+                <td class="s29">तैअ</td>
+                <td class="s13">Taiya</td>
+                <td class="s13">uə</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">50) ើ</td>
+                <td class="s21">(17 + 51) (ថ + ើ) =</td>
+                <td class="s30">ថើ</td>
+                <td class="s29">थैअ</td>
+                <td class="s13">Thaiya</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">50) ើ</td>
+                <td class="s21">(21 + 51) (ប + ើ) =</td>
+                <td class="s30">បើ</td>
+                <td class="s29">बैअ</td>
+                <td class="s13">Baiya</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s3">50) ើ</td>
+                <td class="s21">(22 + 51) (ផ + ើ) =</td>
+                <td class="s30">ផើ</td>
+                <td class="s29">हैअ</td>
+                <td class="s13">Haiya</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s21">50) ើ</td>
+                <td class="s21">(30 + 51) (ស + ើ) =</td>
+                <td class="s30">សើ</td>
+                <td class="s29">सैअ</td>
+                <td class="s13">Saiya</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s21">50) ើ</td>
+                <td class="s21">(31 + 51) (ហ + ើ) =</td>
+                <td class="s30">ហើ</td>
+                <td class="s29">हैअ</td>
+                <td class="s13">Haiya</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s21">50) ើ</td>
+                <td class="s21">(32 + 51) (ឡ + ើ) =</td>
+                <td class="s30">ឡើ</td>
+                <td class="s29">लैअ</td>
+                <td class="s13">Laiya</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">50) ើ</td>
+                <td class="s21">( 33 + 51) (អ + ើ) =</td>
+                <td class="s30">អើ</td>
+                <td class="s29">ऐअ</td>
+                <td class="s13">Aiya</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">51) ើ</td>
+                <td class="s24">(3 + 51) (គ + ើ) =</td>
+                <td class="s31">គើ</td>
+                <td class="s28">गअ</td>
+                <td class="s19">Ga</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">51) ើ</td>
+                <td class="s24">(4 + 51) (ឃ + ើ) =</td>
+                <td class="s31">ឃើ</td>
+                <td class="s28">खअ</td>
+                <td class="s19">Kha</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s24">51) ើ</td>
+                <td class="s24">(5 + 51) (ង + ើ) =</td>
+                <td class="s31">ងើ</td>
+                <td class="s28">ञअ</td>
+                <td class="s19">Ña</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s24">51) ើ</td>
+                <td class="s24">(8 + 51) (ជ + ើ) =</td>
+                <td class="s28">ជើ</td>
+                <td class="s28">जअ</td>
+                <td class="s19">Ja</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s24">51) ើ</td>
+                <td class="s24">(9 + 51)(ឈ + ើ) =</td>
+                <td class="s28">ឈើ</td>
+                <td class="s28">छअ</td>
+                <td class="s19">Chha</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">51) ើ</td>
+                <td class="s24">(10 + 51)(ញ + ើ) =</td>
+                <td class="s28">ញើ</td>
+                <td class="s28">नअ</td>
+                <td class="s19">Na</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s24">51) ើ</td>
+                <td class="s24">(13 + 51) (ឌ + ើ) =</td>
+                <td class="s31">ឌើ</td>
+                <td class="s28">धअ</td>
+                <td class="s19">Dha</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s24">51) ើ</td>
+                <td class="s24">(14 + 51)(ឍ + ើ) =</td>
+                <td class="s31">ឍើ</td>
+                <td class="s28">थअ</td>
+                <td class="s19">Tha</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">51) ើ</td>
+                <td class="s24">(18 + 51) (ទ + ើ) =</td>
+                <td class="s31">ទើ</td>
+                <td class="s28">तअ</td>
+                <td class="s19">Ta</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">51) ើ</td>
+                <td class="s24">(19 + 51) (ធ + ើ) =</td>
+                <td class="s31">ធើ</td>
+                <td class="s28">थअ</td>
+                <td class="s19">Tha</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">51) ើ</td>
+                <td class="s24">(20 + 51) (ន + ើ) =</td>
+                <td class="s31">នើ</td>
+                <td class="s28">नअ</td>
+                <td class="s19">Na</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">51) ើ</td>
+                <td class="s24">(23 + 51) (ព + ើ) =</td>
+                <td class="s31">ពើ</td>
+                <td class="s28">पअ</td>
+                <td class="s19">Pa</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">51) ើ</td>
+                <td class="s24">(24 + 51) (ភ + ើ) =</td>
+                <td class="s31">ភើ</td>
+                <td class="s28">फ़अ</td>
+                <td class="s19">Fa / Pha</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">51) ើ</td>
+                <td class="s24">(25 + 51) (ម + ើ) =</td>
+                <td class="s31">មើ</td>
+                <td class="s28">मअ</td>
+                <td class="s19">Ma</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">51) ើ</td>
+                <td class="s24">(26 + 51)(យ + ើ) =</td>
+                <td class="s31">យើ</td>
+                <td class="s28">यअ</td>
+                <td class="s19">Ya</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">51) ើ</td>
+                <td class="s24">(27 + 51) (រ + ើ) =</td>
+                <td class="s31">រើ</td>
+                <td class="s28">रअ</td>
+                <td class="s19">Ra</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">51) ើ</td>
+                <td class="s24">(28 + 51)(ល + ើ) =</td>
+                <td class="s31">លើ</td>
+                <td class="s28">लअ</td>
+                <td class="s19">La</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">51) ើ</td>
+                <td class="s24">(29 + 51) (វ + ើ) =</td>
+                <td class="s31">វើ</td>
+                <td class="s28">वअ</td>
+                <td class="s19">Va</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s9" dir="ltr">52/53 ឿ</td>
+                <td class="s9" dir="ltr"></td>
+                <td class="s10" dir="ltr">Khmer</td>
+                <td class="s10">Devanagri </td>
+                <td class="s10" dir="ltr">Roman </td>
+                <td class="s10" dir="ltr">IPA</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s3">52) ឿ</td>
+                <td class="s21">(1 + 52) ( + ឿ) =</td>
+                <td class="s30">កឿ</td>
+                <td class="s29">गुअ</td>
+                <td class="s13">Gua</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">52) ឿ</td>
+                <td class="s21">(2 + 52) ( + ឿ) =</td>
+                <td class="s30">ខឿ</td>
+                <td class="s29">कुअ</td>
+                <td class="s13">Kua</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">52) ឿ</td>
+                <td class="s21">(6 + 52) ( + ឿ) =</td>
+                <td class="s30">ចឿ</td>
+                <td class="s29">जुअ</td>
+                <td class="s13">Jua</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">52) ឿ</td>
+                <td class="s21">(7 + 52) ( + ឿ) =</td>
+                <td class="s30">ឆឿ</td>
+                <td class="s29">चुअ / छुअ</td>
+                <td class="s13">Chua / Chhua</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">52) ឿ</td>
+                <td class="s21">(11 + 52) ( + ឿ) =</td>
+                <td class="s30">ដឿ</td>
+                <td class="s29">डुअ</td>
+                <td class="s13">Dua</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">52) ឿ</td>
+                <td class="s21">(12 + 52) ( + ឿ) =</td>
+                <td class="s30">ឋឿ</td>
+                <td class="s29">थुअ</td>
+                <td class="s13">Thua</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">52) ឿ</td>
+                <td class="s21">(15 + 52) ( + ឿ) =</td>
+                <td class="s30">ណឿ</td>
+                <td class="s29">नुअ</td>
+                <td class="s13">Nua</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">52) ឿ</td>
+                <td class="s21">(16 + 52) ( + ឿ) =</td>
+                <td class="s30">តឿ</td>
+                <td class="s29">तुअ</td>
+                <td class="s13">Tua</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s21">52) ឿ</td>
+                <td class="s21">(17 + 52) ( + ឿ) =</td>
+                <td class="s30">ថឿ</td>
+                <td class="s29">थुअ</td>
+                <td class="s13">Thua</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">52) ឿ</td>
+                <td class="s21">(21 + 52) ( + ឿ) =</td>
+                <td class="s30">បឿ</td>
+                <td class="s29">बुअ</td>
+                <td class="s13">Bua</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+             
+                <td class="s21">52) ឿ</td>
+                <td class="s21">(22 + 52) ( + ឿ) =</td>
+                <td class="s30">ផឿ</td>
+                <td class="s29">हुअ</td>
+                <td class="s13">Hua</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">52) ឿ</td>
+                <td class="s21">(30 + 52) ( + ឿ) =</td>
+                <td class="s30">សឿ</td>
+                <td class="s29">सुअ</td>
+                <td class="s13">Sua</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">52) ឿ</td>
+                <td class="s21">(31 + 52) ( + ឿ) =</td>
+                <td class="s30">ហឿ</td>
+                <td class="s29">हुअ</td>
+                <td class="s13">Hua</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">52) ឿ</td>
+                <td class="s21">(32 + 52) ( + ឿ) =</td>
+                <td class="s30">ឡឿ</td>
+                <td class="s29">लुअ</td>
+                <td class="s13">Lua</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s3" dir="ltr">52)</td>
+                <td class="s21">( 33 + 52) ( + ឿ) =</td>
+                <td class="s30">អឿ</td>
+                <td class="s13">उअ</td>
+                <td class="s13">Ua</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s24">53) ឿ</td>
+                <td class="s24">(3 + 53) (គ + ឿ) =</td>
+                <td class="s31">គឿ</td>
+                <td class="s28">गुअ</td>
+                <td class="s19">Gua</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">53) ឿ</td>
+                <td class="s24">(4 + 53) (ឃ + ឿ) =</td>
+                <td class="s31">ឃឿ</td>
+                <td class="s28">खुअ</td>
+                <td class="s19">Khua</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">53) ឿ</td>
+                <td class="s24">(5 + 53) (ង + ឿ) =</td>
+                <td class="s31">ងឿ</td>
+                <td class="s28">ञुअ</td>
+                <td class="s19">Ñua</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s24">53) ឿ</td>
+                <td class="s24">(8 + 53) (ជ + ឿ) =</td>
+                <td class="s28">ជឿ</td>
+                <td class="s28">जुअ</td>
+                <td class="s19">Jua</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">53) ឿ</td>
+                <td class="s4">(9 + 53) (ឈ + ឿ) =</td>
+                <td class="s28">ឈឿ</td>
+                <td class="s28">छुअ</td>
+                <td class="s19">Chhua</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">53) ឿ</td>
+                <td class="s24">(10 + 53) (ញ + ឿ) =</td>
+                <td class="s28">ញឿ</td>
+                <td class="s28">नुअ</td>
+                <td class="s19">Nua</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">53) ឿ</td>
+                <td class="s24">(13 + 53) (ឌ + ឿ) =</td>
+                <td class="s31">ឌឿ</td>
+                <td class="s28">धुअ</td>
+                <td class="s19">Dhua</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td class="s18" dir="ltr"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">53) ឿ</td>
+                <td class="s24">(14 + 53) (ឍ + ឿ) =</td>
+                <td class="s31">ឍឿ</td>
+                <td class="s28">थुअ</td>
+                <td class="s19">Thua</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">53) ឿ</td>
+                <td class="s24">(18 + 53) (ទ + ឿ) =</td>
+                <td class="s31">ទឿ</td>
+                <td class="s28">तुअ</td>
+                <td class="s19">Tua</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">53) ឿ</td>
+                <td class="s24">(19 + 53) (ធ + ឿ) =</td>
+                <td class="s31">ធឿ</td>
+                <td class="s28">थुअ</td>
+                <td class="s19">Thua</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">53) ឿ</td>
+                <td class="s24">(20 + 53) (ន + ឿ) =</td>
+                <td class="s31">នឿ</td>
+                <td class="s28">नुअ</td>
+                <td class="s19">Nua</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s24">53) ឿ</td>
+                <td class="s24">(23 + 53) (ព + ឿ) =</td>
+                <td class="s31">ពឿ</td>
+                <td class="s28">पुअ</td>
+                <td class="s19">Pua</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">53) ឿ</td>
+                <td class="s24">(24 + 53) (ភ + ឿ) =</td>
+                <td class="s31">ភឿ</td>
+                <td class="s28">फ़ुअ</td>
+                <td class="s19">Fua / Phua</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">53) ឿ</td>
+                <td class="s24">(25 + 53) (ម + ឿ) =</td>
+                <td class="s31">មឿ</td>
+                <td class="s28">मुअ</td>
+                <td class="s19">Mua</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">53) ឿ</td>
+                <td class="s24">(26 + 53) (យ + ឿ) =</td>
+                <td class="s31">យឿ</td>
+                <td class="s28">युअ</td>
+                <td class="s19">Yua</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">53) ឿ</td>
+                <td class="s24">(27 + 53) (រ + ឿ) =</td>
+                <td class="s31">រឿ</td>
+                <td class="s28">रुअ</td>
+                <td class="s19">Rua</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">53) ឿ</td>
+                <td class="s24">(28 + 53) (ល + ឿ) =</td>
+                <td class="s31">លឿ</td>
+                <td class="s28">लुअ</td>
+                <td class="s19">Lua</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">53) ឿ</td>
+                <td class="s24">(29 + 53) (វ + ឿ) =</td>
+                <td class="s31">វឿ</td>
+                <td class="s28">वुअ</td>
+                <td class="s19">Vua</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s9" dir="ltr">54/55 ៀ</td>
+                <td class="s9"></td>
+                <td class="s10" dir="ltr">Khmer</td>
+                <td class="s10">Devanagri </td>
+                <td class="s10" dir="ltr">Roman </td>
+                <td class="s10" dir="ltr">IPA</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s3" dir="ltr">54) ៀ</td>
+                <td class="s21">(1 + 54) (ក + ៀ) =</td>
+                <td class="s30">កៀ</td>
+                <td class="s29">गिअ</td>
+                <td class="s13">Gia</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">54) ៀ</td>
+                <td class="s21">(2 + 54) (ខ + ៀ) =</td>
+                <td class="s30">ខៀ</td>
+                <td class="s29">किअ</td>
+                <td class="s13">Kia</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">54) ៀ</td>
+                <td class="s21">(6 + 54) (ច + ៀ) =</td>
+                <td class="s30">ចៀ</td>
+                <td class="s29">जिअ</td>
+                <td class="s13">Jia</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">54) ៀ</td>
+                <td class="s21">(7 + 54) (ឆ + ៀ) =</td>
+                <td class="s30">ឆៀ</td>
+                <td class="s29">चिअ / छिअ</td>
+                <td class="s13">Chia / Chhia</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s3" dir="ltr">54) ៀ</td>
+                <td class="s21">(11 + 54) (ដ + ៀ) =</td>
+                <td class="s30">ដៀ</td>
+                <td class="s29">डिअ</td>
+                <td class="s13">Dia</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">54) ៀ</td>
+                <td class="s21">(12 + 54) (ឋ + ៀ) =</td>
+                <td class="s30">ឋៀ</td>
+                <td class="s29">थिअ</td>
+                <td class="s13">Thia</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">54) ៀ</td>
+                <td class="s21">(15 + 54 )(ណ + ៀ) =</td>
+                <td class="s30">ណៀ</td>
+                <td class="s29">निअ</td>
+                <td class="s13">Nia</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">54) ៀ</td>
+                <td class="s21">(16 + 54) (ត + ៀ) =</td>
+                <td class="s30">តៀ</td>
+                <td class="s29">तिअ</td>
+                <td class="s13">Tia</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">54) ៀ</td>
+                <td class="s21">(17 + 54) (ថ + ៀ) =</td>
+                <td class="s30">ថៀ</td>
+                <td class="s29">थिअ</td>
+                <td class="s13">Thia</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">54) ៀ</td>
+                <td class="s21">(21 + 54) (ប + ៀ) =</td>
+                <td class="s30">បៀ</td>
+                <td class="s29">बिअ</td>
+                <td class="s13">Bia</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">54) ៀ</td>
+                <td class="s21">(22 + 54) (ផ + ៀ) =</td>
+                <td class="s30">ផៀ</td>
+                <td class="s29">हिअ</td>
+                <td class="s13">Hia</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">54) ៀ</td>
+                <td class="s21">(30 + 54) (ស + ៀ) =</td>
+                <td class="s30">សៀ</td>
+                <td class="s29">सिअ</td>
+                <td class="s13">Sia</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">54) ៀ</td>
+                <td class="s21">(31 + 54) (ហ + ៀ) =</td>
+                <td class="s30">ហៀ</td>
+                <td class="s29">हिअ</td>
+                <td class="s13">Hia</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">54) ៀ</td>
+                <td class="s21">(32 + 54) (ឡ + ៀ) =</td>
+                <td class="s30">ឡៀ</td>
+                <td class="s29">लिअ</td>
+                <td class="s13">Lia</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s21">54) ៀ</td>
+                <td class="s21">(33 + 54) (អ + ៀ) =</td>
+                <td class="s30">អៀ</td>
+                <td class="s13">इअ</td>
+                <td class="s13">Ia</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">55) ៀ</td>
+                <td class="s24">(3 + 55) ( គ + ៀ) =</td>
+                <td class="s31">គៀ</td>
+                <td class="s28">गिअ</td>
+                <td class="s19">Gia</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">55) ៀ</td>
+                <td class="s24">(4 + 55) (ឃ + ៀ) =</td>
+                <td class="s31">ឃៀ</td>
+                <td class="s28">खिअ</td>
+                <td class="s19">Khia</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">55) ៀ</td>
+                <td class="s24">(5 + 55) (ង + ៀ) =</td>
+                <td class="s31">ងៀ</td>
+                <td class="s28">ञिअ</td>
+                <td class="s19">Ñia</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">55) ៀ</td>
+                <td class="s24">(8 + 55) ( ជ + ៀ) =</td>
+                <td class="s28">ជៀ</td>
+                <td class="s28">जिअ</td>
+                <td class="s19">Jia</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">55) ៀ</td>
+                <td class="s24">(9 + 55)(ឈ + ៀ) =</td>
+                <td class="s28">ឈៀ</td>
+                <td class="s28">छिअ</td>
+                <td class="s19">Chhia</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">55) ៀ</td>
+                <td class="s24">(10 + 55) (ញ + ៀ) =</td>
+                <td class="s28">ញៀ</td>
+                <td class="s28">निअ</td>
+                <td class="s19">Nia</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">55) ៀ</td>
+                <td class="s24">(13 + 55)( ឌ + ៀ) =</td>
+                <td class="s31">ឌៀ</td>
+                <td class="s28">धिअ</td>
+                <td class="s19">Dhia</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">55) ៀ</td>
+                <td class="s24">(14 + 55)( ឍ + ៀ) =</td>
+                <td class="s31">ឍៀ</td>
+                <td class="s28">थिअ</td>
+                <td class="s19">Thia</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">55) ៀ</td>
+                <td class="s24">(18 + 55)( ទ + ៀ) =</td>
+                <td class="s31">ទៀ</td>
+                <td class="s28">तिअ</td>
+                <td class="s19">Tia</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">55) ៀ</td>
+                <td class="s24">(19 + 55) (ធ + ៀ) =</td>
+                <td class="s31">ធៀ</td>
+                <td class="s28">थिअ</td>
+                <td class="s19">Thia</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">55) ៀ</td>
+                <td class="s24">(20 + 55) (ន + ៀ) =</td>
+                <td class="s31">នៀ</td>
+                <td class="s28">निअ</td>
+                <td class="s19">Nia</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">55) ៀ</td>
+                <td class="s24">(23 + 55) (ព + ៀ) =</td>
+                <td class="s31">ពៀ</td>
+                <td class="s28">पिअ</td>
+                <td class="s19">Pia</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">55) ៀ</td>
+                <td class="s24">(24 + 55)( ភ + ៀ) =</td>
+                <td class="s31">ភៀ</td>
+                <td class="s28">फ़िअ</td>
+                <td class="s19">Fia / Phia</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s24">55) ៀ</td>
+                <td class="s24">(25 + 55) (ម + ៀ) =</td>
+                <td class="s31">មៀ</td>
+                <td class="s28">मिअ</td>
+                <td class="s19">Mia</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">55) ៀ</td>
+                <td class="s24">(26 + 55)(យ + ៀ) =</td>
+                <td class="s31">យៀ</td>
+                <td class="s28">यिअ</td>
+                <td class="s19">Yia</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">55) ៀ</td>
+                <td class="s24">(27 + 55) (រ + ៀ) =</td>
+                <td class="s31">រៀ</td>
+                <td class="s28">रिअ</td>
+                <td class="s19">Ria</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s24">55) ៀ</td>
+                <td class="s24">(28 + 55)(ល + ៀ) =</td>
+                <td class="s31">លៀ</td>
+                <td class="s28">लिअ</td>
+                <td class="s19">Lia</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">55) ៀ</td>
+                <td class="s24">(29 + 55) (វ + ៀ) =</td>
+                <td class="s31">វៀ</td>
+                <td class="s28">विअ</td>
+                <td class="s19">Via</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s9" dir="ltr">56/57</td>
+                <td class="s9"></td>
+                <td class="s10" dir="ltr">Khmer</td>
+                <td class="s10">Devanagri </td>
+                <td class="s10" dir="ltr">Roman </td>
+                <td class="s10" dir="ltr">IPA</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s21">56) េ</td>
+                <td class="s21">(1 + 56 ) (ក + េ) =</td>
+                <td class="s30">កេ</td>
+                <td class="s29">गे</td>
+                <td class="s13">Ge</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">56) េ</td>
+                <td class="s21">(2 + 56) (ខ + េ) =</td>
+                <td class="s30">ខេ</td>
+                <td class="s29">के</td>
+                <td class="s13">Ke</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">56) េ</td>
+                <td class="s21">(6 + 56) ( ច + េ) =</td>
+                <td class="s30">ចេ</td>
+                <td class="s29">जे</td>
+                <td class="s13">Je</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">56) េ</td>
+                <td class="s21">(7 + 56) (ឆ + េ) =</td>
+                <td class="s30">ឆេ</td>
+                <td class="s29">चे / छे</td>
+                <td class="s13">Che / Chhe</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s3" dir="ltr">56) េ</td>
+                <td class="s21">(11 + 56) (ដ + េ) =</td>
+                <td class="s30">ដេ</td>
+                <td class="s29">डे</td>
+                <td class="s13">De</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">56) េ</td>
+                <td class="s21">(12 + 56) (ឋ + េ) =</td>
+                <td class="s30">ឋេ</td>
+                <td class="s29">थे</td>
+                <td class="s13">The</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s3" dir="ltr">56) េ</td>
+                <td class="s21">(15 + 56 ) (ណ + េ) =</td>
+                <td class="s30">ណេ</td>
+                <td class="s29">ने</td>
+                <td class="s13">Ne</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">56) េ</td>
+                <td class="s21">(16 + 56) (ត + េ) =</td>
+                <td class="s30">តេ</td>
+                <td class="s29">ते</td>
+                <td class="s13">Te</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">56) េ</td>
+                <td class="s21">(17 + 56) (ថ + េ) =</td>
+                <td class="s30">ថេ</td>
+                <td class="s29">थे</td>
+                <td class="s13">The</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">56) េ</td>
+                <td class="s21">(21 + 56) (ប + េ) =</td>
+                <td class="s30">បេ</td>
+                <td class="s29">बे</td>
+                <td class="s13">Be</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s21">56) េ</td>
+                <td class="s21">(22 + 56) (ផ + េ) =</td>
+                <td class="s30">ផេ</td>
+                <td class="s29">हे</td>
+                <td class="s13">He</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">56) េ</td>
+                <td class="s21">(30 + 56) (ស + េ) =</td>
+                <td class="s30">សេ</td>
+                <td class="s29">से</td>
+                <td class="s13">Se</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">56) េ</td>
+                <td class="s21">(31 + 56) (ហ + េ) =</td>
+                <td class="s30">ហេ</td>
+                <td class="s29">हे</td>
+                <td class="s13">He</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">56) េ</td>
+                <td class="s21">(32 + 56 ) ( ឡ + េ) =</td>
+                <td class="s30">ឡេ</td>
+                <td class="s29">ले</td>
+                <td class="s13">Le</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">56) េ</td>
+                <td class="s21">(33 + 56) ( អ + េ) =</td>
+                <td class="s30">អេ</td>
+                <td class="s29">ए</td>
+                <td class="s13">E</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">57) េ</td>
+                <td class="s24">(3 + 57) (គ + េ) =</td>
+                <td class="s31">គេ</td>
+                <td class="s28">गे</td>
+                <td class="s19">Ge</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s4" dir="ltr">57) េ</td>
+                <td class="s24">(4 + 57) (ឃ + េ) =</td>
+                <td class="s31">ឃេ</td>
+                <td class="s28">खे</td>
+                <td class="s19">Khe</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">57) េ</td>
+                <td class="s24">(5 + 57) (ង + េ) =</td>
+                <td class="s31">ងេ</td>
+                <td class="s28">ञे</td>
+                <td class="s19">Ñe</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">57) េ</td>
+                <td class="s24">(8 + 57) (ជ + េ) =</td>
+                <td class="s28">ជេ</td>
+                <td class="s28">जे</td>
+                <td class="s19">Je</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">57) េ</td>
+                <td class="s24">(9 + 57)(ឈ + េ) =</td>
+                <td class="s28">ឈេ</td>
+                <td class="s28">छे</td>
+                <td class="s19">Chhe</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s24">57) េ</td>
+                <td class="s24">(10 + 57)(ញ + េ) =</td>
+                <td class="s28">ញេ</td>
+                <td class="s28">ने</td>
+                <td class="s19">Ne</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">57) េ</td>
+                <td class="s24">(13 + 57)(ឌ + េ) =</td>
+                <td class="s31">ឌេ</td>
+                <td class="s28">धे</td>
+                <td class="s19">Dhe</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">57) េ</td>
+                <td class="s24">(14 + 57)(ឍ + េ) =</td>
+                <td class="s31">ឍេ</td>
+                <td class="s28">थे</td>
+                <td class="s19">The</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s24">57) េ</td>
+                <td class="s24">(18 + 57)(ទ + េ) =</td>
+                <td class="s31">ទេ</td>
+                <td class="s28">ते</td>
+                <td class="s19">Te</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">57) េ</td>
+                <td class="s24">(19 + 57)(ធ + េ) =</td>
+                <td class="s31">ធេ</td>
+                <td class="s28">थे</td>
+                <td class="s19">The</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">57) េ</td>
+                <td class="s24">(20 + 57)(ន + េ) =</td>
+                <td class="s31">នេ</td>
+                <td class="s28">ने</td>
+                <td class="s19">Ne</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+             
+                <td class="s24">57) េ</td>
+                <td class="s24">(23 + 57)(ព + េ) =</td>
+                <td class="s31">ពេ</td>
+                <td class="s28">पे</td>
+                <td class="s19">Pe</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">57) េ</td>
+                <td class="s24">(24 + 57)(ភ + េ) =</td>
+                <td class="s31">ភេ</td>
+                <td class="s28">फ़े</td>
+                <td class="s19">Fe / Phe</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">57) េ</td>
+                <td class="s24">(25 + 57)(ម + េ) =</td>
+                <td class="s31">មេ</td>
+                <td class="s28">मे</td>
+                <td class="s19">Me</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s24">57) េ</td>
+                <td class="s24">(26 + 57)( យ + េ) =</td>
+                <td class="s31">យេ</td>
+                <td class="s28">ये</td>
+                <td class="s19">Ye</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">57) េ</td>
+                <td class="s24">(27 + 57)( រ + េ) =</td>
+                <td class="s31">រេ</td>
+                <td class="s28">रे</td>
+                <td class="s19">Re</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">57) េ</td>
+                <td class="s24">(28 + 57)(ល + េ) =</td>
+                <td class="s31">លេ</td>
+                <td class="s28">ले</td>
+                <td class="s19">Le</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s24">57) េ</td>
+                <td class="s24">(29 + 57) (វ + េ) =</td>
+                <td class="s31">វេ</td>
+                <td class="s28">वे</td>
+                <td class="s19">Ve</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s9" dir="ltr">58/59</td>
+                <td class="s9"></td>
+                <td class="s10" dir="ltr">Khmer</td>
+                <td class="s10">Devanagri </td>
+                <td class="s10" dir="ltr">Roman </td>
+                <td class="s10" dir="ltr">IPA</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s3" dir="ltr">58) ែ</td>
+                <td class="s21">(1 + 58) (ក + ែ) =</td>
+                <td class="s30">កែ</td>
+                <td class="s32">गआए</td>
+                <td class="s13">Gaa’e</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">58) ែ</td>
+                <td class="s21">(2 + 58) (ខ + ែ) =</td>
+                <td class="s30">ខែ</td>
+                <td class="s29">कआए</td>
+                <td class="s13">Kaa’e</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">58) ែ</td>
+                <td class="s21">(6 + 58) ( ច + ែ) =</td>
+                <td class="s30">ចែ</td>
+                <td class="s29">जआए</td>
+                <td class="s13">Jaa’e</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">58) ែ</td>
+                <td class="s21">(7 + 58) (ឆ + ែ) =</td>
+                <td class="s30">ឆែ</td>
+                <td class="s29">चआए / छआए</td>
+                <td class="s13">Chaa’e / Chhaa’e</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">58) ែ</td>
+                <td class="s21">(11 + 58) (ដ + ែ) =</td>
+                <td class="s30">ដែ</td>
+                <td class="s29">डआए</td>
+                <td class="s13">Daa’e</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">58) ែ</td>
+                <td class="s21">(12 + 58) (ឋ + ែ) =</td>
+                <td class="s30">ឋែ</td>
+                <td class="s29">थआए</td>
+                <td class="s13">Thaa’e</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">58) ែ</td>
+                <td class="s21">(15 + 58) (ណ + ែ) =</td>
+                <td class="s30">ណែ</td>
+                <td class="s29">नआए</td>
+                <td class="s13">Naa’e</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">58) ែ</td>
+                <td class="s21">(16 + 58) (ត + ែ) =</td>
+                <td class="s30">តែ</td>
+                <td class="s29">तआए</td>
+                <td class="s13">Taa’e</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">58) ែ</td>
+                <td class="s21">(17 + 58) (ថ + ែ) =</td>
+                <td class="s30">ថែ</td>
+                <td class="s29">थआए</td>
+                <td class="s13">Thaa’e</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">58) ែ</td>
+                <td class="s21">(21 + 58) (ប + ែ) =</td>
+                <td class="s30">បែ</td>
+                <td class="s29">बआए</td>
+                <td class="s13">Baa’e</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">58) ែ</td>
+                <td class="s21">(22 + 58) (ផ + ែ) =</td>
+                <td class="s30">ផែ</td>
+                <td class="s29">हआए</td>
+                <td class="s13">Haa’e</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">58) ែ</td>
+                <td class="s21">(30 + 58) (ស + ែ) =</td>
+                <td class="s30">សែ</td>
+                <td class="s29">सआए</td>
+                <td class="s13">Saa’e</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">58) ែ</td>
+                <td class="s21">(31 + 58) (ហ + ែ) =</td>
+                <td class="s30">ហែ</td>
+                <td class="s29">हआए</td>
+                <td class="s13">Haa’e</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">58) ែ</td>
+                <td class="s21">(32 + 58) (ឡ + ែ) =</td>
+                <td class="s30">ឡែ</td>
+                <td class="s29">लआए</td>
+                <td class="s13">Laa’e</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">58) ែ</td>
+                <td class="s21">(33 + 58) (អ + ែ) =</td>
+                <td class="s30">អែ</td>
+                <td class="s29">आए</td>
+                <td class="s13">Aa’e</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">59) ែ</td>
+                <td class="s24">(3 + 59) ( គ + ែ) =</td>
+                <td class="s31">គែ</td>
+                <td class="s28">गे</td>
+                <td class="s19">Ge</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">59) ែ</td>
+                <td class="s24">(4 + 59) ( ឃ + ែ) =</td>
+                <td class="s31">ឃែ</td>
+                <td class="s28">खे</td>
+                <td class="s19">Khe</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">59) ែ</td>
+                <td class="s24">(5 + 59) ( ង + ែ) =</td>
+                <td class="s31">ងែ</td>
+                <td class="s28">ञे</td>
+                <td class="s19">Ñe</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">59) ែ</td>
+                <td class="s24">(8 + 59) ( ជ + ែ) =</td>
+                <td class="s28">ជែ</td>
+                <td class="s28">जे</td>
+                <td class="s19">Je</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">59) ែ</td>
+                <td class="s24">(9 + 59) ( ឈ + ែ) =</td>
+                <td class="s28">ឈែ</td>
+                <td class="s28">छे</td>
+                <td class="s19">Chhe</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">59) ែ</td>
+                <td class="s24">(10 + 59) ( ញ + ែ) =</td>
+                <td class="s28">ញែ</td>
+                <td class="s28">ने</td>
+                <td class="s19">Ne</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">59) ែ</td>
+                <td class="s24">(13 + 59) ( ឌ + ែ) =</td>
+                <td class="s31">ឌែ</td>
+                <td class="s28">धे</td>
+                <td class="s19">Dhe</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">59) ែ</td>
+                <td class="s24">(14 + 59) ( ឍ + ែ) =</td>
+                <td class="s31">ឍែ</td>
+                <td class="s28">थे</td>
+                <td class="s19">The</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">59) ែ</td>
+                <td class="s24">(18 + 59) ( ទ + ែ) =</td>
+                <td class="s31">ទែ</td>
+                <td class="s28">ते</td>
+                <td class="s19">Te</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">59) ែ</td>
+                <td class="s24">(19 + 59) ( ធ + ែ) =</td>
+                <td class="s31">ធែ</td>
+                <td class="s28">थे</td>
+                <td class="s19">The</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s24">59) ែ</td>
+                <td class="s24">(20 + 59) ( ន + ែ) =</td>
+                <td class="s31">នែ</td>
+                <td class="s28">ने</td>
+                <td class="s19">Ne</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">59) ែ</td>
+                <td class="s24">(23 + 59) ( ព + ែ) =</td>
+                <td class="s31">ពែ</td>
+                <td class="s28">पे</td>
+                <td class="s19">Pe</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">59) ែ</td>
+                <td class="s24">(24 + 59) ( ភ + ែ) =</td>
+                <td class="s31">ភែ</td>
+                <td class="s28">फ़े</td>
+                <td class="s19">Fe / Phe</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">59) ែ</td>
+                <td class="s24">(25 + 59) ( ម + ែ) =</td>
+                <td class="s31">មែ</td>
+                <td class="s28">मे</td>
+                <td class="s19">Me</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">59) ែ</td>
+                <td class="s24">(26 + 59)( យ + ែ) =</td>
+                <td class="s31">យែ</td>
+                <td class="s28">ये</td>
+                <td class="s19">Ye</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">59) ែ</td>
+                <td class="s24">(27 + 59) ( រ + ែ) =</td>
+                <td class="s31">រែ</td>
+                <td class="s28">रे</td>
+                <td class="s19">Re</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">59) ែ</td>
+                <td class="s24">(28 + 59)( ល + ែ) =</td>
+                <td class="s31">លែ</td>
+                <td class="s28">ले</td>
+                <td class="s19">Le</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">59) ែ</td>
+                <td class="s24">(29 + 59) ( វ + ែ) =</td>
+                <td class="s31">វែ</td>
+                <td class="s28">वे</td>
+                <td class="s19">Ve</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s9" dir="ltr">60/61</td>
+                <td class="s9"></td>
+                <td class="s10" dir="ltr">Khmer</td>
+                <td class="s10">Devanagri </td>
+                <td class="s10" dir="ltr">Roman </td>
+                <td class="s10" dir="ltr">IPA</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s3" dir="ltr">60) ៃ</td>
+                <td class="s21">(1 + 60) (ក + ៃ) =</td>
+                <td class="s30">កៃ</td>
+                <td class="s29">गआई</td>
+                <td class="s13">Gaaee</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">60) ៃ</td>
+                <td class="s21">(2 + 60) (ខ + ៃ ) =</td>
+                <td class="s30">ខៃ</td>
+                <td class="s29">कआई</td>
+                <td class="s13">Kaaee</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">60) ៃ</td>
+                <td class="s21">(6 + 60) (ច + ៃ ) =</td>
+                <td class="s30">ចៃ</td>
+                <td class="s29">जआई</td>
+                <td class="s13">Jaaee</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">60) ៃ</td>
+                <td class="s21">(7 + 60) (ឆ + ៃ ) =</td>
+                <td class="s30">ឆៃ</td>
+                <td class="s33">चआई / छआई</td>
+                <td class="s34 softmerge">
+                    <div class="softmerge-inner" style="width:200px;left:-3px">Chaaee / Chhaaee</div>
+                </td>
+                <td class="s35"></td>
+                <td class="s36"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">60) ៃ</td>
+                <td class="s21">(11 + 60) (ដ + ៃ ) =</td>
+                <td class="s30">ដៃ</td>
+                <td class="s29">डआई</td>
+                <td class="s13">Daaee</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">60) ៃ</td>
+                <td class="s21">(12 + 60) (ឋ + ៃ ) =</td>
+                <td class="s30">ឋៃ</td>
+                <td class="s29">थआई</td>
+                <td class="s13">Thaaee</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">60) ៃ</td>
+                <td class="s21">(15 + 60 ) (ណ + ៃ ) =</td>
+                <td class="s30">ណៃ</td>
+                <td class="s29">नआई</td>
+                <td class="s13">Naaee</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">60) ៃ</td>
+                <td class="s21">(16 + 60 ) (ត + ៃ ) =</td>
+                <td class="s30">តៃ</td>
+                <td class="s29">तआई</td>
+                <td class="s13">Taaee</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">60) ៃ</td>
+                <td class="s21">(17 + 60) (ថ + ៃ ) =</td>
+                <td class="s30">ថៃ</td>
+                <td class="s29">थआई</td>
+                <td class="s13">Thaaee</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s21">60) ៃ</td>
+                <td class="s21">(21 + 60) (ប + ៃ ) =</td>
+                <td class="s30">បៃ</td>
+                <td class="s29">बआई</td>
+                <td class="s13">Baaee</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">60) ៃ</td>
+                <td class="s21">(22 + 60) (ផ + ៃ ) =</td>
+                <td class="s30">ផៃ</td>
+                <td class="s29">हआई</td>
+                <td class="s13">Haaee</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">60) ៃ</td>
+                <td class="s21">(30 + 60) (ស + ៃ ) =</td>
+                <td class="s30">សៃ</td>
+                <td class="s29">सआई</td>
+                <td class="s13">Saaee</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">60) ៃ</td>
+                <td class="s21">(31 + 60) (ហ + ៃ ) =</td>
+                <td class="s30">ហៃ</td>
+                <td class="s29">हआई</td>
+                <td class="s13">Haaee</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+             
+                <td class="s21">60) ៃ</td>
+                <td class="s21">(32 + 60) (ឡ + ៃ ) =</td>
+                <td class="s30">ឡៃ</td>
+                <td class="s29">लआई</td>
+                <td class="s13">Laaee</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">60) ៃ</td>
+                <td class="s21">(33 + 60) (អ + ៃ ) =</td>
+                <td class="s30">អៃ</td>
+                <td class="s29">आई</td>
+                <td class="s13">Aaee</td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">61) ៃ</td>
+                <td class="s24">(3 + 61) (គ + ៃ) =</td>
+                <td class="s31">គៃ</td>
+                <td class="s28">गअई</td>
+                <td class="s19">Gaee</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">61) ៃ</td>
+                <td class="s24">(4 + 61) (ឃ + ៃ) =</td>
+                <td class="s31">ឃៃ</td>
+                <td class="s28">खअई</td>
+                <td class="s19">Khaee</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s24">61) ៃ</td>
+                <td class="s24">(5 + 61) (ង + ៃ) =</td>
+                <td class="s31">ងៃ</td>
+                <td class="s28">ञअई</td>
+                <td class="s19">Ñaee</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">61) ៃ</td>
+                <td class="s24">(8 + 61) (ជ + ៃ) =</td>
+                <td class="s28">ជៃ</td>
+                <td class="s28">जअई</td>
+                <td class="s19">Jaee</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s24">61) ៃ</td>
+                <td class="s24">(9 + 61) (ឈ + ៃ) =</td>
+                <td class="s28">ឈៃ</td>
+                <td class="s28">छअई</td>
+                <td class="s19">Chhaee</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">61) ៃ</td>
+                <td class="s24">(10 + 61)( ញ+ ៃ) =</td>
+                <td class="s28">ញៃ</td>
+                <td class="s28">नअई</td>
+                <td class="s19">Naee</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">61) ៃ</td>
+                <td class="s24">(13 + 61) (ឌ + ៃ) =</td>
+                <td class="s31">ឌៃ</td>
+                <td class="s28">धअई</td>
+                <td class="s19">Dhaee</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">61) ៃ</td>
+                <td class="s24">(14 + 61) (ឍ + ៃ) =</td>
+                <td class="s31">ឍៃ</td>
+                <td class="s28">थअई</td>
+                <td class="s19">Thaaee</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">61) ៃ</td>
+                <td class="s24">(18 + 61) (ទ+ ៃ) =</td>
+                <td class="s31">ទៃ</td>
+                <td class="s28">तअई</td>
+                <td class="s19">Taaee</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">61) ៃ</td>
+                <td class="s24">(19 + 61)(ធ + ៃ) =</td>
+                <td class="s31">ធៃ</td>
+                <td class="s28">थअई</td>
+                <td class="s19">Thaaee</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">61) ៃ</td>
+                <td class="s24">(20 + 61) (ន + ៃ) =</td>
+                <td class="s31">នៃ</td>
+                <td class="s28">नअई</td>
+                <td class="s19">Naee</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s24">61) ៃ</td>
+                <td class="s24">(23 + 61 )(ព + ៃ) =</td>
+                <td class="s31">ពៃ</td>
+                <td class="s28">पअई</td>
+                <td class="s19">Paee</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+             
+                <td class="s24">61) ៃ</td>
+                <td class="s24">(24 + 61 )(ភ + ៃ) =</td>
+                <td class="s31">ភៃ</td>
+                <td class="s28">फ़अई</td>
+                <td class="s19">Faee / Phaee</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">61) ៃ</td>
+                <td class="s24">(25 + 61) (ម + ៃ) =</td>
+                <td class="s31">មៃ</td>
+                <td class="s28">मअई</td>
+                <td class="s19">Maee</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s24">61) ៃ</td>
+                <td class="s24">(26 + 61) (យ + ៃ) =</td>
+                <td class="s31">យៃ</td>
+                <td class="s28">यअई</td>
+                <td class="s19">Yaee</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">61) ៃ</td>
+                <td class="s24">(27 + 61)(រ + ៃ) =</td>
+                <td class="s31">រៃ</td>
+                <td class="s28">रअई</td>
+                <td class="s19">Raee</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">61) ៃ</td>
+                <td class="s24">(28 + 61)(ល + ៃ) =</td>
+                <td class="s31">លៃ</td>
+                <td class="s28">लअई</td>
+                <td class="s19">Laee</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s24">61) ៃ</td>
+                <td class="s24">(29 + 61)(វ + ៃ) =</td>
+                <td class="s31">វៃ</td>
+                <td class="s28">वअई</td>
+                <td class="s19">Vaee</td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s9" dir="ltr">62/63</td>
+                <td class="s9"></td>
+                <td class="s10" dir="ltr">Khmer</td>
+                <td class="s10">Devanagri </td>
+                <td class="s10" dir="ltr">Roman </td>
+                <td class="s10" dir="ltr">IPA</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s37">62) ោ</td>
+                <td class="s3">(1 + 62) (ក + ោ) =</td>
+                <td class="s29">កោ</td>
+                <td class="s29">गआओ</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s37">62) ោ</td>
+                <td class="s3">(2 + 62) (ខ + ោ) =</td>
+                <td class="s29">ខោ</td>
+                <td class="s29">कआओ</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s37">62) ោ</td>
+                <td class="s3">(6 + 62) ( ច + ោ) =</td>
+                <td class="s29">ចោ</td>
+                <td class="s29">जआओ</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s37">62) ោ</td>
+                <td class="s3">(7 + 62) (ឆ + ោ) =</td>
+                <td class="s29">ឆោ</td>
+                <td class="s29">चआओ / छआओ</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s37">62) ោ</td>
+                <td class="s3">(11 + 62) (ដ + ោ) =</td>
+                <td class="s29">ដោ</td>
+                <td class="s29">डआओ</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s37">62) ោ</td>
+                <td class="s3">(12 + 62) (ឋ + ោ) =</td>
+                <td class="s29">ឋោ</td>
+                <td class="s29">थआओ</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s37">62) ោ</td>
+                <td class="s3">(15 + 62) (ណ + ោ) =</td>
+                <td class="s29">ណោ</td>
+                <td class="s29">नआओ</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s37">62) ោ</td>
+                <td class="s3">(16 + 62) (ត + ោ) =</td>
+                <td class="s29">តោ</td>
+                <td class="s29">तआओ</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s37">62) ោ</td>
+                <td class="s3">(17 + 62) (ថ + ោ) =</td>
+                <td class="s29">ថោ</td>
+                <td class="s29">थआओ</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s3" dir="ltr">62) ោ</td>
+                <td class="s3">(21 + 62) (ប + ោ) =</td>
+                <td class="s29">បោ</td>
+                <td class="s29">बआओ</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s37">62) ោ</td>
+                <td class="s3">(22 + 62) (ផ + ោ) =</td>
+                <td class="s29">ផោ</td>
+                <td class="s29">हआओ</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s37">62) ោ</td>
+                <td class="s3">(30 + 62) (ស + ោ) =</td>
+                <td class="s29">សោ</td>
+                <td class="s29">सआओ</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s37">62) ោ</td>
+                <td class="s3">(31 + 62) (ហ + ោ) =</td>
+                <td class="s29">ហោ</td>
+                <td class="s29">हआओ</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s37">62) ោ</td>
+                <td class="s3">(32 + 62) (ឡ + ោ) =</td>
+                <td class="s29">ឡោ</td>
+                <td class="s29">लआओ</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s37">62) ោ</td>
+                <td class="s3">(33 + 62) (អ + ោ) =</td>
+                <td class="s29">អោ</td>
+                <td class="s29">आओ</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s38">63) ោ</td>
+                <td class="s4">(3 + 63) (គ + ោ) =</td>
+                <td class="s31">គោ</td>
+                <td class="s28">गो</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s38">63) ោ</td>
+                <td class="s4">(4 + 63) (ឃ + ោ) =</td>
+                <td class="s31">ឃោ</td>
+                <td class="s28">खो</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s38">63) ោ</td>
+                <td class="s4">(5 + 63) (ង + ោ) =</td>
+                <td class="s31">ងោ</td>
+                <td class="s28">ञो</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s38">63) ោ</td>
+                <td class="s4">(8 + 63) (ជ + ោ) =</td>
+                <td class="s28">ជោ</td>
+                <td class="s28">जो</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s38">63) ោ</td>
+                <td class="s4">(9 + 63)(ឈ + ោ) =</td>
+                <td class="s28">ឈោ</td>
+                <td class="s28">छो</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s38">63) ោ</td>
+                <td class="s4">(10 + 63)(ញ + ោ) =</td>
+                <td class="s28">ញោ</td>
+                <td class="s28">नो</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s38">63) ោ</td>
+                <td class="s4">(13 + 63)(ឌ + ោ) =</td>
+                <td class="s31">ឌោ</td>
+                <td class="s28">धो</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s38">63) ោ</td>
+                <td class="s4">(14 + 63 )(ឍ + ោ) =</td>
+                <td class="s31">ឍោ</td>
+                <td class="s28">थो</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s38">63) ោ</td>
+                <td class="s4">(18 + 63)(ទ + ោ) =</td>
+                <td class="s31">ទោ</td>
+                <td class="s28">तो</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s38">63) ោ</td>
+                <td class="s4">(19 + 63)(ធ + ោ) =</td>
+                <td class="s31">ធោ</td>
+                <td class="s28">थो</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s38">63) ោ</td>
+                <td class="s4">(20 + 63)(ន + ោ) =</td>
+                <td class="s31">នោ</td>
+                <td class="s28">नो</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s38">63) ោ</td>
+                <td class="s4">(23 + 63)(ព + ោ) =</td>
+                <td class="s31">ពោ</td>
+                <td class="s28">पो</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s38">63) ោ</td>
+                <td class="s4">(24 + 63 )(ភ + ោ) =</td>
+                <td class="s31">ភោ</td>
+                <td class="s28">फ़ो</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s38">63) ោ</td>
+                <td class="s4">(25 + 63 )(ម + ោ) =</td>
+                <td class="s31">មោ</td>
+                <td class="s28">मो</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s38">63) ោ</td>
+                <td class="s39">(26 + 63) (យ + ោ) =</td>
+                <td class="s31">យោ</td>
+                <td class="s28">यो</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s38">63) ោ</td>
+                <td class="s39">(27 + 63) (រ + ោ) =</td>
+                <td class="s31">រោ</td>
+                <td class="s28">रो</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s38">63) ោ</td>
+                <td class="s39">(28 + 63) (ល + ោ) =</td>
+                <td class="s31">លោ</td>
+                <td class="s28">लो</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s38">63) ោ</td>
+                <td class="s39">(29 + 63) (វ + ោ) =</td>
+                <td class="s31">វោ</td>
+                <td class="s28">वो</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s9" dir="ltr">64/65</td>
+                <td class="s9"></td>
+                <td class="s10" dir="ltr">Khmer</td>
+                <td class="s10">Devanagri </td>
+                <td class="s10" dir="ltr">Roman </td>
+                <td class="s10" dir="ltr">IPA</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">64) ៅ</td>
+                <td class="s3">(1 + 64) (ក + ៅ ) =</td>
+                <td class="s22">កៅ</td>
+                <td class="s29">गआउ</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">64) ៅ</td>
+                <td class="s3">(2 + 64) (ខ + ៅ) =</td>
+                <td class="s22">ខៅ</td>
+                <td class="s29">कआउ</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">64) ៅ</td>
+                <td class="s3">(6 + 64) ( ច + ៅ) =</td>
+                <td class="s22">ចៅ</td>
+                <td class="s29">जआउ</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s3" dir="ltr">64) ៅ</td>
+                <td class="s3">(7 + 64) (ឆ + ៅ) =</td>
+                <td class="s22">ឆៅ</td>
+                <td class="s29">चआउ / छआउ</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s21">64) ៅ</td>
+                <td class="s3">(11 + 64) (ដ + ៅ) =</td>
+                <td class="s22">ដៅ</td>
+                <td class="s29">डआउ</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">64) ៅ</td>
+                <td class="s3">(12 + 64) (ឋ + ៅ) =</td>
+                <td class="s22">ឋៅ</td>
+                <td class="s29">थआउ</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">64) ៅ</td>
+                <td class="s3">(15 + 64) (ណ + ៅ) =</td>
+                <td class="s22">ណៅ</td>
+                <td class="s29">नआउ</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">64) ៅ</td>
+                <td class="s3">(16 + 64) (ត + ៅ) =</td>
+                <td class="s22">តៅ</td>
+                <td class="s29">तआउ</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">64) ៅ</td>
+                <td class="s3">(17 + 64) (ថ + ៅ) =</td>
+                <td class="s22">ថៅ</td>
+                <td class="s29">थआउ</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+            
+                <td class="s21">64) ៅ</td>
+                <td class="s3">(21 + 64) (ប + ៅ) =</td>
+                <td class="s22">បៅ</td>
+                <td class="s29">बआउ</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">64) ៅ</td>
+                <td class="s3">(22 + 64) (ផ + ៅ ) =</td>
+                <td class="s22">ផៅ</td>
+                <td class="s29">हआउ</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">64) ៅ</td>
+                <td class="s3">(30 + 64) (ស + ៅ) =</td>
+                <td class="s22">សៅ</td>
+                <td class="s29">सआउ</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s21">64) ៅ</td>
+                <td class="s3">(31 + 64) (ហ + ៅ) =</td>
+                <td class="s22">ហៅ</td>
+                <td class="s29">हआउ</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">64) ៅ</td>
+                <td class="s3">(32 + 64) (ឡ + ៅ) =</td>
+                <td class="s22">ឡៅ</td>
+                <td class="s29">लआउ</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">64) ៅ</td>
+                <td class="s3">(33 + 64) (អ + ៅ) =</td>
+                <td class="s22">អៅ</td>
+                <td class="s29">आउ</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">65) ៅ</td>
+                <td class="s4">(3 + 65) (គ + ៅ) =</td>
+                <td class="s31">គៅ</td>
+                <td class="s28">गअउ</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">65) ៅ</td>
+                <td class="s4">(4 + 65) (ឃ + ៅ) =</td>
+                <td class="s31">ឃៅ</td>
+                <td class="s28">खअउ</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">65) ៅ</td>
+                <td class="s4">(5 + 65 ) (ង + ៅ) =</td>
+                <td class="s31">ងៅ</td>
+                <td class="s28">ञअउ</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">65) ៅ</td>
+                <td class="s4">(8 + 65) (ជ + ៅ) =</td>
+                <td class="s28">ជៅ</td>
+                <td class="s28">जअउ</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">65) ៅ</td>
+                <td class="s4">(9 + 65)(ឈ + ៅ) =</td>
+                <td class="s28">ឈៅ</td>
+                <td class="s28">छअउ</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">65) ៅ</td>
+                <td class="s4">(10 + 65)(ញ + ៅ) =</td>
+                <td class="s28">ញៅ</td>
+                <td class="s28">नअउ</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">65) ៅ</td>
+                <td class="s4">(13 + 65) (ឌ + ៅ) =</td>
+                <td class="s31">ឌៅ</td>
+                <td class="s28">धअउ</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">65) ៅ</td>
+                <td class="s4">(14 + 65)(ឍ + ៅ) =</td>
+                <td class="s31">ឍៅ</td>
+                <td class="s28">थअउ</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">65) ៅ</td>
+                <td class="s4">(18 + 65)(ទ + ៅ) =</td>
+                <td class="s31">ទៅ</td>
+                <td class="s28">तअउ</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">65) ៅ</td>
+                <td class="s4">(19 + 65)(ធ + ៅ) =</td>
+                <td class="s31">ធៅ</td>
+                <td class="s28">थअउ</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">65) ៅ</td>
+                <td class="s4">(20 + 65)(ន + ៅ) =</td>
+                <td class="s31">នៅ</td>
+                <td class="s28">नअउ</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">65) ៅ</td>
+                <td class="s4">(23 + 65) (ព + ៅ) =</td>
+                <td class="s31">ពៅ</td>
+                <td class="s28">पअउ</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">65) ៅ</td>
+                <td class="s4">(24 + 65)(ភ + ៅ) =</td>
+                <td class="s31">ភៅ</td>
+                <td class="s28">फ़अउ</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">65) ៅ</td>
+                <td class="s4">(25 + 65)(ម + ៅ) =</td>
+                <td class="s31">មៅ</td>
+                <td class="s28">मअउ</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">65) ៅ</td>
+                <td class="s39">(26 + 65) (យ + ៅ) =</td>
+                <td class="s31">យៅ</td>
+                <td class="s28">यअउ</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">65) ៅ</td>
+                <td class="s39">(27 + 65) (រ + ៅ) =</td>
+                <td class="s31">រៅ</td>
+                <td class="s28">रअउ</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">65) ៅ</td>
+                <td class="s39">(28 + 65) (ល + ៅ) =</td>
+                <td class="s31">លៅ</td>
+                <td class="s28">लअउ</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">65) ៅ</td>
+                <td class="s39">(29 + 65) (វ + ៅ) =</td>
+                <td class="s31">វៅ</td>
+                <td class="s28">वअउ</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s10" dir="ltr">Khmer</td>
+                <td class="s10">Devanagri </td>
+                <td class="s10" dir="ltr">Roman </td>
+                <td class="s10" dir="ltr">IPA</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">66) ុំ</td>
+                <td class="s3">(1 + 66) (ក + ុំ) =</td>
+                <td class="s22">កុំ</td>
+                <td class="s22">गोम</td>
+                <td class="s13"></td>
+                <td class="s40"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">66) ុំ</td>
+                <td class="s3">(2 + 66) (ខ + ុំ) =</td>
+                <td class="s22">ខុំ</td>
+                <td class="s22">कोम</td>
+                <td class="s13"></td>
+                <td class="s41"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">66) ុំ</td>
+                <td class="s3">(6 + 66) ( ច + ុំ) =</td>
+                <td class="s22">ចុំ</td>
+                <td class="s22">जोम</td>
+                <td class="s13"></td>
+                <td class="s40"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">66) ុំ</td>
+                <td class="s3">(7 + 66) (ឆ + ុំ) =</td>
+                <td class="s22">ឆុំ</td>
+                <td class="s22">चोम / छोम</td>
+                <td class="s13"></td>
+                <td class="s42"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">66) ុំ</td>
+                <td class="s3">(11 + 66) (ដ + ុំ) =</td>
+                <td class="s22">ដុំ</td>
+                <td class="s22">डोम</td>
+                <td class="s13"></td>
+                <td class="s42"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">66) ុំ</td>
+                <td class="s3">(12 + 66) (ឋ + ុំ) =</td>
+                <td class="s22">ឋុំ</td>
+                <td class="s22">थोम</td>
+                <td class="s13"></td>
+                <td class="s42"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">66) ុំ</td>
+                <td class="s3">(15 + 66) (ណ + ុំ) =</td>
+                <td class="s22">ណុំ</td>
+                <td class="s22">नोम</td>
+                <td class="s13"></td>
+                <td class="s42"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">66) ុំ</td>
+                <td class="s3">(16 + 66) (ត + ុំ) =</td>
+                <td class="s22">តុំ</td>
+                <td class="s22">तोम</td>
+                <td class="s13"></td>
+                <td class="s42"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">66) ុំ</td>
+                <td class="s3">(17 + 66) (ថ + ុំ) =</td>
+                <td class="s22">ថុំ</td>
+                <td class="s22">थोम</td>
+                <td class="s13"></td>
+                <td class="s42"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">66) ុំ</td>
+                <td class="s3">(21 + 66) (ប + ុំ) =</td>
+                <td class="s22">បុំ</td>
+                <td class="s22">बोम</td>
+                <td class="s13"></td>
+                <td class="s42"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">66) ុំ</td>
+                <td class="s3">(22 + 66) (ផ + ុំ ) =</td>
+                <td class="s22">ផុំ</td>
+                <td class="s22">होम</td>
+                <td class="s13"></td>
+                <td class="s42"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">66) ុំ</td>
+                <td class="s3">(30 + 66) (ស + ុំ) =</td>
+                <td class="s22">សុំ</td>
+                <td class="s22">सोम</td>
+                <td class="s13"></td>
+                <td class="s42"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">66) ុំ</td>
+                <td class="s3">(31 + 66) (ហ + ុំ) =</td>
+                <td class="s22">ហុំ</td>
+                <td class="s22">होम</td>
+                <td class="s13"></td>
+                <td class="s42"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">66) ុំ</td>
+                <td class="s3">(32 + 64) (ឡ + ុំ) =</td>
+                <td class="s22">ឡុំ</td>
+                <td class="s29">लोम</td>
+                <td class="s13"></td>
+                <td class="s42"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">66) ុំ</td>
+                <td class="s3">(33 + 64) (អ + ុំ) =</td>
+                <td class="s22">អុំ</td>
+                <td class="s29">आओम</td>
+                <td class="s13"></td>
+                <td class="s42"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">67) ុំ</td>
+                <td class="s4">(3 + 67) (គ + ុំ ) =</td>
+                <td class="s25">គុំ</td>
+                <td class="s31">गोम</td>
+                <td class="s19"></td>
+                <td class="s41"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">67) ុំ</td>
+                <td class="s4">(4 + 67) (ឃ + ុំ) =</td>
+                <td class="s25">ឃុំ</td>
+                <td class="s31">खोम</td>
+                <td class="s19"></td>
+                <td class="s41"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">67) ុំ</td>
+                <td class="s4">(5 + 67 ) (ង + ុំ) =</td>
+                <td class="s25">ងុំ</td>
+                <td class="s31">ञोम</td>
+                <td class="s19"></td>
+                <td class="s41"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">67) ុំ</td>
+                <td class="s4">(8 + 67) (ជ + ុំ ) =</td>
+                <td class="s25">ជុំ</td>
+                <td class="s28">जोम</td>
+                <td class="s19"></td>
+                <td class="s41"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s24">67) ុំ</td>
+                <td class="s4">(9 + 67) (ឈ + ុំ ) =</td>
+                <td class="s25">ឈុំ</td>
+                <td class="s28">छोम</td>
+                <td class="s19"></td>
+                <td class="s41"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s24">67) ុំ</td>
+                <td class="s4">(10 + 67) (ញ + ុំ) =</td>
+                <td class="s25">ញុំ</td>
+                <td class="s28">नोम</td>
+                <td class="s19"></td>
+                <td class="s41"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">67) ុំ</td>
+                <td class="s4">(13 + 67) (ឌ + ុំ) =</td>
+                <td class="s25">ឌុំ</td>
+                <td class="s31">धोम</td>
+                <td class="s19"></td>
+                <td class="s41"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">67) ុំ</td>
+                <td class="s4">(14 + 67) (ឍ + ុំ) =</td>
+                <td class="s25">ឍុំ</td>
+                <td class="s31">थोम</td>
+                <td class="s19"></td>
+                <td class="s41"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s24">67) ុំ</td>
+                <td class="s4">(18 + 67) (ទ + ុំ) =</td>
+                <td class="s25">ទុំ</td>
+                <td class="s31">तोम</td>
+                <td class="s19"></td>
+                <td class="s41"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+             
+                <td class="s4" dir="ltr">67) ុំ</td>
+                <td class="s4">(19 + 67) (ធ + ុំ) =</td>
+                <td class="s25">ធុំ</td>
+                <td class="s31">थोम</td>
+                <td class="s19"></td>
+                <td class="s41"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s4" dir="ltr">67) ុំ</td>
+                <td class="s4">(20 + 67) (ន + ុំ) =</td>
+                <td class="s31">នុំ</td>
+                <td class="s31">नोम</td>
+                <td class="s19"></td>
+                <td class="s41"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">67) ុំ</td>
+                <td class="s4">(23 + 67) (ព + ុំ) =</td>
+                <td class="s31">ពុំ</td>
+                <td class="s31">पोम</td>
+                <td class="s19"></td>
+                <td class="s41"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s24">67) ុំ</td>
+                <td class="s4">(24 + 67) (ភ + ុំ) =</td>
+                <td class="s31">ភុំ</td>
+                <td class="s31">फ़ोम</td>
+                <td class="s19"></td>
+                <td class="s41"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">67) ុំ</td>
+                <td class="s4">(25 + 67) (ម + ុំ) =</td>
+                <td class="s31">មុំ</td>
+                <td class="s31">मोम</td>
+                <td class="s19"></td>
+                <td class="s41"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">67) ុំ</td>
+                <td class="s39">(26 + 67) (យ + ុំ) =</td>
+                <td class="s31">យុំ</td>
+                <td class="s31">योम</td>
+                <td class="s19"></td>
+                <td class="s41"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">67) ុំ</td>
+                <td class="s39">(27 + 67) (រ + ុំ) =</td>
+                <td class="s31">រុំ</td>
+                <td class="s31">रोम</td>
+                <td class="s19"></td>
+                <td class="s41"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">67) ុំ</td>
+                <td class="s39">(28 + 67) (ល + ោ) =</td>
+                <td class="s31">លុំ</td>
+                <td class="s31">लोम</td>
+                <td class="s19"></td>
+                <td class="s41"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">67) ុំ</td>
+                <td class="s39">(29 + 67) (វ + ោ) =</td>
+                <td class="s31">វុំ</td>
+                <td class="s31">वोम</td>
+                <td class="s19"></td>
+                <td class="s41"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s10" dir="ltr">Khmer</td>
+                <td class="s10">Devanagri </td>
+                <td class="s10" dir="ltr">Roman </td>
+                <td class="s10" dir="ltr">IPA</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">68) ំ</td>
+                <td class="s3">(1 + 68) (ក + ំ) =</td>
+                <td class="s22">កំ</td>
+                <td class="s22">गाम</td>
+                <td class="s13"></td>
+                <td class="s43"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">68) ំ</td>
+                <td class="s3">(2 + 68) (ខ + ំ) =</td>
+                <td class="s22">ខំ</td>
+                <td class="s22">काम</td>
+                <td class="s13"></td>
+                <td class="s22"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">68) ំ</td>
+                <td class="s3">(6 + 68) ( ច + ំ) =</td>
+                <td class="s22">ចំ</td>
+                <td class="s22">जाम</td>
+                <td class="s13"></td>
+                <td class="s43"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s21">68) ំ</td>
+                <td class="s3">(7 + 68) (ឆ + ំ) =</td>
+                <td class="s22">ឆំ</td>
+                <td class="s22">चाम / छाम</td>
+                <td class="s13"></td>
+                <td class="s44"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s3" dir="ltr">68) ំ</td>
+                <td class="s3">(11 + 68) (ដ + ំ) =</td>
+                <td class="s22">ដំ</td>
+                <td class="s22">डाम</td>
+                <td class="s13"></td>
+                <td class="s44"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">68) ំ</td>
+                <td class="s3">(12 + 68) (ឋ + ំ ) =</td>
+                <td class="s22">ឋំ</td>
+                <td class="s22">थम</td>
+                <td class="s13"></td>
+                <td class="s44"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">68) ំ</td>
+                <td class="s3">(15 + 68) (ណ + ំ ) =</td>
+                <td class="s22">ណំ</td>
+                <td class="s22">नाम</td>
+                <td class="s13"></td>
+                <td class="s44"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s21">68) ំ</td>
+                <td class="s3">(16 + 68) (ត + ំ ) =</td>
+                <td class="s22">តំ</td>
+                <td class="s22">तम</td>
+                <td class="s13"></td>
+                <td class="s44"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">68) ំ</td>
+                <td class="s3">(17 + 68) (ថ + ំ) =</td>
+                <td class="s22">ថំ</td>
+                <td class="s22">थम</td>
+                <td class="s13"></td>
+                <td class="s44"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">68) ំ</td>
+                <td class="s3">(21 + 68) (ប + ំ ) =</td>
+                <td class="s22">បំ</td>
+                <td class="s22">बाम</td>
+                <td class="s13"></td>
+                <td class="s44"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s21">68) ំ</td>
+                <td class="s3">(22 + 68) (ផ + ំ) =</td>
+                <td class="s22">ផំ</td>
+                <td class="s22">हम</td>
+                <td class="s13"></td>
+                <td class="s44"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">68) ំ</td>
+                <td class="s3">(30 + 68) (ស + ំ ) =</td>
+                <td class="s22">សំ</td>
+                <td class="s22">साम</td>
+                <td class="s13"></td>
+                <td class="s44"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">68) ំ</td>
+                <td class="s3">(31 + 68) (ហ + ំ) =</td>
+                <td class="s22">ហំ</td>
+                <td class="s22">हम</td>
+                <td class="s13"></td>
+                <td class="s44"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">68) ំ</td>
+                <td class="s3">(32 + 68) (ឡ + ំ ) =</td>
+                <td class="s22">ឡំ</td>
+                <td class="s22">लाम</td>
+                <td class="s13"></td>
+                <td class="s44"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s21">68) ំ</td>
+                <td class="s3">(33 + 68) (អ + ំ ) =</td>
+                <td class="s22">អំ</td>
+                <td class="s22">आम</td>
+                <td class="s13"></td>
+                <td class="s44"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s24">69) ុំ</td>
+                <td class="s4">(3 + 69) (គ + ំ ) =</td>
+                <td class="s31">គំ</td>
+                <td class="s31">गोम</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">69) ំ</td>
+                <td class="s4">(4 + 69) (ឃ + ំ) =</td>
+                <td class="s31">ឃំ</td>
+                <td class="s31">खोम</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">69) ំ</td>
+                <td class="s4">(5 + 69 ) (ង + ំ) =</td>
+                <td class="s31">ងំ</td>
+                <td class="s31">ञोम</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s24">69) ំ</td>
+                <td class="s4">(8 + 69) (ជ + ំ ) =</td>
+                <td class="s28">ជំ</td>
+                <td class="s28">जोम</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s24">69) ំ</td>
+                <td class="s4">(9 + 69) (ឈ + ំ ) =</td>
+                <td class="s28">ឈំ</td>
+                <td class="s28">छोम</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">69) ំ</td>
+                <td class="s4">(10 + 69) (ញ + ំ) =</td>
+                <td class="s28">ញុំ</td>
+                <td class="s28">नोम</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s24">69) ំ</td>
+                <td class="s4">(13 + 69) (ឌ + ំ) =</td>
+                <td class="s31">ឌំ</td>
+                <td class="s31">धोम</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s24">69) ំ</td>
+                <td class="s4">(14 + 69) (ឍ + ំ) =</td>
+                <td class="s31">ឍំ</td>
+                <td class="s31">थोम</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">69) ំ</td>
+                <td class="s4">(18 + 69) (ទ + ំ)</td>
+                <td class="s31">ទំ</td>
+                <td class="s31">तोम</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">69) ំ</td>
+                <td class="s4">(19 + 69) (ធ + ំ) =</td>
+                <td class="s31">ធំ</td>
+                <td class="s31">थोम</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">69) ំ</td>
+                <td class="s4">(20 + 69) (ន + ំ) =</td>
+                <td class="s31">នំ</td>
+                <td class="s31">नोम</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">69) ំ</td>
+                <td class="s4">(23 + 69) (ព + ំ) =</td>
+                <td class="s31">ពំ</td>
+                <td class="s31">पोम</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">69) ំ</td>
+                <td class="s4">(24 + 69) (ភ + ំ) =</td>
+                <td class="s31">ភំ</td>
+                <td class="s31">फ़ोम</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">69) ំ</td>
+                <td class="s4">(25 + 69) (ម + ំ) =</td>
+                <td class="s31">មំ</td>
+                <td class="s31">मोम</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">69) ំ</td>
+                <td class="s39">(26 + 69) (យ + ំ) =</td>
+                <td class="s31">យំ</td>
+                <td class="s31">योम</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">69) ំ</td>
+                <td class="s39">(27 + 69) (រ + ំ) =</td>
+                <td class="s31">រំ</td>
+                <td class="s31">रोम</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s24">69) ំ</td>
+                <td class="s39">(28 + 69) (ល + ំ) =</td>
+                <td class="s31">លំ</td>
+                <td class="s31">लोम</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">69) ំ</td>
+                <td class="s39">(29 + 69) (វ + ំ) =</td>
+                <td class="s31">វំ</td>
+                <td class="s31">वोम</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s10" dir="ltr">Khmer</td>
+                <td class="s10">Devanagri </td>
+                <td class="s10" dir="ltr">Roman </td>
+                <td class="s10" dir="ltr">IPA</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">70) ាំ</td>
+                <td class="s21">(1 + 70) (ក + ា ំ) =</td>
+                <td class="s22">កាំ</td>
+                <td class="s22">गेम</td>
+                <td class="s13"></td>
+                <td class="s43"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">70) ាំ</td>
+                <td class="s21">(2 + 70) (ខ + ា ំ) =</td>
+                <td class="s22">ខាំ</td>
+                <td class="s22">केम</td>
+                <td class="s13"></td>
+                <td class="s22"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">70) ាំ</td>
+                <td class="s21">(6 + 70) (ច + ា ំ) =</td>
+                <td class="s22">ចាំ</td>
+                <td class="s22">जेम</td>
+                <td class="s13"></td>
+                <td class="s43"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">70) ាំ</td>
+                <td class="s21">(7 + 70) (ឆ + ា ំ) =</td>
+                <td class="s30">ឆាំ</td>
+                <td class="s30">चेम / छेम</td>
+                <td class="s13"></td>
+                <td class="s44"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">70) ាំ</td>
+                <td class="s21">(11 + 70) (ដ + ា ំ) =</td>
+                <td class="s30">ដាំ</td>
+                <td class="s30">डेम</td>
+                <td class="s13"></td>
+                <td class="s44"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">70) ាំ</td>
+                <td class="s21">(12 + 70) (ឋ + ា ំ) =</td>
+                <td class="s30">ឋាំ</td>
+                <td class="s30">थेम</td>
+                <td class="s13"></td>
+                <td class="s44"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">70) ាំ</td>
+                <td class="s21">(15 + 70) (ណ + ា ំ) =</td>
+                <td class="s30">ណាំ</td>
+                <td class="s30">नेम</td>
+                <td class="s13"></td>
+                <td class="s44"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">70) ាំ</td>
+                <td class="s21">(16 + 70) (ត + ា ំ) =</td>
+                <td class="s30">តាំ</td>
+                <td class="s30">तेम</td>
+                <td class="s13"></td>
+                <td class="s44"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">70) ាំ</td>
+                <td class="s21">(1 + 70) (ថ + ា ំ) =</td>
+                <td class="s30">ថាំ</td>
+                <td class="s30">थेम</td>
+                <td class="s13"></td>
+                <td class="s44"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">70) ាំ</td>
+                <td class="s21">(21 + 70) (ប + ា ំ) =</td>
+                <td class="s30">បាំ</td>
+                <td class="s30">बेम</td>
+                <td class="s13"></td>
+                <td class="s44"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">70) ាំ</td>
+                <td class="s21">(22 + 70) (ផ + ា ំ) =</td>
+                <td class="s30">ផាំ</td>
+                <td class="s30">हेम</td>
+                <td class="s13"></td>
+                <td class="s44"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">70) ាំ</td>
+                <td class="s21">(30 + 70) (ស + ា ំ) =</td>
+                <td class="s30">សាំ</td>
+                <td class="s30">सेम</td>
+                <td class="s13"></td>
+                <td class="s44"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">70) ាំ</td>
+                <td class="s21">(31 + 70) (ហ + ា ំ) =</td>
+                <td class="s30">ហាំ</td>
+                <td class="s30">हेम</td>
+                <td class="s13"></td>
+                <td class="s44"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">70) ាំ</td>
+                <td class="s21">(32 + 70) (ឡ + ា ំ) =</td>
+                <td class="s30">ឡាំ</td>
+                <td class="s30">लेम</td>
+                <td class="s13"></td>
+                <td class="s44"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">70) ាំ</td>
+                <td class="s21">(33 + 70) (អ + ា ំ) =</td>
+                <td class="s30">អាំ</td>
+                <td class="s45">एम</td>
+                <td class="s13"></td>
+                <td class="s44"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">71) ាំ</td>
+                <td class="s24">(3 + 71) (គ + ា ំ) =</td>
+                <td class="s31">គាំ</td>
+                <td class="s31">गुआम</td>
+                <td class="s19"></td>
+                <td class="s25"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s24">71) ាំ</td>
+                <td class="s24">(4 + 71) (ឃ + ា ំ) =</td>
+                <td class="s31">ឃាំ</td>
+                <td class="s31">खुआम</td>
+                <td class="s19"></td>
+                <td class="s25"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s24">71) ាំ</td>
+                <td class="s24">(5 + 71) (ង + ា ំ) =</td>
+                <td class="s31">ងាំ</td>
+                <td class="s31">ञुआम</td>
+                <td class="s19"></td>
+                <td class="s25"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">71) ាំ</td>
+                <td class="s24">(8 + 71) (ជ + ា ំ) =</td>
+                <td class="s28">ជាំ</td>
+                <td class="s28">जुआम</td>
+                <td class="s19"></td>
+                <td class="s25"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">71) ាំ</td>
+                <td class="s24">(9 + 71) (ឈ + ា ំ) =</td>
+                <td class="s28">ឈាំ</td>
+                <td class="s28">छुआम</td>
+                <td class="s19"></td>
+                <td class="s25"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">71) ាំ</td>
+                <td class="s24">(10 + 71)(ញ + ា ំ) =</td>
+                <td class="s28">ញាំ</td>
+                <td class="s28">नुआम</td>
+                <td class="s19"></td>
+                <td class="s25"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">71) ាំ</td>
+                <td class="s24">(13 + 71) (ឌ + ា ំ) =</td>
+                <td class="s31">ឌាំ</td>
+                <td class="s31">धुआम</td>
+                <td class="s19"></td>
+                <td class="s25"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">71) ាំ</td>
+                <td class="s24">(14 + 71)(ឍ + ា ំ) =</td>
+                <td class="s31">ឍាំ</td>
+                <td class="s31">थुआम</td>
+                <td class="s19"></td>
+                <td class="s25"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s24">71) ាំ</td>
+                <td class="s24">(18 + 71) (ទ+ ា ំ) =</td>
+                <td class="s31">ទាំ</td>
+                <td class="s31">तुआम</td>
+                <td class="s19"></td>
+                <td class="s25"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+             
+                <td class="s24">71) ាំ</td>
+                <td class="s24">(19 + 71) (ធ + ា ំ) =</td>
+                <td class="s31">ធាំ</td>
+                <td class="s31">थुआम</td>
+                <td class="s19"></td>
+                <td class="s25"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">71) ាំ</td>
+                <td class="s24">(20 + 71) (ន + ា ំ) =</td>
+                <td class="s31">នាំ</td>
+                <td class="s31">नुआम</td>
+                <td class="s19"></td>
+                <td class="s25"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">71) ាំ</td>
+                <td class="s24">(23 + 71) (ព + ា ំ) =</td>
+                <td class="s31">ពាំ</td>
+                <td class="s31">पुआम</td>
+                <td class="s19"></td>
+                <td class="s25"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+             
+                <td class="s24">71) ាំ</td>
+                <td class="s24">(24 + 71) (ភ + ា ំ) =</td>
+                <td class="s31">ភាំ</td>
+                <td class="s31">फ़ुआम</td>
+                <td class="s19"></td>
+                <td class="s25"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">71) ាំ</td>
+                <td class="s24">(25 + 71) (ម + ា ំ) =</td>
+                <td class="s31">មាំ</td>
+                <td class="s31">मुआम</td>
+                <td class="s19"></td>
+                <td class="s25"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s4" dir="ltr">71) ាំ</td>
+                <td class="s24">(26 + 71)(យ + ា ំ) =</td>
+                <td class="s31">យាំ</td>
+                <td class="s31">युआम</td>
+                <td class="s19"></td>
+                <td class="s25"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">71) ាំ</td>
+                <td class="s24">(27 + 71)( រ + ា ំ) =</td>
+                <td class="s31">រាំ</td>
+                <td class="s28">रुआम</td>
+                <td class="s19"></td>
+                <td class="s25"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">71) ាំ</td>
+                <td class="s24">(28 + 71)(ល + ា ំ) =</td>
+                <td class="s31">លាំ</td>
+                <td class="s28">लुआम</td>
+                <td class="s19"></td>
+                <td class="s25"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">71) ាំ</td>
+                <td class="s24">(29 + 71) (វ + ា ំ) =</td>
+                <td class="s31">វាំ</td>
+                <td class="s31">वुआम</td>
+                <td class="s19"></td>
+                <td class="s25"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s10" dir="ltr">Khmer</td>
+                <td class="s10">Devanagri </td>
+                <td class="s10" dir="ltr">Roman </td>
+                <td class="s10" dir="ltr">IPA</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+             
+                <td class="s21">72) ះ</td>
+                <td class="s21">(1 + 72) (ក + ះ) =</td>
+                <td class="s30">កះ</td>
+                <td class="s30">गाह</td>
+                <td class="s13"></td>
+                <td class="s43"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">72) ះ</td>
+                <td class="s21">(2 + 72) (ខ + ះ) =</td>
+                <td class="s30">ខះ</td>
+                <td class="s30">काह</td>
+                <td class="s13"></td>
+                <td class="s22"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">72) ះ</td>
+                <td class="s21">(6 + 72) (ច + ះ) =</td>
+                <td class="s30">ចះ</td>
+                <td class="s30">जाह</td>
+                <td class="s13"></td>
+                <td class="s43"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">72) ះ</td>
+                <td class="s21">(7 + 72) (ឆ + ះ) =</td>
+                <td class="s30">ឆះ</td>
+                <td class="s30">चाह / छाह</td>
+                <td class="s13"></td>
+                <td class="s44"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">72) ះ</td>
+                <td class="s21">(11 + 72) (ដ + ះ) =</td>
+                <td class="s30">ដះ</td>
+                <td class="s30">डाह</td>
+                <td class="s13"></td>
+                <td class="s44"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s21">72) ះ</td>
+                <td class="s21">(12 + 72) (ឋ + ះ) =</td>
+                <td class="s30">ឋះ</td>
+                <td class="s30">थाह</td>
+                <td class="s13"></td>
+                <td class="s44"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">72) ះ</td>
+                <td class="s21">(15 + 72) (ណ + ះ) =</td>
+                <td class="s30">ណះ</td>
+                <td class="s30">नाह</td>
+                <td class="s13"></td>
+                <td class="s44"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">72) ះ</td>
+                <td class="s21">(16 + 72) (ត + ះ) =</td>
+                <td class="s30">តះ</td>
+                <td class="s30">ताह</td>
+                <td class="s13"></td>
+                <td class="s44"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s3" dir="ltr">72) ះ</td>
+                <td class="s21">(17 + 72) (ថ + ះ) =</td>
+                <td class="s30">ថះ</td>
+                <td class="s30">थाह</td>
+                <td class="s13"></td>
+                <td class="s44"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">72) ះ</td>
+                <td class="s21">(21 + 72) (ប + ះ) =</td>
+                <td class="s30">បះ</td>
+                <td class="s30">बाह</td>
+                <td class="s13"></td>
+                <td class="s44"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">72) ះ</td>
+                <td class="s21">(22 + 72) (ផ + ះ) =</td>
+                <td class="s30">ផះ</td>
+                <td class="s30">हाह</td>
+                <td class="s13"></td>
+                <td class="s44"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">72) ះ</td>
+                <td class="s21">(30 + 72) (ស + ះ) =</td>
+                <td class="s30">សះ</td>
+                <td class="s30">साह</td>
+                <td class="s13"></td>
+                <td class="s44"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">72) ះ</td>
+                <td class="s21">(31 + 72) (ហ + ះ) =</td>
+                <td class="s30">ហះ</td>
+                <td class="s30">हाह</td>
+                <td class="s13"></td>
+                <td class="s44"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">72) ះ</td>
+                <td class="s21">(32 + 72) (ឡ + ះ) =</td>
+                <td class="s30">ឡះ</td>
+                <td class="s30">लाह</td>
+                <td class="s13"></td>
+                <td class="s44"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">72) ះ</td>
+                <td class="s21">(33 + 72) (អ + ះ) =</td>
+                <td class="s30">អះ</td>
+                <td class="s30">आह</td>
+                <td class="s13"></td>
+                <td class="s44"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s46">73) ះ</td>
+                <td class="s46">(3 + 73) (គ + ះ) =</td>
+                <td class="s47">គះ</td>
+                <td class="s47">गेयह</td>
+                <td class="s48"></td>
+                <td class="s49"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s46">73) ះ</td>
+                <td class="s46">(4 + 73) (ឃ + ះ) =</td>
+                <td class="s47">ឃះ</td>
+                <td class="s47">खेयह</td>
+                <td class="s48"></td>
+                <td class="s49"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s46">73) ះ</td>
+                <td class="s46">(5 + 73) (ង + ះ) =</td>
+                <td class="s47">ងះ</td>
+                <td class="s47">ञेयह</td>
+                <td class="s48"></td>
+                <td class="s49"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s46">73) ះ</td>
+                <td class="s46">(8 + 73) (ជ + ះ) =</td>
+                <td class="s50">ជះ</td>
+                <td class="s50">जेयह</td>
+                <td class="s48"></td>
+                <td class="s49"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s46">73) ះ</td>
+                <td class="s46">(9 + 73) (ឈ + ះ) =</td>
+                <td class="s50">ឈះ</td>
+                <td class="s50">छेयह</td>
+                <td class="s48"></td>
+                <td class="s49"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s46">73) ះ</td>
+                <td class="s46">(10 + 73) (ញ + ះ) =</td>
+                <td class="s50">ញះ</td>
+                <td class="s50">नेयह</td>
+                <td class="s48"></td>
+                <td class="s49"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s46">73) ះ</td>
+                <td class="s46">(13 + 73) (ឌ + ះ) =</td>
+                <td class="s47">ឌះ</td>
+                <td class="s47">धेयह</td>
+                <td class="s48"></td>
+                <td class="s49"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s46">73) ះ</td>
+                <td class="s46">(14 + 73) (ឍ + ះ) =</td>
+                <td class="s47">ឍះ</td>
+                <td class="s47">थेयह</td>
+                <td class="s48"></td>
+                <td class="s49"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s46">73) ះ</td>
+                <td class="s46">(18 + 73) (ទ + ះ) =</td>
+                <td class="s47">ទះ</td>
+                <td class="s47">तेयह</td>
+                <td class="s48"></td>
+                <td class="s49"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s46">73) ះ</td>
+                <td class="s46">(19 + 73) (ធ + ះ) =</td>
+                <td class="s47">ធះ</td>
+                <td class="s47">थेयह</td>
+                <td class="s48"></td>
+                <td class="s49"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s46">73) ះ</td>
+                <td class="s46">(20 + 73) (ន + ះ) =</td>
+                <td class="s47">នះ</td>
+                <td class="s47">नेयह</td>
+                <td class="s48"></td>
+                <td class="s49"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+             
+                <td class="s46">73) ះ</td>
+                <td class="s46">(23 + 73) (ព + ះ) =</td>
+                <td class="s47">ពះ</td>
+                <td class="s47">पेयह</td>
+                <td class="s48"></td>
+                <td class="s49"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+             
+                <td class="s46">73) ះ</td>
+                <td class="s46">(24 + 73) (ភ + ះ) =</td>
+                <td class="s47">ភះ</td>
+                <td class="s47">फ़ेयह</td>
+                <td class="s48"></td>
+                <td class="s49"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+            
+                <td class="s46">73) ះ</td>
+                <td class="s46">(25 + 73) (ម + ះ) =</td>
+                <td class="s47">មះ</td>
+                <td class="s47">मेयह</td>
+                <td class="s48"></td>
+                <td class="s49"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s46">73) ះ</td>
+                <td class="s46">(26 + 73) (យ + ះ) =</td>
+                <td class="s47">យះ</td>
+                <td class="s47">येयह</td>
+                <td class="s48"></td>
+                <td class="s49"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s46">73) ះ</td>
+                <td class="s46">(27 + 73) (រ + ះ) =</td>
+                <td class="s47">រះ</td>
+                <td class="s47">रेयह</td>
+                <td class="s48"></td>
+                <td class="s49"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s46">73) ះ</td>
+                <td class="s46">(28 + 73) (ល + ះ) =</td>
+                <td class="s47">លះ</td>
+                <td class="s47">लेयह</td>
+                <td class="s48"></td>
+                <td class="s49"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s46">73) ះ</td>
+                <td class="s46">(29 + 73) (វ + ះ) =</td>
+                <td class="s47">វះ</td>
+                <td class="s47">वेयह</td>
+                <td class="s48"></td>
+                <td class="s49"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s10" dir="ltr">Khmer</td>
+                <td class="s10">Devanagri </td>
+                <td class="s10" dir="ltr">Roman </td>
+                <td class="s10" dir="ltr">IPA</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">74) ុះ</td>
+                <td class="s21">(1 + 74) (ក +ុ ះ) =</td>
+                <td class="s22">កុះ</td>
+                <td class="s22">गोह</td>
+                <td class="s13"></td>
+                <td class="s43"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">74) ុះ</td>
+                <td class="s21">(2 + 74) (ខ +ុ ះ) =</td>
+                <td class="s22">ខុះ</td>
+                <td class="s22">कोह</td>
+                <td class="s13"></td>
+                <td class="s22"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">74) ុះ</td>
+                <td class="s21">(6 + 74) (ច +ុ ះ) =</td>
+                <td class="s22">ចុះ</td>
+                <td class="s22">जोह</td>
+                <td class="s13"></td>
+                <td class="s43"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">74) ុះ</td>
+                <td class="s21">(7 + 74) (ឆ +ុ ះ) =</td>
+                <td class="s22">ឆុះ</td>
+                <td class="s22">चोह / छोह</td>
+                <td class="s13"></td>
+                <td class="s44"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">74) ុះ</td>
+                <td class="s21">(11 + 74) (ដ +ុ ះ) =</td>
+                <td class="s22">ដុះ</td>
+                <td class="s22">डोह</td>
+                <td class="s13"></td>
+                <td class="s44"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">74) ុះ</td>
+                <td class="s21">(12 + 74) (ឋ +ុ ះ) =</td>
+                <td class="s22">ឋុះ</td>
+                <td class="s22">थोह</td>
+                <td class="s13"></td>
+                <td class="s44"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">74) ុះ</td>
+                <td class="s21">(15 + 74) (ណ +ុ ះ) =</td>
+                <td class="s22">ណុះ</td>
+                <td class="s22">नोह</td>
+                <td class="s13"></td>
+                <td class="s44"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">74) ុះ</td>
+                <td class="s21">(16 + 74) (ត +ុ ះ) =</td>
+                <td class="s22">តុះ</td>
+                <td class="s22">तोह</td>
+                <td class="s13"></td>
+                <td class="s44"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">74) ុះ</td>
+                <td class="s21">(17 + 74) (ថ +ុ ះ) =</td>
+                <td class="s22">ថុះ</td>
+                <td class="s22">थोह</td>
+                <td class="s13"></td>
+                <td class="s44"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">74) ុះ</td>
+                <td class="s21">(21 + 74) (ប +ុ ះ) =</td>
+                <td class="s22">បុះ</td>
+                <td class="s22">बोह</td>
+                <td class="s13"></td>
+                <td class="s44"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">74) ុះ</td>
+                <td class="s21">(22 + 74) (ផ +ុ ះ) =</td>
+                <td class="s22">ផុះ</td>
+                <td class="s22">होह</td>
+                <td class="s13"></td>
+                <td class="s44"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">74) ុះ</td>
+                <td class="s21">(30 + 74) (ស +ុ ះ) =</td>
+                <td class="s22">សុះ</td>
+                <td class="s22">सोह</td>
+                <td class="s13"></td>
+                <td class="s44"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">74) ុះ</td>
+                <td class="s21">(31 + 74) (ហ +ុ ះ) =</td>
+                <td class="s22">ហុះ</td>
+                <td class="s22">होह</td>
+                <td class="s13"></td>
+                <td class="s44"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">74) ុះ</td>
+                <td class="s21">(32 + 74) (ឡ +ុ ះ) =</td>
+                <td class="s22">ឡុះ</td>
+                <td class="s22">लोह</td>
+                <td class="s13"></td>
+                <td class="s44"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">74) ុះ</td>
+                <td class="s21">(33 + 74) (អ +ុ ះ) =</td>
+                <td class="s22">អុះ</td>
+                <td class="s23">ओह</td>
+                <td class="s13"></td>
+                <td class="s44"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s46">75) ុះ</td>
+                <td class="s46">(3 + 75) (គ +ុ ះ) =</td>
+                <td class="s47">គុះ</td>
+                <td class="s50">गु</td>
+                <td class="s48"></td>
+                <td class="s49"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s46">75) ុះ</td>
+                <td class="s46">(4 + 75) (ឃ +ុ ះ) =</td>
+                <td class="s47">ឃុះ</td>
+                <td class="s50">खु</td>
+                <td class="s48"></td>
+                <td class="s49"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s46">75) ុះ</td>
+                <td class="s46">(5 + 75) (ង +ុ ះ) =</td>
+                <td class="s47">ងុះ</td>
+                <td class="s50">ञु</td>
+                <td class="s48"></td>
+                <td class="s49"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s46">75) ុះ</td>
+                <td class="s46">(8 + 75) (ជ +ុ ះ) =</td>
+                <td class="s50">ជុះ</td>
+                <td class="s50">जु</td>
+                <td class="s48"></td>
+                <td class="s49"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s46">75) ុះ</td>
+                <td class="s46">(9 + 75) (ឈ +ុ ះ) =</td>
+                <td class="s50">ឈុះ</td>
+                <td class="s50">छु</td>
+                <td class="s48"></td>
+                <td class="s49"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s46">75) ុះ</td>
+                <td class="s46">(10 + 75) (ញ +ុ ះ) =</td>
+                <td class="s51">ញុះ</td>
+                <td class="s50">नु</td>
+                <td class="s48"></td>
+                <td class="s49"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s46">75) ុះ</td>
+                <td class="s46">(13 + 75) (ឌ +ុ ះ) =</td>
+                <td class="s47">ឌុះ</td>
+                <td class="s50">धु</td>
+                <td class="s48"></td>
+                <td class="s49"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s46">75) ុះ</td>
+                <td class="s46">(14 + 75) (ឍ +ុ ះ) =</td>
+                <td class="s47">ឍុះ</td>
+                <td class="s50">थु</td>
+                <td class="s48"></td>
+                <td class="s49"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s46">75) ុះ</td>
+                <td class="s46">(18 + 75) (ទ +ុ ះ) =</td>
+                <td class="s47">ទុះ</td>
+                <td class="s50">तु</td>
+                <td class="s48"></td>
+                <td class="s49"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s46">75) ុះ</td>
+                <td class="s46">(19 + 75) (ធ +ុ ះ) =</td>
+                <td class="s47">ធុះ</td>
+                <td class="s50">थु</td>
+                <td class="s48"></td>
+                <td class="s49"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s46">75) ុះ</td>
+                <td class="s46">(20 + 75) (ន +ុ ះ) =</td>
+                <td class="s47">នុះ</td>
+                <td class="s50">नु</td>
+                <td class="s48"></td>
+                <td class="s49"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s46">75) ុះ</td>
+                <td class="s46">(23 + 75) (ព +ុ ះ) =</td>
+                <td class="s47">ពុះ</td>
+                <td class="s50">पु</td>
+                <td class="s48"></td>
+                <td class="s49"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s46">75) ុះ</td>
+                <td class="s46">(24 + 75) (ភ +ុ ះ) =</td>
+                <td class="s47">ភុះ</td>
+                <td class="s50">फ़ु</td>
+                <td class="s48"></td>
+                <td class="s49"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s46">75) ុះ</td>
+                <td class="s46">(25 + 75) (ម +ុ ះ) =</td>
+                <td class="s47">មុះ</td>
+                <td class="s50">मु</td>
+                <td class="s48"></td>
+                <td class="s49"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s46">75) ុះ</td>
+                <td class="s46">(26 + 75) (យ +ុ ះ) =</td>
+                <td class="s47">យុះ</td>
+                <td class="s50">यु</td>
+                <td class="s48"></td>
+                <td class="s49"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s52" dir="ltr">75) ុះ</td>
+                <td class="s46">(27 + 75) (រ +ុ ះ) =</td>
+                <td class="s47">រុះ</td>
+                <td class="s50">रु</td>
+                <td class="s48"></td>
+                <td class="s49"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s46">75) ុះ</td>
+                <td class="s46">(28 + 75) (ល +ុ ះ) =</td>
+                <td class="s47">លុះ</td>
+                <td class="s50">लु</td>
+                <td class="s48"></td>
+                <td class="s49"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s46">75) ុះ</td>
+                <td class="s46">(29 + 75) (វ +ុ ះ) =</td>
+                <td class="s47">វុះ</td>
+                <td class="s50">वु</td>
+                <td class="s48"></td>
+                <td class="s49"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s10" dir="ltr">Khmer</td>
+                <td class="s10">Devanagri </td>
+                <td class="s10" dir="ltr">Roman </td>
+                <td class="s10" dir="ltr">IPA</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">76) េះ</td>
+                <td class="s21">(1 + 76) (ក + េះ) =</td>
+                <td class="s22">កេះ</td>
+                <td class="s22">गैह</td>
+                <td class="s13"></td>
+                <td class="s43"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s21">76) េះ</td>
+                <td class="s21">(2 + 76) (ខ + េះ) =</td>
+                <td class="s22">ខេះ</td>
+                <td class="s22">कैह</td>
+                <td class="s13"></td>
+                <td class="s22"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">76) េះ</td>
+                <td class="s21">(6 + 76) (ច + េះ) =</td>
+                <td class="s22">ចេះ</td>
+                <td class="s22">जैह</td>
+                <td class="s13"></td>
+                <td class="s43"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">76) េះ</td>
+                <td class="s21">(7 + 76) (ឆ + េះ) =</td>
+                <td class="s22">ឆេះ</td>
+                <td class="s22">चैह / छैह</td>
+                <td class="s13"></td>
+                <td class="s44"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s3" dir="ltr">76) េះ</td>
+                <td class="s21">(11 + 76) (ដ + េះ) =</td>
+                <td class="s22">ដេះ</td>
+                <td class="s22">डैह</td>
+                <td class="s13"></td>
+                <td class="s44"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">76) េះ</td>
+                <td class="s21">(12 + 76) (ឋ + េះ) =</td>
+                <td class="s22">ឋេះ</td>
+                <td class="s22">थैह</td>
+                <td class="s13"></td>
+                <td class="s44"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">76) េះ</td>
+                <td class="s21">(15 + 76)(ណ + េះ) =</td>
+                <td class="s22">ណេះ</td>
+                <td class="s22">नैह</td>
+                <td class="s13"></td>
+                <td class="s44"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">76) េះ</td>
+                <td class="s21">(16 + 76) (ត + េះ) =</td>
+                <td class="s22">តេះ</td>
+                <td class="s22">तैह</td>
+                <td class="s13"></td>
+                <td class="s44"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">76) េះ</td>
+                <td class="s21">(17 + 76) (ថ + េះ) =</td>
+                <td class="s22">ថេះ</td>
+                <td class="s22">थैह</td>
+                <td class="s13"></td>
+                <td class="s44"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">76) េះ</td>
+                <td class="s21">(21 + 76) (ប + េះ) =</td>
+                <td class="s22">បេះ</td>
+                <td class="s22">बैह</td>
+                <td class="s13"></td>
+                <td class="s44"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">76) េះ</td>
+                <td class="s21">(22 + 76) (ផ + េះ) =</td>
+                <td class="s22">ផេះ</td>
+                <td class="s22">हैह</td>
+                <td class="s13"></td>
+                <td class="s44"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">76) េះ</td>
+                <td class="s21">(30 + 76) (ស + េះ) =</td>
+                <td class="s22">សេះ</td>
+                <td class="s22">सैह</td>
+                <td class="s13"></td>
+                <td class="s44"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">76) េះ</td>
+                <td class="s21">(31 + 76) (ហ + េះ) =</td>
+                <td class="s22">ហេះ</td>
+                <td class="s22">हैह</td>
+                <td class="s13"></td>
+                <td class="s44"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">76) េះ</td>
+                <td class="s21">(32 + 76) (ឡ + េះ) =</td>
+                <td class="s22">ឡេះ</td>
+                <td class="s22">लैह</td>
+                <td class="s13"></td>
+                <td class="s44"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s21">76) េះ</td>
+                <td class="s21">(33 + 76) (អ + េះ) =</td>
+                <td class="s22">អេះ</td>
+                <td class="s23">ऐह</td>
+                <td class="s13"></td>
+                <td class="s44"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s24">77) េះ</td>
+                <td class="s24">(3 + 77) (គ + េះ) =</td>
+                <td class="s31">គេះ</td>
+                <td class="s28">गैह</td>
+                <td class="s19"></td>
+                <td class="s25"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">77) េះ</td>
+                <td class="s24">(4 + 77) (ឃ + េះ) =</td>
+                <td class="s31">ឃេះ</td>
+                <td class="s28">कैह</td>
+                <td class="s19"></td>
+                <td class="s25"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s24">77) េះ</td>
+                <td class="s24">(5 + 77) (ង + េះ) =</td>
+                <td class="s31">ងេះ</td>
+                <td class="s28">ञैह</td>
+                <td class="s19"></td>
+                <td class="s25"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">77) េះ</td>
+                <td class="s24">(8 + 77) (ជ + េះ) =</td>
+                <td class="s28">ជេះ</td>
+                <td class="s28">जैह</td>
+                <td class="s19"></td>
+                <td class="s25"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">77) េះ</td>
+                <td class="s24">(9 + 77) (ឈ + េះ) =</td>
+                <td class="s28">ឈេះ</td>
+                <td class="s28">छैह</td>
+                <td class="s19"></td>
+                <td class="s25"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">77) េះ</td>
+                <td class="s24">(10 + 73)(ញ + េះ) =</td>
+                <td class="s28">ញេះ</td>
+                <td class="s28">नैह</td>
+                <td class="s19"></td>
+                <td class="s25"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">77) េះ</td>
+                <td class="s24">(13 + 77) (ឌ + េះ) =</td>
+                <td class="s31">ឌេះ</td>
+                <td class="s28">धैह</td>
+                <td class="s19"></td>
+                <td class="s25"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">77) េះ</td>
+                <td class="s24">(14 + 77)(ឍ + េះ) =</td>
+                <td class="s31">ឍេះ</td>
+                <td class="s28">थैह</td>
+                <td class="s19"></td>
+                <td class="s25"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">77) េះ</td>
+                <td class="s24">(18 + 77) (ទ + េះ) =</td>
+                <td class="s31">ទេះ</td>
+                <td class="s28">तैह</td>
+                <td class="s19"></td>
+                <td class="s25"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s24">77) េះ</td>
+                <td class="s24">(19 + 77) (ធ + េះ) =</td>
+                <td class="s31">ធេះ</td>
+                <td class="s28">थैह</td>
+                <td class="s19"></td>
+                <td class="s25"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">77) េះ</td>
+                <td class="s24">(20 + 77) (ន + េះ) =</td>
+                <td class="s31">នេះ</td>
+                <td class="s28">नैह</td>
+                <td class="s19"></td>
+                <td class="s25"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">77) េះ</td>
+                <td class="s24">(23 + 77) (ព + េះ) =</td>
+                <td class="s31">ពេះ</td>
+                <td class="s28">पैह</td>
+                <td class="s19"></td>
+                <td class="s25"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">77) េះ</td>
+                <td class="s24">(24 + 77) (ភ + េះ) =</td>
+                <td class="s31">ភេះ</td>
+                <td class="s28">फ़ैह</td>
+                <td class="s19"></td>
+                <td class="s25"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">77) េះ</td>
+                <td class="s24">(25 + 77) (ម + េះ) =</td>
+                <td class="s31">មេះ</td>
+                <td class="s28">मैह</td>
+                <td class="s19"></td>
+                <td class="s25"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">77) េះ</td>
+                <td class="s24">(26 + 77)(យ + េះ) =</td>
+                <td class="s31">យេះ</td>
+                <td class="s28">यैह</td>
+                <td class="s19"></td>
+                <td class="s25"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">77) េះ</td>
+                <td class="s24">(27 + 77) (រ + េះ) =</td>
+                <td class="s31">រេះ</td>
+                <td class="s28">रैह</td>
+                <td class="s19"></td>
+                <td class="s25"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">77) េះ</td>
+                <td class="s24">(28 + 77)(ល + េះ) =</td>
+                <td class="s31">លេះ</td>
+                <td class="s28">लैह</td>
+                <td class="s19"></td>
+                <td class="s25"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">77) េះ</td>
+                <td class="s24">(29 + 77) (វ + េះ) =</td>
+                <td class="s31">វេះ</td>
+                <td class="s28">वैह</td>
+                <td class="s19"></td>
+                <td class="s25"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s10" dir="ltr">Khmer</td>
+                <td class="s10">Devanagri </td>
+                <td class="s10" dir="ltr">Roman </td>
+                <td class="s10" dir="ltr">IPA</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s21">78) េា</td>
+                <td class="s21">(1 + 78) (ក + ោ+ះ) =</td>
+                <td class="s22">កោះ</td>
+                <td class="s22">गा</td>
+                <td class="s13"></td>
+                <td class="s43"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">78) េា</td>
+                <td class="s21">(2 + 78) (ខ + ោះ) =</td>
+                <td class="s22">ខោះ</td>
+                <td class="s22">का</td>
+                <td class="s13"></td>
+                <td class="s22"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">78) េា</td>
+                <td class="s21">(6 + 78) (ច + ោះ) =</td>
+                <td class="s22">ចោះ</td>
+                <td class="s22">जा</td>
+                <td class="s13"></td>
+                <td class="s43"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">78) េា</td>
+                <td class="s21">(7 + 78) (ឆ + ោះ) =</td>
+                <td class="s22">ឆោះ</td>
+                <td class="s22">चा / छा</td>
+                <td class="s13"></td>
+                <td class="s44"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">78) េា</td>
+                <td class="s21">(11 + 78) (ដ + ោះ) =</td>
+                <td class="s22">ដោះ</td>
+                <td class="s22">डा</td>
+                <td class="s13"></td>
+                <td class="s44"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s21">78) េា</td>
+                <td class="s21">(12 + 78) (ឋ + ោះ) =</td>
+                <td class="s22">ឋោះ</td>
+                <td class="s22">था</td>
+                <td class="s13"></td>
+                <td class="s44"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s21">78) េា</td>
+                <td class="s21">(15 + 78) (ណ + ោះ) =</td>
+                <td class="s22">ណោះ</td>
+                <td class="s22">ना</td>
+                <td class="s13"></td>
+                <td class="s44"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">78) េា</td>
+                <td class="s21">(16 + 78) (ត + ោះ) =</td>
+                <td class="s22">តោះ</td>
+                <td class="s22">ता</td>
+                <td class="s13"></td>
+                <td class="s44"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s21">78) េា</td>
+                <td class="s21">(17 + 78) (ថ + ោះ) =</td>
+                <td class="s22">ថោះ</td>
+                <td class="s22">था</td>
+                <td class="s13"></td>
+                <td class="s44"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s21">78) េា</td>
+                <td class="s21">(21 + 78) (ប + ោះ) =</td>
+                <td class="s22">បោះ</td>
+                <td class="s22">बा</td>
+                <td class="s13"></td>
+                <td class="s44"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+             
+                <td class="s21">78) េា</td>
+                <td class="s21">(22 + 78) (ផ + ោះ) =</td>
+                <td class="s22">ផោះ</td>
+                <td class="s22">हा</td>
+                <td class="s13"></td>
+                <td class="s44"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+             
+                <td class="s3" dir="ltr">78) េា</td>
+                <td class="s21">(30 + 78) (ស + ោះ) =</td>
+                <td class="s22">សោះ</td>
+                <td class="s29">सा</td>
+                <td class="s13"></td>
+                <td class="s44"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s3">78) េា</td>
+                <td class="s21">(31 + 78) (ហ + ោះ) =</td>
+                <td class="s22">ហោះ</td>
+                <td class="s29">हा</td>
+                <td class="s13"></td>
+                <td class="s44"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s3" dir="ltr">78) េា</td>
+                <td class="s21">(32 + 78) (ឡ + េាះ) =</td>
+                <td class="s22">ឡោះ</td>
+                <td class="s29">ला</td>
+                <td class="s13"></td>
+                <td class="s44"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s21">78) េា</td>
+                <td class="s21">(33 + 78) (អ + េាះ) =</td>
+                <td class="s22">អោះ</td>
+                <td class="s53">आ</td>
+                <td class="s13"></td>
+                <td class="s44"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s24">79) េា</td>
+                <td class="s24">(3 + 79) (គ + ោះ) =</td>
+                <td class="s31">គោះ</td>
+                <td class="s28">गुअ</td>
+                <td class="s19"></td>
+                <td class="s25"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">79) េា</td>
+                <td class="s24">(4 + 79) (ឃ + ោះ) =</td>
+                <td class="s31">ឃោះ</td>
+                <td class="s28">खुअ</td>
+                <td class="s19"></td>
+                <td class="s25"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">79) េា</td>
+                <td class="s24">(5 + 79) (ង + េា) =</td>
+                <td class="s31">ងោះ</td>
+                <td class="s28">ञुअ</td>
+                <td class="s19"></td>
+                <td class="s25"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">79) េា</td>
+                <td class="s24">(8 + 79) (ជ + ោះ) =</td>
+                <td class="s28">ជោះ</td>
+                <td class="s28">जुअ</td>
+                <td class="s19"></td>
+                <td class="s25"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">79) េា</td>
+                <td class="s24">(9 + 79) (ឈ + ោះ) =</td>
+                <td class="s28">ឈោះ</td>
+                <td class="s28">छुअ</td>
+                <td class="s19"></td>
+                <td class="s25"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">79) េា</td>
+                <td class="s24">(10 + 79)(ញ + ោះ) =</td>
+                <td class="s28">ញោះ</td>
+                <td class="s28">नुअ</td>
+                <td class="s19"></td>
+                <td class="s25"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">79) េា</td>
+                <td class="s24">(13 + 79) (ឌ + ោះ) =</td>
+                <td class="s31">ឌោះ</td>
+                <td class="s28">धुअ</td>
+                <td class="s19"></td>
+                <td class="s25"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">79) េា</td>
+                <td class="s24">(14 + 79)(ឍ + ោះ) =</td>
+                <td class="s31">ឍោះ</td>
+                <td class="s28">थुअ</td>
+                <td class="s19"></td>
+                <td class="s25"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">79) េា</td>
+                <td class="s24">(18 + 79) (ទ + ោះ) =</td>
+                <td class="s31">ទោះ</td>
+                <td class="s28">तुअ</td>
+                <td class="s19"></td>
+                <td class="s25"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">79) េា</td>
+                <td class="s24">(19 + 79) (ធ + ោះ) =</td>
+                <td class="s31">ធោះ</td>
+                <td class="s28">थुअ</td>
+                <td class="s19"></td>
+                <td class="s25"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">79) េា</td>
+                <td class="s24">(20 + 79) (ន + ោះ) =</td>
+                <td class="s31">នោះ</td>
+                <td class="s28">नुअ</td>
+                <td class="s19"></td>
+                <td class="s25"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">79) េា</td>
+                <td class="s24">(23 + 79) (ព + ោះ) =</td>
+                <td class="s31">ពោះ</td>
+                <td class="s28">पुअ</td>
+                <td class="s19"></td>
+                <td class="s25"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">79) េា</td>
+                <td class="s24">(24 + 79) (ភ+ ោះ) =</td>
+                <td class="s31">ភោះ</td>
+                <td class="s28">फ़ुअ</td>
+                <td class="s19"></td>
+                <td class="s25"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s4" dir="ltr">79) េា</td>
+                <td class="s24">(25 + 79) (ម + ោះ)</td>
+                <td class="s31">មោះ</td>
+                <td class="s28">मुअ</td>
+                <td class="s19"></td>
+                <td class="s25"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s24">79) េា</td>
+                <td class="s24">(26 + 79)(យ + ោះ) =</td>
+                <td class="s31">យោះ</td>
+                <td class="s28">युअ</td>
+                <td class="s19"></td>
+                <td class="s25"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">79) េា</td>
+                <td class="s24">(27 + 79) (រ + ោះ) =</td>
+                <td class="s31">រោះ</td>
+                <td class="s28">रुअ</td>
+                <td class="s19"></td>
+                <td class="s25"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">79) េា</td>
+                <td class="s24">(28 + 79)(ល + ោះ) =</td>
+                <td class="s31">លោះ</td>
+                <td class="s28">लुअ</td>
+                <td class="s19"></td>
+                <td class="s25"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s24">79) េា</td>
+                <td class="s24">(29 + 79) (វ + ោះ) =</td>
+                <td class="s31">វោះ</td>
+                <td class="s28">वुअ</td>
+                <td class="s19"></td>
+                <td class="s25"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s54">80) (5)(ង+៉)ង៉</td>
+                <td class="s9" dir="ltr">Exceptions</td>
+                <td class="s10" dir="ltr">Khmer</td>
+                <td class="s10">Devanagri </td>
+                <td class="s10" dir="ltr">Roman </td>
+                <td class="s10" dir="ltr">IPA</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s56" dir="ltr">80) ង៉ </td>
+                <td class="s37">80 + 34 (ង៉ + ា) =</td>
+                <td class="s30">ង៉ា</td>
+                <td class="s13">ङा</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s55"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s56">80) ង៉</td>
+                <td class="s37">80 +36 (ង៉ + ិ) =</td>
+                <td class="s30">ង៉ិ</td>
+                <td class="s13">ङि</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s55"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s56">80) ង៉</td>
+                <td class="s37">80 + 38 (ង៉ + ី) =</td>
+                <td class="s30">ង៉ី</td>
+                <td class="s13">ङी</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s55"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s56">80) ង៉</td>
+                <td class="s37">80 + 40 (ង៉ + ឹ) =</td>
+                <td class="s30">ង៉ឹ</td>
+                <td class="s13">ङृ</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s55"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s56">80) ង៉</td>
+                <td class="s37">80 + 42 (ង៉ + ឺ) =</td>
+                <td class="s30">ង៉ឺ</td>
+                <td class="s13">ङॠ</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s55"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s56">80) ង៉</td>
+                <td class="s37">80 + 44 (ង៉ + ុ) =</td>
+                <td class="s30">ង៉ុ</td>
+                <td class="s13">ङु</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s55"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s56">80) ង៉</td>
+                <td class="s37">80 + 46 (ង៉ + ូ) =</td>
+                <td class="s30">ង៉ូ</td>
+                <td class="s13">ङू</td>
+                <td class="s13"></td>
+                <td class="s13"> </td>
+                <td class="s55"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s56">80) ង៉</td>
+                <td class="s37">80+48=5+49=</td>
+                <td class="s30">skip</td>
+                <td class="s30">skip</td>
+                <td class="s13"></td>
+                <td class="s30">skip</td>
+                <td class="s55"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s56">80) ង៉</td>
+                <td class="s37">80 + 50 (ង៉ + ើ</td>
+                <td class="s30">ង៉ើ</td>
+                <td class="s13">ङॡ</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s55"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s56">80) ង៉</td>
+                <td class="s37">80+52=5+53=</td>
+                <td class="s30">skip</td>
+                <td class="s30">skip</td>
+                <td class="s13"></td>
+                <td class="s30">skip</td>
+                <td class="s55"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s56">80) ង៉</td>
+                <td class="s37">80+54=5+55=</td>
+                <td class="s30">skip</td>
+                <td class="s30">skip</td>
+                <td class="s13"></td>
+                <td class="s30">skip</td>
+                <td class="s55"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s56">80) ង៉</td>
+                <td class="s37">80 + 56 (ង៉ + េ) =</td>
+                <td class="s30">ង៉េ</td>
+                <td class="s13">ङे</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s55"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s56">80) ង៉</td>
+                <td class="s37">80 + 58 (ង៉ + ែ) =</td>
+                <td class="s30">ង៉ែ</td>
+                <td class="s13">ङै</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s55"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s56">80) ង៉</td>
+                <td class="s37">80 + 60 (ង៉ + ៃ) =</td>
+                <td class="s30">ង៉ៃ</td>
+                <td class="s13">ङै</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s55"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s56">80) ង៉</td>
+                <td class="s37">80 + 62 (ង៉ + ោ) =</td>
+                <td class="s30">ង៉ោ</td>
+                <td class="s13">ङो</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s55"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s56">80) ង៉</td>
+                <td class="s37">80 + 64 (ង៉ + ៅ) =</td>
+                <td class="s30">ង៉ៅ</td>
+                <td class="s13">ङौ</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s55"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s56">80) ង៉</td>
+                <td class="s37">80 + 66 (ង៉ + ុំ) =</td>
+                <td class="s30">ង៉ុំ</td>
+                <td class="s13">ङुम्</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s55"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s56">80) ង៉</td>
+                <td class="s37">80 + 68 (ង៉ + ំ) =</td>
+                <td class="s30">ង៉ំ</td>
+                <td class="s13">ङ्</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s55"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s56">80) ង៉</td>
+                <td class="s37">80 + 70 (ង៉ + ាំ ) =</td>
+                <td class="s30">ង៉ាំ</td>
+                <td class="s13">ङाम्</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s55"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s56">80) ង៉</td>
+                <td class="s37">80 + 72 (ង៉ + ះ) =</td>
+                <td class="s30">ង៉ះ</td>
+                <td class="s13">ङः</td>
+                <td class="s13"></td>
+                <td class="s30">skip</td>
+                <td class="s55"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s56">80) ង៉</td>
+                <td class="s37">80 + 74 (ង៉ + ុ ះ) =</td>
+                <td class="s30">ង៉ុះ</td>
+                <td class="s13">ङुः</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s55"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s56">80) ង៉</td>
+                <td class="s37">80 + 76 (ង៉ + េះ) =</td>
+                <td class="s30">ង៉េះ</td>
+                <td class="s13">ङेः</td>
+                <td class="s13"></td>
+                <td class="s30">skip</td>
+                <td class="s55"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s57" dir="ltr">80) ង៉</td>
+                <td class="s37">80 + 78 (ង៉ + ោះ) =</td>
+                <td class="s30">ង៉ោះ</td>
+                <td class="s13">ङोः</td>
+                <td class="s13"></td>
+                <td class="s30">skip</td>
+                <td class="s55"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s54">81)(10)(ញ+៉) ញ៉</td>
+                <td class="s9" dir="ltr">Exceptions</td>
+                <td class="s10" dir="ltr">Khmer</td>
+                <td class="s10">Devanagri </td>
+                <td class="s10" dir="ltr">Roman </td>
+                <td class="s10" dir="ltr">IPA</td>
+                <td class="s55"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s57" dir="ltr">81) ញ៉ </td>
+                <td class="s37">81 + 34 (ញ៉ + ា) =</td>
+                <td class="s22">ញ៉ា</td>
+                <td class="s13">ञा</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s55"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s56">81) ញ៉</td>
+                <td class="s37">81 +36 (ញ៉ + ិ) =</td>
+                <td class="s13">ញ៉ិ</td>
+                <td class="s13">ञि</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s55"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s56">81) ញ៉</td>
+                <td class="s37">81 + 38 (ញ៉ + ី) =</td>
+                <td class="s13">ញ៉ី</td>
+                <td class="s13">ञी</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s55"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s56">81) ញ៉</td>
+                <td class="s37">81 + 40 (ញ៉ + ឹ) =</td>
+                <td class="s22">ញ៉ឹ</td>
+                <td class="s13">ञृ</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s55"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s57" dir="ltr">81) ញ៉</td>
+                <td class="s37">81 + 42 (ញ៉ + ឺ) =</td>
+                <td class="s13">ញ៉ឺ</td>
+                <td class="s13">ञॠ</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s55"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s56">81) ញ៉</td>
+                <td class="s37">81 + 44 (ញ៉ + ុ) =</td>
+                <td class="s13">ញ៉ុ</td>
+                <td class="s13">ञु</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s55"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s56">81) ញ៉</td>
+                <td class="s37">81 + 46 (ញ៉ + ូ) =</td>
+                <td class="s22">ញ៉ូ</td>
+                <td class="s13">ञू</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s55"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s56">81) ញ៉</td>
+                <td class="s37">81+48=5+49</td>
+                <td class="s22">skip</td>
+                <td class="s30">skip</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s55"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s56">81) ញ៉</td>
+                <td class="s37">81 + 50 (ញ៉ + ើ</td>
+                <td class="s22">ញ៉ើ</td>
+                <td class="s13">ञॡ</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s55"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s56">81) ញ៉</td>
+                <td class="s37">81+52=5+53</td>
+                <td class="s30">skip</td>
+                <td class="s30">skip</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s55"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s56">81) ញ៉</td>
+                <td class="s37">81+54=5+55</td>
+                <td class="s30">skip</td>
+                <td class="s30">skip</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s55"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s56">81) ញ៉</td>
+                <td class="s37">81 + 56 (ញ៉ + េ) =</td>
+                <td class="s22">ញ៉េ</td>
+                <td class="s13">ञे</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s55"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s56">81) ញ៉</td>
+                <td class="s37">81 + 58 (ញ៉ + ែ) =</td>
+                <td class="s22">ញ៉ែ</td>
+                <td class="s13">ञै</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s55"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s56">81) ញ៉</td>
+                <td class="s37">81 + 60 (ញ៉ + ៃ) =</td>
+                <td class="s22">ញ៉ៃ</td>
+                <td class="s13">ञै</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s55"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s56">81) ញ៉</td>
+                <td class="s37">81 + 62 (ញ៉ + ោ) =</td>
+                <td class="s22">ញ៉ោ</td>
+                <td class="s13">ञो</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s55"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s56">81) ញ៉</td>
+                <td class="s37">81 + 64 (ញ៉ + ៅ) =</td>
+                <td class="s22">ញ៉ៅ</td>
+                <td class="s13">ञौ</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s55"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s56">81) ញ៉</td>
+                <td class="s37">81 + 66 (ញ៉ + ុំ) =</td>
+                <td class="s22">ញ៉ុំ</td>
+                <td class="s13">ञुम्</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s55"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s56">81) ញ៉</td>
+                <td class="s37">81 + 68 (ញ៉ + ំ) =</td>
+                <td class="s22">ញ៉ំ</td>
+                <td class="s13">ञ्</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s55"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s56">81) ញ៉</td>
+                <td class="s37">81 + 70 (ញ៉ + ាំ ) =</td>
+                <td class="s22">ញ៉ាំ</td>
+                <td class="s13">ञाम्</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s55"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s56">81) ញ៉</td>
+                <td class="s37">81 + 72 (ញ៉ + ះ) =</td>
+                <td class="s22">ញ៉ះ</td>
+                <td class="s13">ञः</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s55"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s56">81) ញ៉</td>
+                <td class="s37">81 + 74 (ញ៉ + ុ ះ) =</td>
+                <td class="s22">ញ៉ុះ</td>
+                <td class="s13">ञुः</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s55"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s56">81) ញ៉</td>
+                <td class="s37">81 + 76 (ញ៉ + េះ) =</td>
+                <td class="s30">ញ៉េះ</td>
+                <td class="s13">ञेः</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s55"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s56">81) ញ៉</td>
+                <td class="s37">81 + 78 (ញ៉ + ោះ) =</td>
+                <td class="s30">ញ៉ោះ</td>
+                <td class="s13">ञोः</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s55"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s9" dir="ltr">82) (25)(ម+៉) ម៉</td>
+                <td class="s9" dir="ltr">Exceptions</td>
+                <td class="s10" dir="ltr">Khmer</td>
+                <td class="s10">Devanagri </td>
+                <td class="s10" dir="ltr">Roman </td>
+                <td class="s10" dir="ltr">IPA</td>
+                <td class="s55"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s56">82) ម៉</td>
+                <td class="s37">82 + 34 (ម៉ + ា) =</td>
+                <td class="s30">ម៉ា</td>
+                <td class="s13">मा</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s55"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s56">82) ម៉</td>
+                <td class="s37">82 +36 (ម៉ + ិ) =</td>
+                <td class="s30">ម៉ិ</td>
+                <td class="s13">मि</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s55"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s56">82) ម៉</td>
+                <td class="s37">82 + 38 (ម៉ + ី) =</td>
+                <td class="s30">ម៉ី</td>
+                <td class="s13">मी</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s55"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s56">82) ម៉</td>
+                <td class="s37">82 + 40 (ម៉ + ឹ) =</td>
+                <td class="s30">ម៉ឹ</td>
+                <td class="s13">मु</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s55"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s56">82) ម៉</td>
+                <td class="s37">82 + 42 (ម៉ + ឺ) =</td>
+                <td class="s30">ម៉ឺ</td>
+                <td class="s13">मू</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s55"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s56">82) ម៉</td>
+                <td class="s37">82 + 44 (ម៉ + ុ) =</td>
+                <td class="s30">ម៉ុ</td>
+                <td class="s13">मृ</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s55"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s56">82) ម៉</td>
+                <td class="s37">82 + 46 (ម៉ + ូ) =</td>
+                <td class="s30">ម៉ូ</td>
+                <td class="s13">मॄ</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s55"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s56">82) ម៉</td>
+                <td class="s37">82+48=5+49=</td>
+                <td class="s30">skip</td>
+                <td class="s30">skip</td>
+                <td class="s13"></td>
+                <td class="s30">skip</td>
+                <td class="s55"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s56">82) ម៉</td>
+                <td class="s37">82 + 50 (ម៉ + ើ)</td>
+                <td class="s30">ម៉ើ</td>
+                <td class="s13">मॡ</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s55"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s56">82) ម៉</td>
+                <td class="s37">82+52=5+53=</td>
+                <td class="s30">skip</td>
+                <td class="s30">skip</td>
+                <td class="s13"></td>
+                <td class="s30">skip</td>
+                <td class="s55"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s57" dir="ltr">82) ម៉</td>
+                <td class="s37">8២+54=5+55=</td>
+                <td class="s30">skip</td>
+                <td class="s30">skip</td>
+                <td class="s13"></td>
+                <td class="s30">skip</td>
+                <td class="s55"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s56">82) ម៉</td>
+                <td class="s37">82 + 56 (ម៉ + េ) =</td>
+                <td class="s30">ម៉េ</td>
+                <td class="s13">मे</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s55"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s56">82) ម៉</td>
+                <td class="s37">82 + 58 (ម៉ + ែ) =</td>
+                <td class="s30">ម៉ែ</td>
+                <td class="s13">मै</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s55"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s56">82) ម៉</td>
+                <td class="s37">82 + 60 (ម៉ + ៃ) =</td>
+                <td class="s30">ម៉ៃ</td>
+                <td class="s13">मै</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s55"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s56">82) ម៉</td>
+                <td class="s37">82 + 62 (ម៉ + ោ) =</td>
+                <td class="s30">ម៉ោ</td>
+                <td class="s13">मो</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s55"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s56">82) ម៉</td>
+                <td class="s37">82 + 64 (ម៉ + ៅ) =</td>
+                <td class="s30">ម៉ៅ</td>
+                <td class="s13">मौ</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s55"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s56">82) ម៉</td>
+                <td class="s37">82 + 66 (ម៉ + ុំ) =</td>
+                <td class="s30">ម៉ុំ</td>
+                <td class="s13">मुम्</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s55"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s56">82) ម៉</td>
+                <td class="s37">82 + 68 (ម៉ + ំ) =</td>
+                <td class="s30">ម៉ំ</td>
+                <td class="s13">म्</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s55"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s56">82) ម៉</td>
+                <td class="s37">82 + 70 (ម៉+ ាំ ) =</td>
+                <td class="s30">ម៉ាំ</td>
+                <td class="s13">माम्</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s55"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s56">82) ម៉</td>
+                <td class="s37">82 + 72 (ម៉ + ះ) =</td>
+                <td class="s30">ម៉ះ</td>
+                <td class="s13">मह्</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s55"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s56">82) ម៉</td>
+                <td class="s37">82 + 74 (ម៉ + ុ ះ) =</td>
+                <td class="s30">ម៉ុះ</td>
+                <td class="s13">मुह्</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s55"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s56">82) ម៉</td>
+                <td class="s37">82 + 76 (ម៉ + េះ) =</td>
+                <td class="s30">ម៉េះ</td>
+                <td class="s13">मेह्</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s55"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s56">82) ម៉</td>
+                <td class="s37">82 + 78 (ម៉ + ោះ) =</td>
+                <td class="s30">ម៉ោះ</td>
+                <td class="s13">मोह्</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s55"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s9" dir="ltr">83) (26)(យ+៉)យ៉</td>
+                <td class="s9" dir="ltr">Exceptions</td>
+                <td class="s10"></td>
+                <td class="s10">Devanagri </td>
+                <td class="s10" dir="ltr">Roman </td>
+                <td class="s10" dir="ltr">IPA</td>
+                <td class="s55"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s56">83) យ៉</td>
+                <td class="s37">83 + 34 (យ៉ + ា) =</td>
+                <td class="s30">យ៉ា</td>
+                <td class="s13">या</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s55"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s56">83) យ៉</td>
+                <td class="s37">83 +36 (យ៉ + ិ) =</td>
+                <td class="s30">យ៉ិ</td>
+                <td class="s13">यि</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s55"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s56">83) យ៉</td>
+                <td class="s37">83 + 38 (យ៉ + ី) =</td>
+                <td class="s30">យ៉ី</td>
+                <td class="s13">यी</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s55"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s57" dir="ltr">83) យ៉</td>
+                <td class="s37">83 + 40 (យ៉ + ឹ) =</td>
+                <td class="s30">យ៉ឹ</td>
+                <td class="s13">यृ</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s55"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s56">83) យ៉</td>
+                <td class="s37">83 + 42 (យ៉ + ឺ) =</td>
+                <td class="s30">យ៉ឺ</td>
+                <td class="s13">यॠ</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s56">83) យ៉</td>
+                <td class="s37">83 + 44 (យ៉ + ុ) =</td>
+                <td class="s30">យ៉ុ</td>
+                <td class="s13">यु</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s56">83) យ៉</td>
+                <td class="s37">83 + 46 (យ៉ + ូ) =</td>
+                <td class="s30">យ៉ូ</td>
+                <td class="s13">यू</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s56">83) យ៉</td>
+                <td class="s37">83+48=5+49=</td>
+                <td class="s30">skip</td>
+                <td class="s30">skip</td>
+                <td class="s13"></td>
+                <td class="s30">skip</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s56">83) យ៉</td>
+                <td class="s37">83 + 50 (យ៉ + ើ)</td>
+                <td class="s30">យ៉ើ</td>
+                <td class="s13">यॡ</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s56">83) យ៉</td>
+                <td class="s37">83+52=5+53=</td>
+                <td class="s30">skip</td>
+                <td class="s30">skip</td>
+                <td class="s13"></td>
+                <td class="s30">skip</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s56">83) យ៉</td>
+                <td class="s37">83+54=5+55=</td>
+                <td class="s30">skip</td>
+                <td class="s30">skip</td>
+                <td class="s13"></td>
+                <td class="s30">skip</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s56">83) យ៉</td>
+                <td class="s37">83 + 56 (យ៉ + េ) =</td>
+                <td class="s30">យ៉េ</td>
+                <td class="s13">ये</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s56">83) យ៉</td>
+                <td class="s37">83 + 58 (យ៉ + ែ) =</td>
+                <td class="s30">យ៉ែ</td>
+                <td class="s13">यै</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s56">83) យ៉</td>
+                <td class="s37">83 + 60 (យ៉ + ៃ) =</td>
+                <td class="s30">យ៉ៃ</td>
+                <td class="s13">यै</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s56">83) យ៉</td>
+                <td class="s37">83 + 62 (យ៉ + ោ) =</td>
+                <td class="s30">យ៉ោ</td>
+                <td class="s13">यो</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s56">83) យ៉</td>
+                <td class="s37">83 + 64 (យ៉ + ៅ) =</td>
+                <td class="s30">យ៉ៅ</td>
+                <td class="s13">यौ</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s56">83) យ៉</td>
+                <td class="s37">83 + 66 (យ៉ + ុំ) =</td>
+                <td class="s30">យ៉ុំ</td>
+                <td class="s13">युम्</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s56">83) យ៉</td>
+                <td class="s37">83 + 68 (យ៉ + ំ) =</td>
+                <td class="s30">យ៉ំ</td>
+                <td class="s13">य्</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s56">83) យ៉</td>
+                <td class="s37">83 + 70 (យ៉ + ាំ ) =</td>
+                <td class="s30">យ៉ាំ</td>
+                <td class="s13">याम्</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s56">83) យ៉</td>
+                <td class="s37">83 + 72 (យ៉ + ះ) =</td>
+                <td class="s30">យ៉ះ</td>
+                <td class="s13">यः</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s56">83) យ៉</td>
+                <td class="s37">83 + 74 (យ៉ + ុ ះ) =</td>
+                <td class="s30">យ៉ុះ</td>
+                <td class="s13">युः</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s56">83) យ៉</td>
+                <td class="s37">83 + 76 (យ៉ + េះ) =</td>
+                <td class="s30">យ៉េះ</td>
+                <td class="s13">येः</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s56">83) យ៉</td>
+                <td class="s37">83 + 78 (យ៉ + ោះ) =</td>
+                <td class="s30">យ៉ោះ</td>
+                <td class="s13">योः</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s54">84) (27)(រ+៉) រ៉</td>
+                <td class="s9" dir="ltr">Exceptions</td>
+                <td class="s10"></td>
+                <td class="s10">Devanagri </td>
+                <td class="s10" dir="ltr">Roman </td>
+                <td class="s10" dir="ltr">IPA</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s56">84) រ៉</td>
+                <td class="s37">84 + 34 (រ៉ + ា) =</td>
+                <td class="s30">រ៉ា</td>
+                <td class="s13">रा</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s56">84) រ៉</td>
+                <td class="s37">84 +36 (រ៉ + ិ) =</td>
+                <td class="s13">រ៉ិ</td>
+                <td class="s13">रि</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s56">84) រ៉</td>
+                <td class="s37">84 + 38 (រ៉ + ី) =</td>
+                <td class="s13">រ៉ី</td>
+                <td class="s13">री</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s56">84) រ៉</td>
+                <td class="s37">84 + 40 (រ៉ + ឹ) =</td>
+                <td class="s30">រ៉ឹ</td>
+                <td class="s13">ऋ</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s56">84) រ៉</td>
+                <td class="s37">84 + 42 (រ៉ + ឺ) =</td>
+                <td class="s30">រ៉ឺ</td>
+                <td class="s13">ॠ</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s56">84) រ៉</td>
+                <td class="s37">84 + 44 (រ៉ + ុ) =</td>
+                <td class="s30">រ៉ុ</td>
+                <td class="s13">रु</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s56">84) រ៉</td>
+                <td class="s37">84 + 46 (រ៉ + ូ) =</td>
+                <td class="s30">រ៉ូ</td>
+                <td class="s13">रो</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s56">84) រ៉</td>
+                <td class="s37">84+48=5+49=</td>
+                <td class="s30">skip</td>
+                <td class="s30">skip</td>
+                <td class="s13"></td>
+                <td class="s30">skip</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s56">84) រ៉</td>
+                <td class="s37">84 + 50 (រ៉ + ើ)=</td>
+                <td class="s30">រ៉ើ</td>
+                <td class="s13">रॡ</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s56">84) រ៉</td>
+                <td class="s37">84+52=5+53=</td>
+                <td class="s30">skip</td>
+                <td class="s30">skip</td>
+                <td class="s13"></td>
+                <td class="s30">skip</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s56">84) រ៉</td>
+                <td class="s37">84+54=5+55=</td>
+                <td class="s30">skip</td>
+                <td class="s30">skip</td>
+                <td class="s13"></td>
+                <td class="s30">skip</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s56">84) រ៉</td>
+                <td class="s37">84 + 56 (រ៉ + េ) =</td>
+                <td class="s30">រ៉េ</td>
+                <td class="s13">रे</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s56">84) រ៉</td>
+                <td class="s37">84 + 58 (រ៉ + ែ) =</td>
+                <td class="s30">រ៉ែ</td>
+                <td class="s13">रै</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s56">84) រ៉</td>
+                <td class="s37">84 + 60 (រ៉ + ៃ) =</td>
+                <td class="s30">រ៉ៃ</td>
+                <td class="s13">रै</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s56">84) រ៉</td>
+                <td class="s37">84 + 62 (រ៉ + ោ) =</td>
+                <td class="s30">រ៉ោ</td>
+                <td class="s13">रो</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s56">84) រ៉</td>
+                <td class="s37">84 + 64 (រ៉ + ៅ) =</td>
+                <td class="s30">រ៉ៅ</td>
+                <td class="s13">रौ</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s57" dir="ltr">84) រ៉</td>
+                <td class="s37">84 + 66 (រ៉ + ុំ) =</td>
+                <td class="s13">រ៉ុំ</td>
+                <td class="s13">रुम्</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s56">84) រ៉</td>
+                <td class="s37">84 + 68 (រ៉ + ំ) =</td>
+                <td class="s13">រ៉ំ</td>
+                <td class="s13">र्म्</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s56">84) រ៉</td>
+                <td class="s37">84 + 70 (រ៉ + ាំ ) =</td>
+                <td class="s13">រ៉ាំ</td>
+                <td class="s13">राम्</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s56">84) រ៉</td>
+                <td class="s37">84 + 72 (រ៉ + ះ) =</td>
+                <td class="s13">រ៉ះ</td>
+                <td class="s13">रः</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s56">84) រ៉</td>
+                <td class="s37">84 + 74 (រ៉ + ុ ះ) =</td>
+                <td class="s13">រ៉ុះ</td>
+                <td class="s13">रुः</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s56">84) រ៉</td>
+                <td class="s37">84 + 76 (រ៉ + េះ) =</td>
+                <td class="s13">រ៉េះ</td>
+                <td class="s13">रेः</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s56">84) រ៉</td>
+                <td class="s37">84 + 78 (រ៉ + ោះ) =</td>
+                <td class="s13">រ៉ោះ</td>
+                <td class="s13">रोः</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s54">85)(29)(វ +៉) វ៉</td>
+                <td class="s9" dir="ltr">Exceptions</td>
+                <td class="s10"></td>
+                <td class="s10">Devanagri </td>
+                <td class="s10" dir="ltr">Roman </td>
+                <td class="s10" dir="ltr">IPA</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s57" dir="ltr">85) វ៉</td>
+                <td class="s37">85 + 34 ( វ៉ + ា) =</td>
+                <td class="s30">វ៉ា</td>
+                <td class="s13">वा</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s56">85) វ៉</td>
+                <td class="s37">85 +36 ( វ៉ + ិ) =</td>
+                <td class="s30">វ៉ិ</td>
+                <td class="s13">वि</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s56">85) វ៉</td>
+                <td class="s37">85 + 38 ( វ៉ + ី) =</td>
+                <td class="s30">វ៉ី</td>
+                <td class="s13">वी</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s56">85) វ៉</td>
+                <td class="s37">85 + 40 ( វ៉ + ឹ) =</td>
+                <td class="s30">វ៉ឹ</td>
+                <td class="s13">वृ</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s56">85) វ៉</td>
+                <td class="s37">85 + 42 ( វ៉ + ឺ) =</td>
+                <td class="s30">វ៉ឺ</td>
+                <td class="s13">वॠ</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s56">85) វ៉</td>
+                <td class="s37">85 + 44 ( វ៉ + ុ) =</td>
+                <td class="s30">វ៉ុ</td>
+                <td class="s13">वु</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s56">85) វ៉</td>
+                <td class="s37">85 + 46 ( វ៉ + ូ) =</td>
+                <td class="s30">វ៉ូ</td>
+                <td class="s13">वू</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s56">85) វ៉</td>
+                <td class="s37">85+48=5+49=</td>
+                <td class="s30">skip</td>
+                <td class="s30">skip</td>
+                <td class="s13"></td>
+                <td class="s30">skip</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s56">85) វ៉</td>
+                <td class="s37">85 + 50 ( វ៉ + ើ</td>
+                <td class="s30">វ៉ើ</td>
+                <td class="s13">वॡ</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s56">85) វ៉</td>
+                <td class="s37">85+52=5+53=</td>
+                <td class="s30">skip</td>
+                <td class="s30">skip</td>
+                <td class="s13"></td>
+                <td class="s30">skip</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s56">85) វ៉</td>
+                <td class="s37">85+54=5+55=</td>
+                <td class="s30">skip</td>
+                <td class="s30">skip</td>
+                <td class="s13"></td>
+                <td class="s30">skip</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s56">85) វ៉</td>
+                <td class="s37">85 + 56 ( វ៉ + េ) =</td>
+                <td class="s30">វ៉េ</td>
+                <td class="s13">वे</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s56">85) វ៉</td>
+                <td class="s37">85 + 58 ( វ៉ + ែ) =</td>
+                <td class="s30">រ៉ែ</td>
+                <td class="s13">वै</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s56">85) វ៉</td>
+                <td class="s37">85 + 60 ( វ៉ + ៃ) =</td>
+                <td class="s30">វ៉ៃ</td>
+                <td class="s13">वै</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s56">85) វ៉</td>
+                <td class="s37">85 + 62 ( វ៉ + ោ) =</td>
+                <td class="s30">វ៉ោ</td>
+                <td class="s13">वो</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s56">85) វ៉</td>
+                <td class="s37">85 + 64 ( វ៉ + ៅ) =</td>
+                <td class="s30">វ៉ៅ</td>
+                <td class="s13">वौ</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s56">85) វ៉</td>
+                <td class="s37">85 + 66 ( វ៉ + ុំ) =</td>
+                <td class="s30">វ៉ុំ</td>
+                <td class="s13">वुम्</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s56">85) វ៉</td>
+                <td class="s37">85 + 68 ( វ៉ + ំ) =</td>
+                <td class="s30">វ៉ំ</td>
+                <td class="s13">व्</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s56">85) វ៉</td>
+                <td class="s37">85 + 70 ( វ៉ + ាំ ) =</td>
+                <td class="s30">វ៉ាំ</td>
+                <td class="s13">वाम्</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s56">85) វ៉</td>
+                <td class="s37">85 + 72 ( វ៉ + ះ) =</td>
+                <td class="s30">វ៉ះ</td>
+                <td class="s13">वः</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s56">85) វ៉</td>
+                <td class="s37">85 + 74 ( វ៉ + ុ ះ) =</td>
+                <td class="s30">វ៉ុះ</td>
+                <td class="s13">वुः</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s56">85) វ៉</td>
+                <td class="s37">85 + 76 ( វ៉ + េះ) =</td>
+                <td class="s30">វ៉េះ</td>
+                <td class="s13">वेः</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s56">85) វ៉</td>
+                <td class="s37">85 + 78 ( វ៉ + ោះ) =</td>
+                <td class="s30">វោះ</td>
+                <td class="s13">वोह्</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s9" dir="ltr">86) (21)(ប+៉) ប៉</td>
+                <td class="s9" dir="ltr">Exceptions</td>
+                <td class="s10"></td>
+                <td class="s10">Devanagri </td>
+                <td class="s10" dir="ltr">Roman </td>
+                <td class="s10" dir="ltr">IPA</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s56">86) ប៉</td>
+                <td class="s37">86 + 34 (ប៉ + ា) =</td>
+                <td class="s22">ប៉ា</td>
+                <td class="s13">पा</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s56">86) ប៉</td>
+                <td class="s37">86 +36 (ប៉ + ិ) =</td>
+                <td class="s22">ប៉ិ</td>
+                <td class="s13">पी</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+             
+                <td class="s56">86) ប៉</td>
+                <td class="s37">86 + 38 (ប៉ + ី) =</td>
+                <td class="s22">ប៉ី</td>
+                <td class="s13">पी</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s56">86) ប៉</td>
+                <td class="s37">86 + 40 (ប៉ + ឹ) =</td>
+                <td class="s22">ប៉ឹ</td>
+                <td class="s13">पृ</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s56">86) ប៉</td>
+                <td class="s37">86 + 42 (ប៉ + ឺ) =</td>
+                <td class="s22">ប៉ឺ</td>
+                <td class="s13">पॠ</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s56">86) ប៉</td>
+                <td class="s58">86 + 44 (ប៉ + ុ) =</td>
+                <td class="s30">ប៉ុ</td>
+                <td class="s13">पु</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s56">86) ប៉</td>
+                <td class="s21">86 + 46 (ប៉ + ូ) =</td>
+                <td class="s30">ប៉ូ</td>
+                <td class="s13">पू</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s56">86) ប៉</td>
+                <td class="s21">86+48=(ប៉+ ួ)=(23+49)</td>
+                <td class="s30">skip</td>
+                <td class="s30">skip</td>
+                <td class="s13"></td>
+                <td class="s30">skip</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s56">86) ប៉</td>
+                <td class="s37">86 + 50 (ប៉ + ើ)=</td>
+                <td class="s30">ប៉ើ</td>
+                <td class="s13">पॡ</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s56">86) ប៉</td>
+                <td class="s37">86+52=(ប៉ + ឿ)</td>
+                <td class="s30">ប៉ឿ</td>
+                <td class="s13">पॿ</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s56">86) ប៉</td>
+                <td class="s37">86+54=(ប៉+=ៀ)</td>
+                <td class="s30">ប៉ៀ</td>
+                <td class="s13">पिया</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s56">86) ប៉</td>
+                <td class="s37">86 + 56 (ប៉ + េ) =</td>
+                <td class="s30">ប៉េ</td>
+                <td class="s13">पे</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s56">86) ប៉</td>
+                <td class="s37">86 + 58 (ប៉ + ែ) =</td>
+                <td class="s30">ប៉ែ</td>
+                <td class="s13">पै</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+             
+                <td class="s56">86) ប៉</td>
+                <td class="s37">86 + 60 (ប៉ + ៃ) =</td>
+                <td class="s30">ប៉ៃ</td>
+                <td class="s13">पाई</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s56">86) ប៉</td>
+                <td class="s37">86 + 62 (ប៉ + ោ) =</td>
+                <td class="s30">ប៉ោ</td>
+                <td class="s13">पो</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s56">86) ប៉</td>
+                <td class="s37">86 + 64 (ប៉ + ៅ) =</td>
+                <td class="s30">ប៉ៅ</td>
+                <td class="s13">पौ</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s56">86) ប៉</td>
+                <td class="s37">86 + 66 (ប៉ + ុំ) =</td>
+                <td class="s30">ប៉ុំ</td>
+                <td class="s13">पुं</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s56">86) ប៉</td>
+                <td class="s37">86 + 68 (ប៉ + ំ) =</td>
+                <td class="s30">ប៉ំ</td>
+                <td class="s13">पं</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s56">86) ប៉</td>
+                <td class="s37">86 + 70 (ប៉ + ាំ ) =</td>
+                <td class="s30">ប៉ាំ</td>
+                <td class="s13">पाम्</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s56">86) ប៉</td>
+                <td class="s37">86 + 72 (ប៉ + ះ) =</td>
+                <td class="s30">ប៉ះ</td>
+                <td class="s13">पः</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+             
+                <td class="s56">86) ប៉</td>
+                <td class="s37">86 + 74 (ប៉ + ុ ះ) =</td>
+                <td class="s30">ប៉ុះ</td>
+                <td class="s13">पुः</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s56">86) ប៉</td>
+                <td class="s37">86 + 76 (ប៉ + េះ) =</td>
+                <td class="s30">ប៉េះ</td>
+                <td class="s13">पेः</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s56">86) ប៉</td>
+                <td class="s37">86 + 78 (ប៉ + ោះ) =</td>
+                <td class="s30">ប៉ោះ</td>
+                <td class="s13">पोः</td>
+                <td class="s13"></td>
+                <td class="s13"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+             
+                <td class="s54">87) ប+៊= ប៊</td>
+                <td class="s9" dir="ltr">Exceptions</td>
+                <td class="s10"></td>
+                <td class="s10">Devanagri </td>
+                <td class="s10" dir="ltr">Roman </td>
+                <td class="s10" dir="ltr">IPA</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s59" dir="ltr">87) ប៊ </td>
+                <td class="s38">87 + 35 (ប៊ + ា) =</td>
+                <td class="s25">ប៊ា</td>
+                <td class="s19">बुआ</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s59">87) ប៊</td>
+                <td class="s38">87 +37 ( ប៊ + ិ) =</td>
+                <td class="s60">ប៊ិ</td>
+                <td class="s19">बुई</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s59">87) ប៊</td>
+                <td class="s38">87 + 39 ( ប៊ + ី) =</td>
+                <td class="s60">ប៊ី</td>
+                <td class="s19">बाई</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s59">87) ប៊</td>
+                <td class="s38">87 + 41 ( ប៊ + ឹ) =</td>
+                <td class="s60">ប៊ឹ</td>
+                <td class="s19">बृ</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s59">87) ប៊</td>
+                <td class="s38">87 + 43 ( ប៊ + ឺ) =</td>
+                <td class="s60">ប៊ឺ</td>
+                <td class="s19">बॄ</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s59">87) ប៊</td>
+                <td class="s38">87 + 45 ( ប៊ + ុ) =</td>
+                <td class="s31">ប៊ុ</td>
+                <td class="s19">बु</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s20" dir="ltr">87) ប៊</td>
+                <td class="s38">87 + 47 ( ប៊ + ូ) =</td>
+                <td class="s31">ប៊ូ</td>
+                <td class="s19">बू</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s59">87) ប៊</td>
+                <td class="s38">87+48=5+49=</td>
+                <td class="s31">skip</td>
+                <td class="s31">skip</td>
+                <td class="s19"></td>
+                <td class="s31">skip</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s59">87) ប៊</td>
+                <td class="s38">87 + 51 ( ប៊ + ើ)</td>
+                <td class="s31">ប៊ើ</td>
+                <td class="s19">बॡ</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s59">87) ប៊</td>
+                <td class="s38">87+52=5+53=</td>
+                <td class="s31">skip</td>
+                <td class="s31">skip</td>
+                <td class="s19"></td>
+                <td class="s31">skip</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+             
+                <td class="s59">87) ប៊</td>
+                <td class="s38">87+7=5+55=</td>
+                <td class="s31">skip</td>
+                <td class="s31">skip</td>
+                <td class="s19"></td>
+                <td class="s31">skip</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s59">87) ប៊</td>
+                <td class="s38">87 + 57 ( ប៊ + េ) =</td>
+                <td class="s31">ប៊េ</td>
+                <td class="s19">बुे</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s59">87) ប៊</td>
+                <td class="s38">87 + 59 ( ប៊ + ែ) =</td>
+                <td class="s31">ប៊ែ</td>
+                <td class="s19">बुए</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s59">87) ប៊</td>
+                <td class="s38">87 + 61 ( ប៊ + ៃ) =</td>
+                <td class="s31">ប៊ៃ</td>
+                <td class="s19">बुई</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+             
+                <td class="s59">87) ប៊</td>
+                <td class="s38">87 + 63 ( ប៊ + ោ) =</td>
+                <td class="s31">ប៊ោ</td>
+                <td class="s19">बुओ</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+          
+                <td class="s59">87) ប៊</td>
+                <td class="s38">87 + 65 (ប៊ + ៅ) =</td>
+                <td class="s31">ប៊ៅ</td>
+                <td class="s19">बुऔ</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s59">87) ប៊</td>
+                <td class="s38">87 + 67 ( ប៊ + ុំ) =</td>
+                <td class="s31">ប៊ុំ</td>
+                <td class="s19">बुम्</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s59">87) ប៊</td>
+                <td class="s38">87 + 69 ( ប៊ + ំ) =</td>
+                <td class="s31">ប៊ំ</td>
+                <td class="s19">बं</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s59">87) ប៊</td>
+                <td class="s38">87 + 71 ( ប៊ + ាំ ) =</td>
+                <td class="s31">ប៊ាំ</td>
+                <td class="s19">बाम्</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s20">87) ប៊</td>
+                <td class="s38">87 + 73 ( ប៊ + ះ) =</td>
+                <td class="s31">ប៊ះ</td>
+                <td class="s19">बः</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s59">87) ប៊</td>
+                <td class="s38">87 + 75 ( ប៊ + ុ ះ) =</td>
+                <td class="s31">ប៊ុះ</td>
+                <td class="s19">बुः</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s59">87) ប៊</td>
+                <td class="s38">87 + 77 ( ប៊ + េះ) =</td>
+                <td class="s31">ប៊េះ</td>
+                <td class="s19">बुएः</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s59">87) ប៊</td>
+                <td class="s38">87 + 79 ( ប៊ + ោះ) =</td>
+                <td class="s31">ប៊ោះ</td>
+                <td class="s19">बुओः</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s54">88) ស+៊=ស៊</td>
+                <td class="s9" dir="ltr">Exceptions</td>
+                <td class="s10"></td>
+                <td class="s10">Devanagri </td>
+                <td class="s10" dir="ltr">Roman </td>
+                <td class="s10" dir="ltr">IPA</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s20" dir="ltr">88) ស៊</td>
+                <td class="s38">88 + 35 ( ស៊ + ា) =ស៊ា</td>
+                <td class="s25">ស៊ា</td>
+                <td class="s19">सा</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s59">88) ស៊</td>
+                <td class="s38">88 +37 ( ស៊ + ិ) =ស៊ិ</td>
+                <td class="s25">ស៊ិ</td>
+                <td class="s19">सि</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s59">88) ស៊</td>
+                <td class="s38">88 + 39 ( ស៊ + ី) =ស៊ី</td>
+                <td class="s25">ស៊ី</td>
+                <td class="s19">सी</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s59">88) ស៊</td>
+                <td class="s38">88 + 41 (ស៊ + ឹ) =ស៊ឹ</td>
+                <td class="s25">ស៊ឹ</td>
+                <td class="s19">सृ</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s59">88) ស៊</td>
+                <td class="s38">85 + 43 ( ស៊ + ឺ) =ស៊ឺ</td>
+                <td class="s25">ស៊ឺ</td>
+                <td class="s19">सॄ</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s59">88) ស៊</td>
+                <td class="s38">88 + 45 ( ស៊ + ុ) =ស៊ុ</td>
+                <td class="s31">ស៊ុ</td>
+                <td class="s19">सु</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s59">88) ស៊</td>
+                <td class="s38">88 + 46 ( ស៊ + ូ) =ស៊ូ</td>
+                <td class="s31">ស៊ូ</td>
+                <td class="s19">सू</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s59">88) ស៊</td>
+                <td class="s38">88+48=5+49=</td>
+                <td class="s31">skip</td>
+                <td class="s19">skip </td>
+                <td class="s19"></td>
+                <td class="s31">skip</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s59">88) ស៊</td>
+                <td class="s38">88 + 51 ( ស៊ + ើ ស៊ើ</td>
+                <td class="s31">ស៊ើ</td>
+                <td class="s19">सॡ</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s59">88) ស៊</td>
+                <td class="s38">88+52=5+53=</td>
+                <td class="s31">skip</td>
+                <td class="s31">skip</td>
+                <td class="s19"></td>
+                <td class="s31">skip</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s59">88) ស៊</td>
+                <td class="s4">88+54=5+55=</td>
+                <td class="s31">skip</td>
+                <td class="s31">skip</td>
+                <td class="s19"></td>
+                <td class="s31">skip</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s59">88) ស៊</td>
+                <td class="s38">88 + 57 ( ស៊ + េ) =</td>
+                <td class="s31">ស៊េ</td>
+                <td class="s19">से</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s59">88) ស៊</td>
+                <td class="s38">88 + 59 ( ស៊ + ែ) =</td>
+                <td class="s31">ស៊ែ</td>
+                <td class="s19">सै</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s59">88) ស៊</td>
+                <td class="s38">88 + 61 (ស៊ + ៃ) =</td>
+                <td class="s31">ស៊ៃ</td>
+                <td class="s19">सै</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s59">88) ស៊</td>
+                <td class="s38">88 + 63 (ស៊ + ោ) =</td>
+                <td class="s31">សោ</td>
+                <td class="s19">सो</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s59">88) ស៊</td>
+                <td class="s38">88 + 65 (ស៊ + ៅ) =</td>
+                <td class="s31">ស៊ៅ</td>
+                <td class="s19">सौ</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s59">88) ស៊</td>
+                <td class="s38">88 + 67 ( ស៊ + ុំ) =</td>
+                <td class="s31">ស៊ំុ</td>
+                <td class="s19">सुम्</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s59">88) ស៊</td>
+                <td class="s38">88 + 69 (ស៊ + ំ) =</td>
+                <td class="s31">ស៊ំ</td>
+                <td class="s19">सं</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s59">88) ស៊</td>
+                <td class="s38">88 + 71 (ស៊ + ាំ ) =</td>
+                <td class="s31">ស៊ាំ</td>
+                <td class="s19">साम्</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s59">88) ស៊</td>
+                <td class="s38">88 + 73 ( ស៊ + ះ) =</td>
+                <td class="s31">ស៊ះ</td>
+                <td class="s19">सः</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s59">88) ស៊</td>
+                <td class="s38">88 + 75 (ស៊ + ុ ះ) =</td>
+                <td class="s31">ស៊ុះ</td>
+                <td class="s19">सुः</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s59">88) ស៊</td>
+                <td class="s38">88 + 77 (ស៊ + េះ) =</td>
+                <td class="s31">ស៊េះ</td>
+                <td class="s19">सेः</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s59">88) ស៊</td>
+                <td class="s38">88 + 79 (ស៊ + ោះ) =</td>
+                <td class="s31">ស៊ោះ</td>
+                <td class="s19">सोः</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s54">89) ហ +៊=ហ៊</td>
+                <td class="s9" dir="ltr">Exceptions</td>
+                <td class="s10"></td>
+                <td class="s10">Devanagri </td>
+                <td class="s10" dir="ltr">Roman </td>
+                <td class="s10" dir="ltr">IPA</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s20" dir="ltr">89) ហ៊ </td>
+                <td class="s38">89 + 34 ( ហ៊ + ា) =ហ៊ា</td>
+                <td class="s28">ហ៊ា</td>
+                <td class="s19">हा</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s59">89) ហ៊</td>
+                <td class="s38">89 +36 ( ហ៊ + ិ) =ហ៊ិ</td>
+                <td class="s28">ហ៊ិ</td>
+                <td class="s19">हि</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s59">89) ហ៊</td>
+                <td class="s38">89 + 38 ( ហ៊ + ី) =ហ៊ី</td>
+                <td class="s28">ហ៊ី</td>
+                <td class="s19">ही</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s59">89) ហ៊</td>
+                <td class="s38">89 + 40 ( ហ៊ + ឹ) =ហ៊ឹ</td>
+                <td class="s28">ហ៊ឹ</td>
+                <td class="s19">हृ</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s59">89) ហ៊</td>
+                <td class="s38">89 + 42 ( ហ៊ + ឺ) =ហ៊ឺ</td>
+                <td class="s28">ហ៊ឺ</td>
+                <td class="s19">हॄ</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s59">89) ហ៊</td>
+                <td class="s38">89 + 44 ( ហ៊ + ុ) =ហ៊ុ</td>
+                <td class="s28">ហ៊ុ</td>
+                <td class="s19">हु</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s59">89) ហ៊</td>
+                <td class="s38">85 + 46 ( ហ៊ + ូ) =ហ៊ូ</td>
+                <td class="s28">ហ៊ូ</td>
+                <td class="s19">हू</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s59">89) ហ</td>
+                <td class="s38">89+48=5+49=</td>
+                <td class="s31">skip</td>
+                <td class="s19">skip</td>
+                <td class="s19"></td>
+                <td class="s31">skip</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s59">89) ហ៊</td>
+                <td class="s38">89+50 ( ហ៊ + ើ ហ៊ើ</td>
+                <td class="s28">ហ៊ើ</td>
+                <td class="s19">हॡ</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s59">89) ហ</td>
+                <td class="s38">89+52=5+53=</td>
+                <td class="s31">skip</td>
+                <td class="s31">skip</td>
+                <td class="s19"></td>
+                <td class="s31">skip</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s59">89) ហ</td>
+                <td class="s38">89+54=5+55=</td>
+                <td class="s31">skip</td>
+                <td class="s31">skip</td>
+                <td class="s19"></td>
+                <td class="s31">skip</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s59">89) ហ៊</td>
+                <td class="s38">89 + 56 ( ហ៊ + េ) =</td>
+                <td class="s28">ហ៊េ</td>
+                <td class="s19">हे</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s59">89) ហ៊</td>
+                <td class="s38">89 + 58 ( ហ៊ + ែ) =</td>
+                <td class="s28">ហ៊ែ</td>
+                <td class="s19">है</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s59">89) ហ៊</td>
+                <td class="s38">89 + 60 ( ហ៊ + ៃ) =</td>
+                <td class="s28">ហ៊ៃ</td>
+                <td class="s19">है</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s59">89) ហ៊</td>
+                <td class="s38">89 + 62 ( ហ៊ + ោ) =</td>
+                <td class="s28">ហ៊ោ</td>
+                <td class="s19">हो</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s59">89) ហ៊</td>
+                <td class="s38">85 + 64 ( ហ៊ + ៅ) =</td>
+                <td class="s28">ហ៊ៅ</td>
+                <td class="s19">हौ</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s59">89) ហ៊</td>
+                <td class="s38">89 + 66 ( ហ៊ + ុំ) =</td>
+                <td class="s28">ហ៊ុំ</td>
+                <td class="s19">हुम्</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s59">89) ហ៊</td>
+                <td class="s38">89 + 68 ( ហ៊ + ំ) =</td>
+                <td class="s28">ហ៊ំ</td>
+                <td class="s19">हम्</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s59">89) ហ៊</td>
+                <td class="s38">89 + 70 ( ហ៊ + ាំ ) =</td>
+                <td class="s28">ហ៊ាំ</td>
+                <td class="s19">हाम्</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s59">89) ហ៊</td>
+                <td class="s38">89 + 72 ( ហ៊ + ះ) =</td>
+                <td class="s28">ហ៊ះ</td>
+                <td class="s19">हः</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s59">89) ហ៊</td>
+                <td class="s38">89 + 74 ( ហ៊ + ុ ះ) =</td>
+                <td class="s28">ហ៊ុះ</td>
+                <td class="s19">हुः</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s59">89) ហ៊</td>
+                <td class="s38">89 + 76 ( ហ៊ + េះ) =</td>
+                <td class="s28">ហ៊េះ</td>
+                <td class="s19">हेः</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s59">89) ហ៊</td>
+                <td class="s38">89 + 78 ( ហ៊ + ោះ) =</td>
+                <td class="s28">ហ៊ោះ</td>
+                <td class="s19">होः</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s61">90) អ+៊=អ៊</td>
+                <td class="s9" dir="ltr">Exceptions</td>
+                <td class="s10"></td>
+                <td class="s10">Devanagri </td>
+                <td class="s10" dir="ltr">Roman </td>
+                <td class="s10" dir="ltr">IPA</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s62" dir="ltr">90) អ៊</td>
+                <td class="s38">90 + 35 ( អ៊ + ា) = អ៊ា</td>
+                <td class="s60">អ៊ា</td>
+                <td class="s19">आ</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s63">90) អ៊</td>
+                <td class="s38">90 + 37 ( អ៊ + ិ) =អ៊ិ</td>
+                <td class="s60">អ៊ិ</td>
+                <td class="s19">इ</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s63">90) អ៊</td>
+                <td class="s38">90 + 39 ( អ៊ + ី) =អ៊ី</td>
+                <td class="s60">អ៊ី</td>
+                <td class="s19">ई</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s63">90) អ៊</td>
+                <td class="s38">90 + 41 ( អ៊ + ឹ) =អ៊ឹ</td>
+                <td class="s60">អ៊ឹ</td>
+                <td class="s19">ऋ</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s63">90) អ៊</td>
+                <td class="s38">90 + 43 ( អ៊ + ឺ) =អ៊ឺ</td>
+                <td class="s60">អ៊ឺ</td>
+                <td class="s19">ॠ</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s63">90) អ៊</td>
+                <td class="s38">90 + 45 ( អ៊ + ុ) =អ៊ុ</td>
+                <td class="s25">អ៊ុ</td>
+                <td class="s19">उ</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s63">90) អ៊</td>
+                <td class="s38">90 + 47 ( អ៊ + ូ) =អ៊ូ</td>
+                <td class="s25">អ៊ូ</td>
+                <td class="s19">ऊ</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s63">90) អ៊</td>
+                <td class="s38">90+48=5+49=</td>
+                <td class="s25">skip</td>
+                <td class="s31">skip</td>
+                <td class="s19"></td>
+                <td class="s31">skip</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+             
+                <td class="s63">90) អ៊</td>
+                <td class="s38">90 + 51 ( អ៊ + ើ)អ៊ើ</td>
+                <td class="s25">អ៊ើ</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s63">90) អ៊</td>
+                <td class="s38">90+52=5+53=</td>
+                <td class="s31">skip</td>
+                <td class="s31">skip</td>
+                <td class="s19"></td>
+                <td class="s31">skip</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s63">90) អ៊</td>
+                <td class="s38">0+54=5+55=</td>
+                <td class="s31">skip</td>
+                <td class="s31">skip</td>
+                <td class="s19"></td>
+                <td class="s31">skip</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s63">90) អ៊</td>
+                <td class="s38">90 + 57 ( អ៊ + េ) =</td>
+                <td class="s28">អ៊េ</td>
+                <td class="s19">ए</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s63">90) អ៊</td>
+                <td class="s38">90 + 59 ( អ៊ + ែ) =</td>
+                <td class="s28">អ៊ែ</td>
+                <td class="s19">ऐ</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s63">90) អ៊</td>
+                <td class="s38">90 + 61 ( អ៊ + ៃ) =</td>
+                <td class="s28">អ៊ៃ</td>
+                <td class="s19">ऐ</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s63">90) អ៊</td>
+                <td class="s38">90 + 63 ( អ៊ + ោ) =</td>
+                <td class="s28">អ៊ោ</td>
+                <td class="s19">ओ</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s63">90) អ៊</td>
+                <td class="s38">90 + 65 ( អ៊ + ៅ) =</td>
+                <td class="s28">អ៊ៅ</td>
+                <td class="s19">औ</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s63">90) អ៊</td>
+                <td class="s38">90 + 67 ( អ៊ + ុំ) =</td>
+                <td class="s28">អ៊ុំ</td>
+                <td class="s19">उं</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s63">90) អ៊</td>
+                <td class="s38">90 + 69 ( អ៊ + ំ) =</td>
+                <td class="s28">អ៊ំ</td>
+                <td class="s19">ं</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s63">90) អ៊</td>
+                <td class="s38">90 + 71 ( អ៊ + ាំ ) =</td>
+                <td class="s28">អ៊ាំ</td>
+                <td class="s19">आं</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td class="s63">90) អ៊</td>
+                <td class="s38">90 + 73 ( អ៊+ ះ) =</td>
+                <td class="s28">អ៊ះ</td>
+                <td class="s19">अः</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s63">90) អ៊</td>
+                <td class="s38">90 + 75 ( អ៊ + ុ ះ) =</td>
+                <td class="s28">អ៊ុំះ</td>
+                <td class="s19">उंः</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s63">90) អ៊</td>
+                <td class="s38">90 + 77 ( អ៊ + េះ) =</td>
+                <td class="s28">អ៊េះ</td>
+                <td class="s19">एः</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s63">90) អ៊</td>
+                <td class="s38">90 + 79 (អ៊ + ោះ) =</td>
+                <td class="s28">អ៊ោះ</td>
+                <td class="s19">ओः</td>
+                <td class="s19"></td>
+                <td class="s19"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+             
+                <td class="s61">Independent</td>
+                <td class="s61">Vowels</td>
+                <td class="s64">not new sounds</td>
+                <td class="s10">Devanagri </td>
+                <td class="s10" dir="ltr">Roman </td>
+                <td class="s10" dir="ltr">IPA</td>
+                <td class="s9"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s65">91)</td>
+                <td class="s66">ឥ</td>
+                <td class="s67">អិ 33 + 36</td>
+                <td class="s68"></td>
+                <td class="s67">ek</td>
+                <td class="s69">devanagari</td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s65">92)</td>
+                <td class="s66">ឦ</td>
+                <td class="s67">អី 33 + 38</td>
+                <td class="s68"></td>
+                <td class="s67">ey</td>
+                <td class="s68"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s65">93)</td>
+                <td class="s66">ឧ</td>
+                <td class="s67">អ៊ុ 90 + 45</td>
+                <td class="s68"></td>
+                <td class="s67">ouk</td>
+                <td class="s68"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s65">94)</td>
+                <td class="s66">ឩ</td>
+                <td class="s67">អ៊ូ 90 + 47</td>
+                <td class="s68"></td>
+                <td class="s67">oo</td>
+                <td class="s68"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s65">95)</td>
+                <td class="s66">ឪ</td>
+                <td class="s67">អ៊ូវ អ៊ៅ 90+64</td>
+                <td class="s68"></td>
+                <td class="s67">ov</td>
+                <td class="s68"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s65">96)</td>
+                <td class="s66">ឫ</td>
+                <td class="s67">រឹ 27+41</td>
+                <td class="s68"></td>
+                <td class="s67">reuk</td>
+                <td class="s68"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s65">97)</td>
+                <td class="s66">ឬ</td>
+                <td class="s67">រឺ. 27+4.3</td>
+                <td class="s68"></td>
+                <td class="s67">reu</td>
+                <td class="s68"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s65">98)</td>
+                <td class="s66">ឭ</td>
+                <td class="s67">លឹ 28+41</td>
+                <td class="s68"></td>
+                <td class="s67">leuk</td>
+                <td class="s68"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s65">99)</td>
+                <td class="s66">ឮ</td>
+                <td class="s67">លឺ 28+43</td>
+                <td class="s68"></td>
+                <td class="s67">leu</td>
+                <td class="s68"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+            
+                <td class="s65">100)</td>
+                <td class="s66">ឯ</td>
+                <td class="s70">អែ 33+58</td>
+                <td class="s68"></td>
+                <td class="s67">ae</td>
+                <td class="s68"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s65">101)</td>
+                <td class="s71">ឰ</td>
+                <td class="s70">អៃ 33+60</td>
+                <td class="s68"></td>
+                <td class="s67">ai</td>
+                <td class="s68"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+              
+                <td class="s65">102)</td>
+                <td class="s66">ឱ, ឲ</td>
+                <td class="s70">អោ 33+62</td>
+                <td class="s68"></td>
+                <td class="s67">oar</td>
+                <td class="s68"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s65">103)</td>
+                <td class="s71">ឳ</td>
+                <td class="s70">អៅ 33+64</td>
+                <td class="s68"></td>
+                <td class="s67">ao</td>
+                <td class="s68"></td>
+                <td class="s2"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s0"></td>
+                <td class="s3"></td>
+                <td class="s4"></td>
+                <td class="s2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s10"></td>
+                <td class="s10"></td>
+                <td class="s10"></td>
+                <td class="s10"></td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td class="s9"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+               
+                <td class="s18"></td>
+                <td class="s18"></td>
+                <td class="s72"></td>
+                <td class="s72"></td>
+                <td class="s72"></td>
+                <td class="s72"></td>
+                <td class="s18"></td>
+                <td class="s18"></td>
+                <td class="s18"></td>
+                <td class="s18"></td>
+                <td class="s18"></td>
+                <td class="s18"></td>
+                <td class="s18"></td>
+                <td class="s18"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr style="height: 20px">
+                
+                <td></td>
+                <td class="s18"></td>
+                <td class="s72"></td>
+                <td class="s72"></td>
+                <td class="s72"></td>
+                <td class="s72"></td>
+                <td class="s18"></td>
+                <td class="s18"></td>
+                <td class="s18"></td>
+                <td class="s18"></td>
+                <td class="s18"></td>
+                <td class="s18"></td>
+                <td class="s18"></td>
+                <td class="s18"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
+       
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+<!-- <script src="../assets/js/jquery-1.9.1.min.js"></script>  -->
+<!-- <script src="css/owl-carousel/owl.carousel.js"></script> -->
+
+ 
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+</body>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js" integrity="sha512-bPs7Ae6pVvhOSiIcyUClR7/q2OAsRiovw4vAkX+zJbw3ShAeeqezq50RIIcIURq7Oa20rW2n2q+fyXBNcU9lrw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script>
+  $('.owl-carousel').owlCarousel({
+    loop:true,
+    items:1,
+    nav:true,
+    margin:10,
+    autoplay:true,
+    slideTransition: 'linear',
+            autoplayTimeout: 6000,
+            autoplaySpeed: 2000,
+    autoplayHoverPause:true,
+    responsive:{
+        0:{
+            items:1
+        },
+        600:{
+            items:1
+        },
+        1000:{
+            items:1
+        },
+    }
+});
+</script>
+
+
+</body>
+</html>
