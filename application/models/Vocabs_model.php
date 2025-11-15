@@ -38,4 +38,15 @@ class Vocabs_model extends CI_Model {
         }
         return $final_res;
     }
+
+    public function get_vowel_group()
+    {
+        $this->db->select('vowel');
+        $this->db->from('vocabs');
+        $this->db->group_by('vowel');
+        $this->db->order_by('id','ASC');
+        $qry= $this->db->get();
+        $res= $qry->result_array();
+        return $res;
+    }
 }
