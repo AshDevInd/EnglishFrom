@@ -87,4 +87,42 @@ class Vocabs_model extends CI_Model
         $res = $qry->result_array();
         return $res;
     }
+    
+
+    public function get_vocabs_grouped_for_sidebar()
+    {
+        $categoryGroups = $this->get_vocabs_by_category(); // original method
+        $main = [];
+        foreach ($categoryGroups as $cat) {
+            $vowel = ''; // default empty if no data
+            if (!empty($cat['data'])) {
+                $vowel = $cat['data'][0]['vowel'] ?? '';
+            }
+
+            if (in_array($cat['category'], ['Consonant(S1)', 'Consonant(S2)'])) {
+                $cat['vowel'] = $vowel;
+                $main[] = $cat;
+            } else {
+                $serials = [];
+                $bySerial = [];
+                foreach ($cat['data'] as $row) {
+                    $bySerial[$row['serial_number']][] = $row;
+                }
+                foreach ($bySerial as $serial => $rows) {
+                    $serials[] = [
+                        'serial_number' => $serial,
+                        'vowel' => $rows[0]['vowel'] ?? '',
+                        'data' => $rows,
+                    ];
+                }
+                $main[] = [
+                    'category' => $cat['category'],
+                    'vowel' => $vowel,
+                    'serials' => $serials,
+                ];
+            }
+        }
+        return $main;
+    }
+
 }

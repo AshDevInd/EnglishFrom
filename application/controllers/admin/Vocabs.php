@@ -1,133 +1,316 @@
 <?php defined('BASEPATH') or exit('');
-class Vocabs extends Admin_Controller {
-	
+
+class Vocabs extends Admin_Controller
+{
 	function __construct()
 	{
 		parent::__construct();
 		$this->load->model('Vocabs_model');
-        $this->load->helper(array('form', 'url'));
+		$this->load->helper(array('form', 'url'));
+		$this->load->library('session');
+		$this->load->library('upload');
 	}
 
 	function index()
 	{
-		 // Get all records from the vocabs table
-		 $query = $this->db->get('vocabs');
-		 $data['vocabs'] = $query->result_array();
-		 $data['page_title'] = 'vocabs';
-		 // Load view and pass data
-		 $this->load->view('vocabs', $data);
+		$query = $this->db->get('vocabs');
+		$data['vocabs'] = $query->result_array();
+		$data['page_title'] = 'Vocabs';
+		$this->load->view('vocabs', $data);
 	}
+
+	public function create()
+	{
+		if ($this->input->method() != 'post') {
+			$this->session->unset_userdata('message');
+			$this->session->unset_userdata('error');
+		}
+		// Handle form submission
+		if ($this->input->method() == 'post') {
+
+			$serial_number = $this->input->post('serial_number');
+			$category = $this->input->post('data')['parent'];
+			$combination = $this->input->post('combination');
+			$vowel = $this->input->post('vowel');
+			$khmer = $this->input->post('khmer');
+			$devanagari = $this->input->post('devanagari');
+			$roman = $this->input->post('roman');
+			$ipa = $this->input->post('ipa');
+
+			$audio_option = $this->input->post('audio_option');
+
+			$khmer_audio = '';
+			$khmer_my_version_audio = '';
+			$error = '';
+
+			// Handle Khmer Main Audio
+			if ($audio_option == 'upload' && !empty($_FILES['khmer_audio_file']['name'])) {
+				$config['upload_path'] = './uploads/audio/vocabs/';
+				$config['allowed_types'] = 'mp3|wav|ogg|m4a';
+				$config['max_size'] = 10240;
+				$config['encrypt_name'] = true;
+
+				if (!is_dir($config['upload_path'])) {
+					mkdir($config['upload_path'], 0777, true);
+				}
+
+				$this->upload->initialize($config);
+
+				if ($this->upload->do_upload('khmer_audio_file')) {
+					$upload_data = $this->upload->data();
+					$khmer_audio = $upload_data['file_name'];
+				} else {
+					$error = $this->upload->display_errors();
+				}
+			} elseif ($audio_option == 'record') {
+				// Get recorded filename from POST
+				$khmer_audio = $this->input->post('khmer_audio');
+
+				if (!empty($khmer_audio)) {
+					$temp_path = './uploads/audio/vocabs/temp/' . $khmer_audio;
+					$permanent_path = './uploads/audio/vocabs/' . $khmer_audio;
+
+					if (file_exists($temp_path)) {
+						if (!is_dir('./uploads/audio/vocabs/')) {
+							mkdir('./uploads/audio/vocabs/', 0777, true);
+						}
+						rename($temp_path, $permanent_path);
+					}
+				}
+			}
+
+			// Handle Khmer My Version Audio - ALWAYS check POST data
+			$khmer_my_version_audio = $this->input->post('khmer_my_version_audio');
+
+			if (!empty($khmer_my_version_audio)) {
+				$temp_path = './uploads/audio/vocabs/temp/' . $khmer_my_version_audio;
+				$permanent_path = './uploads/audio/vocabs/' . $khmer_my_version_audio;
+
+				if (file_exists($temp_path)) {
+					if (!is_dir('./uploads/audio/vocabs/')) {
+						mkdir('./uploads/audio/vocabs/', 0777, true);
+					}
+					rename($temp_path, $permanent_path);
+				}
+			}
+
+			if (empty($error)) {
+				$data_to_save = [
+					'serial_number'          => $serial_number,
+					'category'               => $category,
+					'combination'            => $combination,
+					'vowel'                  => $vowel,
+					'khmer'                  => $khmer,
+					'devanagari'             => $devanagari,
+					'roman'                  => $roman,
+					'ipa'                    => $ipa,
+					'khmer_audio'            => $khmer_audio,
+					'khmer_my_version_audio' => $khmer_my_version_audio,
+				];
+
+				// Debug - uncomment to check values
+				// echo '<pre>'; print_r($data_to_save); die();
+
+				$this->db->insert('vocabs', $data_to_save);
+				$this->session->set_flashdata('message', 'Record saved successfully!');
+
+				redirect(base_url('admin/vocabs/create'));
+			} else {
+				$this->session->set_flashdata('error', $error);
+			}
+		}
+
+		// Load form data
+		$data['cats'] = $this->db->order_by('id', 'asc')->get('khmer_category')->result_array();
+		$data['temp_id'] = uniqid('temp_', true);
+		$data['page_title'] = 'Add Vocab';
+
+		$this->load->view('add_vocab', $data);
+	}
+
 	function importVocabs()
 	{
-		 // Get all records from the Vowels table
-		 
-		 // Load view and pass data
-		 $this->load->view('import-vocabs');
+		$this->load->view('import-vocabs');
 	}
 
-    public function import_csv() {
-        $file_path = $_FILES['csv_file']['tmp_name'];
+	public function import_csv()
+	{
+		if (empty($_FILES['csv_file']['name'])) {
+			echo "Please upload a CSV file.";
+			return;
+		}
 
-		if ($_FILES['csv_file']['name']) {
-            $filename = $_FILES['csv_file']['tmp_name'];
-            $file = fopen($filename, "r");
+		$filename = $_FILES['csv_file']['tmp_name'];
+		$file = fopen($filename, "r");
 
-            // Skip header
-            fgetcsv($file);
+		// Skip header
+		fgetcsv($file);
 
-            while (($data = fgetcsv($file)) !== FALSE) {
-                // Extract serial number and vowel from first column
-                preg_match('/(\d+)[\)\s]*(\S*)/', $data[0], $matches);
-                $serial_number = $matches[1] ?? '';
-                $vowel = $matches[2] ?? '';
-				$combination_raw = isset($data[1]) ? trim($data[1]) : '';
-				$combination = preg_replace('/^\s*\(.*?\)\s*/', '', $combination_raw);
-                $insertData = [
-                    'serial_number' => $serial_number,
-                    'vowel'         => $vowel,
-                 	'combination'   => isset($combination) ? rtrim($combination, '= ') : '',
-                    'khmer'         => $data[2] ?? '',
-                    'devanagari'    => $data[3] ?? '',
-                    'roman'         => $data[4] ?? '',
-                    'ipa'           => $data[5] ?? ''
-                ];
+		$count = 0;
+		while (($data = fgetcsv($file)) !== FALSE) {
+			preg_match('/(\d+)[\)\s]*(\S*)/', $data[0], $matches);
+			$serial_number = $matches[1] ?? '';
+			$vowel = $matches[2] ?? '';
+			$combination_raw = isset($data[1]) ? trim($data[1]) : '';
+			$combination = preg_replace('/^\s*\(.*?\)\s*/', '', $combination_raw);
 
-                $this->db->insert('vocabs', $insertData);
-            }
-            fclose($file);
-            echo "CSV Imported Successfully!";
-        } else {
-            echo "Please upload a CSV file.";
-        }
-    }
-    
-	public function upload_audio() {
-		if (isset($_FILES['audio_data']) && $_FILES['audio_data']['error'] === 0) {
-			$upload_path = './uploads/audio/vocabs/';
-			if (!is_dir($upload_path)) {
-				mkdir($upload_path, 0777, true);
-			}
-	
-			$field = $this->input->post('field_name');  // e.g., khmer, devanagari, roman
-			$id = $this->input->post('vocabs_id');        // ID of the vowel row
-			$filename = $field . '_' . $id . '_' . time() . '.mp3';
-	
-			$full_path = $upload_path . $filename;
-	
-			if (move_uploaded_file($_FILES['audio_data']['tmp_name'], $full_path)) {
-				// Load database
-				$this->load->database();
-	
-				// Determine column name based on field
-				$audio_column = $field; // e.g., khmer_audio, devanagari_audio
-	
-				// Update the vowel row with new audio filename
-				$this->db->where('id', $id);
-				$this->db->update('vocabs', [ $audio_column => $filename ]);
-				
-				// Confirm if update was successful
-				if ($this->db->affected_rows() > 0) {
-					echo "Uploaded and updated successfully: " . $filename;
-				} else {
-					echo "Uploaded successfully, but DB update failed.";
-				}
-			} else {
-				http_response_code(500);
-				echo "Failed to move file.";
-			}
-		} else {
+			$insertData = [
+				'serial_number' => $serial_number,
+				'vowel'         => $vowel,
+				'combination'   => isset($combination) ? rtrim($combination, '= ') : '',
+				'khmer'         => $data[2] ?? '',
+				'devanagari'    => $data[3] ?? '',
+				'roman'         => $data[4] ?? '',
+				'ipa'           => $data[5] ?? ''
+			];
+
+			$this->db->insert('vocabs', $insertData);
+			$count++;
+		}
+		fclose($file);
+
+		$this->session->set_flashdata('message', $count . ' records imported successfully!');
+		redirect(base_url('admin/vocabs/index'));
+	}
+
+	public function upload_audio_temp()
+	{
+		header('Content-Type: application/json');
+
+		if (!isset($_FILES['audio_data']) || $_FILES['audio_data']['error'] !== 0) {
 			http_response_code(400);
-			echo "No file uploaded.";
+			echo json_encode([
+				'success' => false,
+				'message' => 'No file uploaded or upload error'
+			]);
+			return;
+		}
+
+		$upload_path = './uploads/audio/vocabs/temp/';
+		if (!is_dir($upload_path)) {
+			mkdir($upload_path, 0777, true);
+		}
+
+		$field = $this->input->post('field_name');
+		$temp_id = $this->input->post('temp_id');
+
+		if (!$field || !$temp_id) {
+			http_response_code(400);
+			echo json_encode([
+				'success' => false,
+				'message' => 'Missing field name or temp ID'
+			]);
+			return;
+		}
+
+		// Generate unique filename
+		$filename = $field . '_' . $temp_id . '_' . time() . '.mp3';
+		$full_path = $upload_path . $filename;
+
+		if (move_uploaded_file($_FILES['audio_data']['tmp_name'], $full_path)) {
+			echo json_encode([
+				'success' => true,
+				'filename' => $filename,
+				'message' => 'Audio uploaded successfully'
+			]);
+		} else {
+			http_response_code(500);
+			echo json_encode([
+				'success' => false,
+				'message' => 'Failed to move uploaded file'
+			]);
 		}
 	}
-	
+
+	public function upload_audio()
+	{
+		header('Content-Type: application/json');
+
+		if (!isset($_FILES['audio_data']) || $_FILES['audio_data']['error'] !== 0) {
+			http_response_code(400);
+			echo json_encode([
+				'success' => false,
+				'message' => 'No file uploaded or upload error'
+			]);
+			return;
+		}
+
+		$upload_path = './uploads/audio/vocabs/';
+		if (!is_dir($upload_path)) {
+			mkdir($upload_path, 0777, true);
+		}
+
+		$field = $this->input->post('field_name');
+		$id = $this->input->post('vocabs_id');
+
+		if (!$field || !$id) {
+			http_response_code(400);
+			echo json_encode([
+				'success' => false,
+				'message' => 'Missing field name or ID'
+			]);
+			return;
+		}
+
+		// Generate unique filename
+		$filename = $field . '_' . $id . '_' . time() . '.mp3';
+		$full_path = $upload_path . $filename;
+
+		if (move_uploaded_file($_FILES['audio_data']['tmp_name'], $full_path)) {
+			// Update database with new filename
+			$this->db->where('id', $id);
+			$this->db->update('vocabs', [$field => $filename]);
+
+			if ($this->db->affected_rows() >= 0) {
+				echo json_encode([
+					'success' => true,
+					'filename' => $filename,
+					'message' => 'Audio uploaded successfully'
+				]);
+			} else {
+				echo json_encode([
+					'success' => false,
+					'message' => 'Database update failed'
+				]);
+			}
+		} else {
+			http_response_code(500);
+			echo json_encode([
+				'success' => false,
+				'message' => 'Failed to move uploaded file'
+			]);
+		}
+	}
+
 	public function delete_audio()
-{
-    $vocabs_id  = $this->input->post('vocabs_id');
-    $field_name = $this->input->post('field_name');
+	{
+		$vocabs_id  = $this->input->post('vocabs_id');
+		$field_name = $this->input->post('field_name');
 
-    if (!$vocabs_id || !$field_name) {
-        show_error("Invalid request", 400);
-        return;
-    }
+		if (!$vocabs_id || !$field_name) {
+			http_response_code(400);
+			echo "Invalid request";
+			return;
+		}
 
-    $this->db->select($field_name);
-    $this->db->where('id', $vocabs_id);
-    $row = $this->db->get('vocabs')->row();
+		$this->db->select($field_name);
+		$this->db->where('id', $vocabs_id);
+		$row = $this->db->get('vocabs')->row();
 
-    if ($row && !empty($row->$field_name)) {
-        $file_path = FCPATH . 'uploads/audio/vocabs/' . $row->$field_name;
-        if (file_exists($file_path)) {
-            @unlink($file_path);
-        }
+		if ($row && !empty($row->$field_name)) {
+			$file_path = FCPATH . 'uploads/audio/vocabs/' . $row->$field_name;
+			if (file_exists($file_path)) {
+				@unlink($file_path);
+			}
 
-        $this->db->where('id', $vocabs_id)
-                 ->update('vocabs', [ $field_name => null ]);
+			$this->db->where('id', $vocabs_id)
+				->update('vocabs', [$field_name => null]);
 
-        echo "success";
-        return;
-    }
+			echo "success";
+			return;
+		}
 
-    show_error("Audio file not found", 404);
-}
+		http_response_code(404);
+		echo "Audio file not found";
+	}
 }

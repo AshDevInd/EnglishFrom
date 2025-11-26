@@ -5,7 +5,9 @@
   <div class="content-header">
     <div class="container-fluid">
       <div class="row mb-2">
-        <div class="col-sm-6"><h1 class="m-0">Vocabs</h1></div>
+        <div class="col-sm-6">
+          <h1 class="m-0">Vocabs</h1>
+        </div>
         <div class="col-sm-6">
           <ol class="breadcrumb float-sm-right">
             <li class="breadcrumb-item"><a href="#">Home</a></li>
@@ -21,7 +23,13 @@
       <div class="row">
         <div class="col-md-12">
           <div class="card card-primary">
-            <div class="card-header"><h3 class="card-title">Vocabs</h3></div>
+            <div class="card-header">
+              <h3 class="card-title">Vocabs</h3>
+              <a class="btn btn-light btn-sm float-right text-dark" href='<?= site_url('admin/vocabs/create'); ?>'>
+                <i class="ion ion-plus"></i>
+                Add Vocabs
+              </a>
+            </div>
             <div class="card-body">
               <?php if (!empty($vocabs)): ?>
                 <table id="example2" class="table table-bordered table-hover dataTable dtr-inline">
@@ -44,23 +52,23 @@
                         <?php
                         $languages = ['khmer', 'devanagari', 'roman'];
                         foreach ($languages as $lang):
-                            $audioField = $lang . '_audio';
-                            $inputId = $lang . '-' . $row['id'];
+                          $audioField = $lang . '_audio';
+                          $inputId = $lang . '-' . $row['id'];
                         ?>
-                        <td>
-                          <?= $row[$lang] ?>
-                          <div class="controls">
-                            <button id="recordBtn_<?= $inputId ?>" onclick="startRecording('<?= $inputId ?>')">🎙️</button>
-                            <button id="stopBtn_<?= $inputId ?>" onclick="stopRecording('<?= $inputId ?>')" disabled>⏹️</button>
-                            <button onclick="playPreview('<?= $inputId ?>')">▶️</button>
-                            <button id="saveBtn_<?= $inputId ?>" onclick="saveRecordingVocab('<?= $inputId ?>', <?= $row['id'] ?>, '<?= $audioField ?>')" disabled>💾</button>
-                            <button id="resetBtn_<?= $inputId ?>" onclick="resetRecording('<?= $inputId ?>')" disabled>🔄</button>
-                            <?php if (!empty($row[$audioField])): ?>
-                              <button onclick="deleteRecordingGeneric('vocabs', <?= $row['id'] ?>, '<?= $audioField ?>', '<?= $inputId ?>')">🗑️</button>
-                            <?php endif; ?>
-                          </div>
-                          <audio id="audio_<?= $inputId ?>" controls style="display: <?= !empty($row[$audioField]) ? 'block' : 'none' ?>; margin-top:10px; width:100%;" src="<?= !empty($row[$audioField]) ? base_url('uploads/audio/vocabs/' . $row[$audioField]) : '' ?>"></audio>
-                        </td>
+                          <td>
+                            <?= $row[$lang] ?>
+                            <div class="controls">
+                              <button id="recordBtn_<?= $inputId ?>" onclick="startRecording('<?= $inputId ?>')">🎙️</button>
+                              <button id="stopBtn_<?= $inputId ?>" onclick="stopRecording('<?= $inputId ?>')" disabled>⏹️</button>
+                              <button onclick="playPreview('<?= $inputId ?>')">▶️</button>
+                              <button id="saveBtn_<?= $inputId ?>" onclick="saveRecordingVocab('<?= $inputId ?>', <?= $row['id'] ?>, '<?= $audioField ?>')" disabled>💾</button>
+                              <button id="resetBtn_<?= $inputId ?>" onclick="resetRecording('<?= $inputId ?>')" disabled>🔄</button>
+                              <?php if (!empty($row[$audioField])): ?>
+                                <button onclick="deleteRecordingGeneric('vocabs', <?= $row['id'] ?>, '<?= $audioField ?>', '<?= $inputId ?>')">🗑️</button>
+                              <?php endif; ?>
+                            </div>
+                            <audio id="audio_<?= $inputId ?>" controls style="display: <?= !empty($row[$audioField]) ? 'block' : 'none' ?>; margin-top:10px; width:100%;" src="<?= !empty($row[$audioField]) ? base_url('uploads/audio/vocabs/' . $row[$audioField]) : '' ?>"></audio>
+                          </td>
                         <?php endforeach; ?>
 
                         <td><?= htmlspecialchars($row['ipa']) ?></td>

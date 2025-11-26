@@ -38,7 +38,11 @@ class Frontpage extends MY_Controller {
     function khmerscript()
     {   
         // $data['total_vocab'] = $this->Vocabs_model->get_vocabs_by_serial();
-        $data['total_vocab'] = $this->Vocabs_model->get_vocabs_by_category();
+
+        //---------
+        // $data['total_vocab'] = $this->Vocabs_model->get_vocabs_by_category();
+        // $data['vowel_grp'] = $this->Vocabs_model->get_vowel_group();
+        $data['total_vocab'] = $this->Vocabs_model->get_vocabs_grouped_for_sidebar();
         $data['vowel_grp'] = $this->Vocabs_model->get_vowel_group();
        
          

@@ -85,7 +85,7 @@ function saveRecordingVocab(inputId, vocabs_id, field_name) {
     .then(res => res.text())
     .then(res => {
         alert("Audio saved successfully");
-        location.reload(); // Refresh page
+        // location.reload(); // Refresh page
     })
     .catch(err => console.error(err));
 }

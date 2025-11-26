@@ -55,9 +55,11 @@ $route['translate_uri_dashes'] = FALSE;
 
 $route['admin/dashboard'] = 'admin/dashboard/index';
 $route['admin/vocabs'] = 'admin/vocabs/index';
+$route['admin/vocabs/create'] = 'admin/vocabs/create';
 $route['admin/vocabs/import'] = 'admin/vocabs/importVocabs';
 $route['admin/vocabs/import_csv'] = 'admin/vocabs/import_csv';
 $route['admin/vocabs/upload_audio'] = 'admin/vocabs/upload_audio';
+$route['admin/vocabs/upload_audio_temp'] = 'admin/vocabs/upload_audio_temp';
 $route['admin/vowels'] = 'admin/vowels/index';
 $route['admin/vowels/import'] = 'admin/vowels/importVowels';
 $route['admin/vowels/import_csv'] = 'admin/vowels/import_csv';
@@ -66,6 +68,12 @@ $route['admin/languages'] = 'admin/languages/index';
 $route['admin/languages/add'] = 'admin/languages/add';
 $route['admin/languages/edit/(:any)'] = 'admin/languages/edit/$1';
 $route['admin/login'] = 'login/index';
+
+// Khmer Category admin routes
+$route['admin/khmercategory'] = 'admin/admin_category/index';
+$route['admin/khmercategory/create'] = 'admin/admin_category/create';
+$route['admin/khmercategory/edit/(:any)'] = 'admin/admin_category/edit/$1';
+$route['admin/khmercategory/delete/(:any)'] = 'admin/admin_category/delete/$1';
 
 
 // front page route
