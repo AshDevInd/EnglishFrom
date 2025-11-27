@@ -137,7 +137,20 @@ function deleteRecordingGeneric(type, id, field_name, inputId) {
 
 // DataTable
 $(function() {
-    $('#example2').DataTable({ "paging": true, "lengthChange": false, "searching": false, "ordering": true, "info": true, "autoWidth": false, "responsive": true });
+    $('#example2').DataTable({
+    "paging": true,
+    "lengthChange": false,
+    "searching": true,
+    "ordering": true,
+    "info": true,
+    "autoWidth": false,
+    "responsive": true,
+    "order": [[0, "asc"]], // default sort by Vowel
+    "columnDefs": [
+        { "orderable": false, "targets": "no-sort" }
+    ]
+});
+
 });
 </script>
 </body>

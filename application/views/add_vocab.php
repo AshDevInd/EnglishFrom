@@ -68,6 +68,7 @@
                                         <div class="form-group">
                                             <label>Serial Number <span class="text-danger">*</span></label>
                                             <input type="text" name="serial_number" class="form-control"
+                                                value="<?= isset($row['serial_number']) ? $row['serial_number'] : '' ?>"
                                                 placeholder="Enter serial number (e.g., 34)" required />
                                         </div>
                                     </div>
@@ -78,7 +79,8 @@
                                             <select name="data[parent]" class="form-control" required>
                                                 <option value="0">--- None ---</option>
                                                 <?php foreach ($cats as $cat): ?>
-                                                    <option value="<?= $cat['id'] ?>">
+                                                    <option value="<?= $cat['id'] ?>"
+                                                        <?= (isset($row['category']) && $row['category'] == $cat['id']) ? 'selected' : '' ?>>
                                                         <?= $cat['name'] ?>
                                                     </option>
                                                 <?php endforeach; ?>
@@ -90,6 +92,7 @@
                                         <div class="form-group">
                                             <label>Combination <span class="text-danger">*</span></label>
                                             <input type="text" name="combination" class="form-control"
+                                                value="<?= isset($row['combination']) ? $row['combination'] : '' ?>"
                                                 placeholder="Enter combination (e.g., ក + ា)" required>
                                         </div>
                                     </div>
@@ -98,6 +101,7 @@
                                         <div class="form-group">
                                             <label>Vowel <span class="text-danger">*</span></label>
                                             <input type="text" name="vowel" class="form-control"
+                                                value="<?= isset($row['vowel']) ? $row['vowel'] : '' ?>"
                                                 placeholder="Enter vowel (e.g., ា)" required />
                                         </div>
                                     </div>
@@ -106,6 +110,7 @@
                                         <div class="form-group">
                                             <label>Khmer <span class="text-danger">*</span></label>
                                             <input type="text" name="khmer" class="form-control"
+                                                value="<?= isset($row['khmer']) ? $row['khmer'] : '' ?>"
                                                 placeholder="Enter khmer (e.g., អឿ)" required>
                                         </div>
                                     </div>
@@ -114,6 +119,7 @@
                                         <div class="form-group">
                                             <label>Devanagari <span class="text-danger">*</span></label>
                                             <input type="text" name="devanagari" class="form-control"
+                                                value="<?= isset($row['devanagari']) ? $row['devanagari'] : '' ?>"
                                                 placeholder="Enter devanagari (e.g., उअ)" required>
                                         </div>
                                     </div>
@@ -122,6 +128,7 @@
                                         <div class="form-group">
                                             <label>Roman <span class="text-danger">*</span></label>
                                             <input type="text" name="roman" class="form-control"
+                                                value="<?= isset($row['roman']) ? $row['roman'] : '' ?>"
                                                 placeholder="Enter roman (e.g., Ua)" required>
                                         </div>
                                     </div>
@@ -130,6 +137,7 @@
                                         <div class="form-group">
                                             <label>IPA <span class="text-danger">*</span></label>
                                             <input type="text" name="ipa" class="form-control"
+                                                value="<?= isset($row['ipa']) ? $row['ipa'] : '' ?>"
                                                 placeholder="Enter IPA (e.g., aː)" required>
                                         </div>
                                     </div>
@@ -139,19 +147,23 @@
                                         <div class="form-group">
                                             <label>Khmer Main Audio</label><br>
                                             <div class="form-check form-check-inline">
-                                                <input class="form-check-input" type="radio" name="audio_option" id="audio_record" value="record" checked>
+                                                <input class="form-check-input" type="radio" name="audio_option" id="audio_record"
+                                                    value="record" <?= (!isset($row['khmer_audio']) || empty($row['khmer_audio'])) ? 'checked' : '' ?>>
                                                 <label class="form-check-label" for="audio_record">Record</label>
                                             </div>
                                             <div class="form-check form-check-inline">
-                                                <input class="form-check-input" type="radio" name="audio_option" id="audio_upload" value="upload">
+                                                <input class="form-check-input" type="radio" name="audio_option" id="audio_upload"
+                                                    value="upload" <?= (!empty($row['khmer_audio'])) ? 'checked' : '' ?>>
                                                 <label class="form-check-label" for="audio_upload">Upload</label>
+                                                
                                             </div>
 
                                             <!-- Hidden input to store recorded/uploaded filename -->
-                                            <input type="hidden" name="khmer_audio" id="khmer_audio" value="">
+                                            <input type="hidden" name="khmer_audio" id="khmer_audio"
+                                                value="<?= isset($row['khmer_audio']) ? $row['khmer_audio'] : '' ?>">
 
                                             <!-- Record Section -->
-                                            <div id="record_section" class="mt-2">
+                                            <div id="record_section" class="mt-2" style="<?= (!isset($row['khmer_audio']) || empty($row['khmer_audio'])) ? '' : 'display:none;' ?>">
                                                 <?php
                                                 $audioField = 'khmer_audio';
                                                 $inputId = 'khmer-main';
@@ -178,12 +190,20 @@
                                                         🔄 Reset
                                                     </button>
                                                 </div>
-                                                <audio id="audio_<?= $inputId ?>" controls style="display:none; margin-top:10px; width:100%;"></audio>
+                                                <audio id="audio_<?= $inputId ?>" controls
+                                                    style="display:<?= !empty($row['khmer_audio']) ? 'block' : 'none' ?>; margin-top:10px; width:100%;"
+                                                    src="<?= !empty($row['khmer_audio']) ? base_url('uploads/audio/vocabs/' . $row['khmer_audio']) : '' ?>"></audio>
                                             </div>
 
                                             <!-- Upload Section -->
-                                            <div id="upload_section" class="mt-2" style="display:none;">
+                                            <div id="upload_section" class="mt-2" style="<?= (!empty($row['khmer_audio'])) ? '' : 'display:none;' ?>">
                                                 <input type="file" name="khmer_audio_file" id="khmer_audio_file" class="form-control-file" accept="audio/*">
+                                                <?php if (!empty($row['khmer_audio'])): ?>
+                                                    <small class="text-muted">Current file: <?= $row['khmer_audio'] ?></small>
+                                                    <audio id="audio_<?= $inputId ?>" controls
+                                                    style="display:<?= !empty($row['khmer_audio']) ? 'block' : 'none' ?>; margin-top:10px; width:100%;"
+                                                    src="<?= !empty($row['khmer_audio']) ? base_url('uploads/audio/vocabs/' . $row['khmer_audio']) : '' ?>"></audio>
+                                                <?php endif; ?>
                                             </div>
                                         </div>
                                     </div>
@@ -194,7 +214,8 @@
                                             <label>Khmer My Version (Record Only)</label>
 
                                             <!-- Hidden input to store recorded filename -->
-                                            <input type="hidden" name="khmer_my_version_audio" id="khmer_my_version_audio" value="">
+                                            <input type="hidden" name="khmer_my_version_audio" id="khmer_my_version_audio"
+                                                value="<?= isset($row['khmer_my_version_audio']) ? $row['khmer_my_version_audio'] : '' ?>">
 
                                             <?php
                                             $audioField2 = 'khmer_my_version_audio';
@@ -213,7 +234,7 @@
                                                     onclick="playPreview('<?= $inputId2 ?>')">
                                                     ▶️ Play
                                                 </button>
-                                                <button type="button" class="btn btn-sm btn-success" id="saveBtn_<?= $inputId2 ?>"
+                                                <button type="button" class="btn btn-sm btn.success" id="saveBtn_<?= $inputId2 ?>"
                                                     onclick="saveRecordingVocab('<?= $inputId2 ?>', '<?= $audioField2 ?>')" disabled>
                                                     💾 Save
                                                 </button>
@@ -222,7 +243,9 @@
                                                     🔄 Reset
                                                 </button>
                                             </div>
-                                            <audio id="audio_<?= $inputId2 ?>" controls style="display:none; margin-top:10px; width:100%;"></audio>
+                                            <audio id="audio_<?= $inputId2 ?>" controls
+                                                style="display:<?= !empty($row['khmer_my_version_audio']) ? 'block' : 'none' ?>; margin-top:10px; width:100%;"
+                                                src="<?= !empty($row['khmer_my_version_audio']) ? base_url('uploads/audio/vocabs/' . $row['khmer_my_version_audio']) : '' ?>"></audio>
                                         </div>
                                     </div>
 

@@ -13,9 +13,10 @@ class Vocabs extends Admin_Controller
 
 	function index()
 	{
+		$this->db->where('is_deleted', 0);
 		$query = $this->db->get('vocabs');
 		$data['vocabs'] = $query->result_array();
-		$data['page_title'] = 'Vocabs';
+		$data['page_title'] = 'vocabs';
 		$this->load->view('vocabs', $data);
 	}
 
@@ -127,6 +128,102 @@ class Vocabs extends Admin_Controller
 
 		$this->load->view('add_vocab', $data);
 	}
+
+	public function edit($id)
+	{
+		// Clear old flash on GET
+		if ($this->input->method() != 'post') {
+			$this->session->unset_userdata('message');
+			$this->session->unset_userdata('error');
+		}
+
+		if ($this->input->method() == 'post') {
+			$serial_number = $this->input->post('serial_number');
+			$category      = $this->input->post('data')['parent'];
+			$combination   = $this->input->post('combination');
+			$vowel         = $this->input->post('vowel');
+			$khmer         = $this->input->post('khmer');
+			$devanagari    = $this->input->post('devanagari');
+			$roman         = $this->input->post('roman');
+			$ipa           = $this->input->post('ipa');
+
+			// Get filenames from hidden inputs (may be existing or new temp ones)
+			$khmer_audio            = $this->input->post('khmer_audio');
+			$khmer_my_version_audio = $this->input->post('khmer_my_version_audio');
+
+			// 1) Move MAIN audio from temp to final if it is a new temp file
+			if (!empty($khmer_audio) && strpos($khmer_audio, 'temp_') !== false) {
+				$src  = FCPATH . 'uploads/audio/vocabs/temp/' . $khmer_audio;
+				$dest = FCPATH . 'uploads/audio/vocabs/' . $khmer_audio;
+				if (file_exists($src)) {
+					if (!is_dir(FCPATH . 'uploads/audio/vocabs/')) {
+						mkdir(FCPATH . 'uploads/audio/vocabs/', 0777, true);
+					}
+					rename($src, $dest);
+				}
+			}
+
+			// 2) Move MY VERSION audio from temp to final if it is a new temp file
+			if (!empty($khmer_my_version_audio) && strpos($khmer_my_version_audio, 'temp_') !== false) {
+				$src2  = FCPATH . 'uploads/audio/vocabs/temp/' . $khmer_my_version_audio;
+				$dest2 = FCPATH . 'uploads/audio/vocabs/' . $khmer_my_version_audio;
+				if (file_exists($src2)) {
+					if (!is_dir(FCPATH . 'uploads/audio/vocabs/')) {
+						mkdir(FCPATH . 'uploads/audio/vocabs/', 0777, true);
+					}
+					rename($src2, $dest2);
+				}
+			}
+
+			// Now build data array – filenames are final at this point
+			$data_to_save = [
+				'serial_number'          => $serial_number,
+				'category'               => $category,
+				'combination'            => $combination,
+				'vowel'                  => $vowel,
+				'khmer'                  => $khmer,
+				'devanagari'             => $devanagari,
+				'roman'                  => $roman,
+				'ipa'                    => $ipa,
+				'khmer_audio'            => $khmer_audio,
+				'khmer_my_version_audio' => $khmer_my_version_audio,
+			];
+
+			$this->db->where('id', $id);
+			$this->db->update('vocabs', $data_to_save);
+
+			$this->session->set_flashdata('message', 'Record updated successfully!');
+			redirect(base_url('admin/vocabs/index'));
+			exit;
+		}
+
+		// GET: load form with existing data
+		$row = $this->Vocabs_model->getVocabById($id);
+		if (!$row || (int)$row['is_deleted'] === 1) {
+			show_404();
+		}
+
+		$data['row']       = $row;
+		$data['cats']      = $this->db->order_by('id', 'asc')->get('khmer_category')->result_array();
+		$data['temp_id']   = uniqid('temp_', true);
+		$data['page_title'] = 'Edit Vocab';
+
+		$this->load->view('add_vocab', $data);
+	}
+
+
+	public function soft_delete($id)
+	{
+		// set is_deleted = 1 instead of deleting row
+		$this->db->where('id', $id);
+		$this->db->update('vocabs', ['is_deleted' => 1]);
+
+		$this->session->set_flashdata('message', 'Record deleted successfully!');
+		redirect(base_url('admin/vocabs/index'));
+		exit;
+	}
+
+
 
 	function importVocabs()
 	{
