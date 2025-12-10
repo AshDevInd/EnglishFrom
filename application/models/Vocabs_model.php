@@ -45,35 +45,73 @@ class Vocabs_model extends CI_Model
         return $final_res;
     }
 
+    // public function get_vocabs_by_category()
+    // {
+    //     $this->db->select('category');
+    //     $this->db->from('vocabs');
+    //     $this->db->group_by('category');
+
+    //     // Prioritize series 1 & series 2, then sort others ASC
+    //     $this->db->order_by("CASE 
+    //                         WHEN category = 'Consonant(S1)' THEN 1
+    //                         WHEN category = 'Consonant(S2)' THEN 2
+    //                         ELSE 3 
+    //                      END", 'ASC', false);
+    //     $this->db->order_by('category', 'ASC'); // <--- IMPORTANT FIX
+
+    //     $res = $this->db->get()->result_array();
+    //     $final_res = [];
+
+    //     foreach ($res as $row) {
+    //         $final_res[] = [
+    //             'category' => $row['category'],
+    //             'data' => $this->db->where('category', $row['category'])
+    //                 ->order_by('id', 'ASC')
+    //                 ->get('vocabs')
+    //                 ->result_array()
+    //         ];
+    //     }
+
+    //     return $final_res;
+    // }
+
     public function get_vocabs_by_category()
     {
-        $this->db->select('category');
-        $this->db->from('vocabs');
-        $this->db->group_by('category');
+        $this->db->select('kc.id as category_id, kc.name as category');
+        $this->db->from('vocabs v');
+        $this->db->join('khmer_category kc', 'kc.id = v.category', 'left');
+        $this->db->group_by('kc.id, kc.name');
 
-        // Prioritize series 1 & series 2, then sort others ASC
-        $this->db->order_by("CASE 
-                            WHEN category = 'Consonant(S1)' THEN 1
-                            WHEN category = 'Consonant(S2)' THEN 2
-                            ELSE 3 
-                         END", 'ASC', false);
-        $this->db->order_by('category', 'ASC'); // <--- IMPORTANT FIX
+        $this->db->order_by("
+        CASE 
+            WHEN kc.name = 'Consonant(S1)' THEN 1
+            WHEN kc.name = 'Consonant(S2)' THEN 2
+            ELSE 3
+        END
+    ", 'ASC', false);
+        $this->db->order_by('kc.name', 'ASC');
 
         $res = $this->db->get()->result_array();
         $final_res = [];
 
         foreach ($res as $row) {
             $final_res[] = [
+                'category_id'   => $row['category_id'],
                 'category' => $row['category'],
-                'data' => $this->db->where('category', $row['category'])
-                    ->order_by('id', 'ASC')
-                    ->get('vocabs')
+                'data' => $this->db
+                    ->select('v.*, kc.name as category')
+                    ->from('vocabs v')
+                    ->join('khmer_category kc', 'kc.id = v.category', 'left')
+                    ->where('v.category', $row['category_id'])
+                    ->order_by('v.id', 'ASC')
+                    ->get()
                     ->result_array()
             ];
         }
 
         return $final_res;
     }
+
 
 
 
@@ -87,7 +125,7 @@ class Vocabs_model extends CI_Model
         $res = $qry->result_array();
         return $res;
     }
-    
+
 
     public function get_vocabs_grouped_for_sidebar()
     {
@@ -124,5 +162,4 @@ class Vocabs_model extends CI_Model
         }
         return $main;
     }
-
 }
